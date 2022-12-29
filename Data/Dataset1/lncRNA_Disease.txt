@@ -1,0 +1,4518 @@
+21A	Astrocytoma
+21A	Neoplasms
+21A	Uterine Cervical Neoplasms
+21A	Glioblastoma
+21A	Neuroblastoma
+91H	Breast Neoplasms
+91H	Colorectal Neoplasms
+91H	Osteosarcoma
+AATBC	Urinary Bladder Neoplasms
+AATBC	Nasopharyngeal Neoplasms
+AB019562	Squamous Cell Carcinoma of Head and Neck
+AB019562	Carcinoma Hepatocellular
+AB073614	Uterine Cervical Neoplasms
+AB073614	Carcinoma Ovarian Epithelial
+AB073614	Stomach Neoplasms
+AB073614	Colorectal Neoplasms
+AB073614	Carcinoma Non-Small-Cell Lung
+AB073614	Ovarian Neoplasms
+AB073614	Glioma
+AB209630	Pancreatic Neoplasms
+AB209630	Carcinoma Hepatocellular
+AB209630	Squamous Cell Carcinoma of Head and Neck
+ABHD11-AS1	Stomach Neoplasms
+ABHD11-AS1	Urinary Bladder Neoplasms
+ABHD11-AS1	Endometrial Neoplasms
+ABHD11-AS1	Ovarian Neoplasms
+ABHD11-AS1	Colorectal Neoplasms
+ABHD11-AS1	Thyroid Cancer Papillary
+ABHD11-AS1	Pancreatic Neoplasms
+Abhd11os	Lung Neoplasms
+Abhd11os	Ovarian Neoplasms
+AC003681.1	Astrocytoma
+AC003681.1	Carcinoma Hepatocellular
+AC004528.1	Astrocytoma
+AC004528.1	Carcinoma Hepatocellular
+AC004528.1	Stomach Neoplasms
+AC005696.4	Astrocytoma
+AC005696.4	Stomach Neoplasms
+AC007388.1	Astrocytoma
+AC007743.1	Astrocytoma
+AC007743.1	Telangiectasia Hereditary Hemorrhagic
+AC008392.1	Uterine Cervical Neoplasms
+AC008392.1	Carcinoma Hepatocellular
+AC008691.1	Astrocytoma
+AC008691.1	Carcinoma Non-Small-Cell Lung
+AC022075.3	Astrocytoma
+AC022075.3	Colorectal Neoplasms
+AC022257.1	Astrocytoma
+AC023590.1	Astrocytoma
+AC025263.1	Astrocytoma
+AC025580.1	Astrocytoma
+AC025580.1	Neuroblastoma
+AC025580.3	Astrocytoma
+AC026904.1	Lung Neoplasms
+AC026904.1	Breast Neoplasms
+AC037441.1	Astrocytoma
+AC062028.1	Astrocytoma
+AC062028.1	Liver Neoplasms
+AC068282.1	Astrocytoma
+AC068282.1	Polycystic Ovary Syndrome
+AC087521.1	Pancreatic Neoplasms
+AC087521.1	Seizures
+AC090510.3	Colorectal Neoplasms
+AC090510.3	Crohn Disease
+AC090510.3	Carcinoma Hepatocellular
+AC090510.3	Stomach Neoplasms
+AC091891.2	Breast Neoplasms
+AC091891.2	Colorectal Neoplasms
+AC091891.2	Heart Failure
+AC091891.2	Lung Neoplasms
+AC091891.2	Ovarian Neoplasms
+AC091891.2	Stomach Neoplasms
+AC092802.1	Astrocytoma
+AC100786.1	Astrocytoma
+AC100786.1	Nasopharyngeal Carcinoma
+AC104809.1	Astrocytoma
+AC109322.1	Carcinoma Non-Small-Cell Lung
+AC125807.2	Astrocytoma
+AC125807.2	Carcinoma Hepatocellular
+AC125807.2	Carcinoma Squamous Cell
+AC138128.1	Lung Neoplasms
+AC138128.1	Stomach Neoplasms
+AC139887.2	Astrocytoma
+AC139887.2	Lung Neoplasms
+AC144450.1	Astrocytoma
+AC144450.1	Nasopharyngeal Carcinoma
+AC245452.1	Astrocytoma
+AC245452.1	Heart Diseases
+AC245452.1	Carcinoma Hepatocellular
+ACTN4	Kidney Neoplasms
+ACTN4	Carcinoma Renal Cell
+ADAMTS9-AS1	Glioma
+ADAMTS9-AS1	Carcinoma Ovarian Epithelial
+ADAMTS9-AS1	Prostatic Neoplasms
+ADAMTS9-AS1	Urinary Bladder Neoplasms
+ADAMTS9-AS2	Carcinoma Renal Cell
+ADAMTS9-AS2	Glioma
+ADAMTS9-AS2	Carcinoma Non-Small-Cell Lung
+ADAMTS9-AS2	Stomach Neoplasms
+ADAMTS9-AS2	Breast Neoplasms
+ADAMTS9-AS2	Ovarian Neoplasms
+ADAMTS9-AS2	Carcinoma Adenoid Cystic
+ADAMTS9-AS2	Glioblastoma
+ADAMTS9-AS2	Colorectal Neoplasms
+ADARB2-AS1	Breast Neoplasms
+ADARB2-AS1	Epilepsy Temporal Lobe
+ADPGK-AS1	Colorectal Neoplasms
+ADPGK-AS1	Stomach Neoplasms
+ADPGK-AS1	Breast Neoplasms
+ADPGK-AS1	Pancreatic Neoplasms
+AFAP1-AS1	Neoplasms
+AFAP1-AS1	Cholangiocarcinoma
+AFAP1-AS1	Colorectal Neoplasms
+AFAP1-AS1	Esophageal Squamous Cell Carcinoma
+AFAP1-AS1	Gallbladder Neoplasms
+AFAP1-AS1	Carcinoma Hepatocellular
+AFAP1-AS1	Adenocarcinoma of Lung
+AFAP1-AS1	Lung Neoplasms
+AFAP1-AS1	Nasopharyngeal Carcinoma
+AFAP1-AS1	Carcinoma Non-Small-Cell Lung
+AFAP1-AS1	Ovarian Neoplasms
+AFAP1-AS1	Pancreatic Neoplasms
+AFAP1-AS1	Stomach Neoplasms
+AFAP1-AS1	Thyroid Neoplasms
+AFAP1-AS1	Breast Neoplasms
+AFAP1-AS1	Laryngeal Neoplasms
+AFAP1-AS1	Carcinoma Renal Cell
+AFAP1-AS1	Uterine Cervical Neoplasms
+AFAP1-AS1	Squamous Cell Carcinoma of Head and Neck
+AFAP1-AS1	Prostatic Neoplasms
+AFAP1-AS1	Osteosarcoma
+AFAP1-AS1	Glioma
+AFAP1-AS1	Nasopharyngeal Neoplasms
+AFAP1-AS1	Colonic Neoplasms
+AFAP1-AS1	Triple Negative Breast Neoplasms
+AFAP1-AS1	Retinoblastoma
+AGAP2-AS1	Glioma
+AGAP2-AS1	Carcinoma Non-Small-Cell Lung
+AGAP2-AS1	Stomach Neoplasms
+AGAP2-AS1	Colorectal Neoplasms
+AGAP2-AS1	Esophageal Neoplasms
+AGAP2-AS1	Breast Neoplasms
+AGAP2-AS1	Pancreatic Neoplasms
+AGAP2-AS1	Glioblastoma
+AGAP2-AS1	Carcinoma Hepatocellular
+AGAP2-AS1	Ovarian Neoplasms
+aHIF	Carcinoma Ovarian Epithelial
+aHIF	Glioblastoma
+aHIF	Carcinoma Hepatocellular
+AIRN	Astrocytoma
+AIRN	Wilms Tumor
+AK001058	Colorectal Neoplasms
+AK001058	Stomach Neoplasms
+AK001796	Carcinoma Hepatocellular
+AK001796	Carcinoma Non-Small-Cell Lung
+AK001796	Esophageal Squamous Cell Carcinoma
+AK001796	Lung Neoplasms
+AK023948	Carcinoma Hepatocellular
+AK023948	Thyroid Cancer Papillary
+AK027294	Carcinoma Non-Small-Cell Lung
+AK027294	Nasopharyngeal Neoplasms
+AK027294	Stomach Neoplasms
+AK027294	Colorectal Neoplasms
+AL022322.2	Astrocytoma
+AL022322.2	Lung Neoplasms
+AL031123.2	Astrocytoma
+AL031123.2	Pancreatic Neoplasms
+AL031595.2	Astrocytoma
+AL031710.1	Astrocytoma
+AL031710.1	Thyroid Cancer Papillary
+AL121895.1	Astrocytoma
+AL121895.1	Stomach Neoplasms
+AL139011.1	Astrocytoma
+AL162457.1	Breast Neoplasms
+AL162457.1	Fragile X Syndrome
+AL162457.1	Nervous System Diseases
+AL162457.1	Ovarian Neoplasms
+AL357033.4	Astrocytoma
+AL358334.2	Astrocytoma
+AL358334.2	Carcinoma Hepatocellular
+AL359062	Nasopharyngeal Neoplasms
+AL590666.3	Astrocytoma
+AL590666.3	Colorectal Neoplasms
+AL627422.2	Intervertebral Disc Degeneration
+AL627422.2	Stomach Neoplasms
+ANCR	Carcinoma Non-Small-Cell Lung
+ANCR	Stomach Neoplasms
+ANCR	Carcinoma Hepatocellular
+ANCR	Nasopharyngeal Neoplasms
+ANCR	Glioma
+ANCR	Breast Neoplasms
+ANCR	Colorectal Neoplasms
+ANCR	Osteosarcoma
+ANRASSF1	Breast Neoplasms
+ANRASSF1	Prostatic Neoplasms
+ANRASSF1	Uterine Cervical Neoplasms
+ANRIL	Urinary Bladder Neoplasms
+ANRIL	Osteosarcoma
+ANRIL	Leukemia Myeloid Acute
+ANRIL	Carcinoma Hepatocellular
+ANRIL	Ovarian Neoplasms
+ANRIL	Retinoblastoma
+ANRIL	Breast Neoplasms
+ANRIL	Stomach Neoplasms
+ANRIL	Glioblastoma
+ANRIL	Colorectal Neoplasms
+ANRIL	Leukemia-Lymphoma Adult T-Cell
+ANRIL	Glioma
+ANRIL	Thyroid Cancer Papillary
+ANRIL	Esophageal Neoplasms
+ANRIL	Pancreatic Neoplasms
+ANRIL	Squamous Cell Carcinoma of Head and Neck
+ANRIL	Pancreatic Intraductal Neoplasms
+ANRIL	Neurofibromatosis 1
+ANRIL	Medulloblastoma
+ANRIL	Lung Neoplasms
+ANRIL	Colonic Neoplasms
+ANRIL	Mouth Neoplasms
+ANRIL	Triple Negative Breast Neoplasms
+ANRIL	Carcinoma Renal Cell
+ANRIL	Adenocarcinoma of Lung
+ANRIL	Gallbladder Neoplasms
+ANRIL	Thyroid Neoplasms
+ANRIL	Esophageal Squamous Cell Carcinoma
+ANRIL	Precursor Cell Lymphoblastic Leukemia-Lymphoma
+ANRIL	Prostatic Neoplasms
+ANRIL	Melanoma
+ANRIL	Nasopharyngeal Neoplasms
+ANRIL	Uterine Cervical Neoplasms
+ANRIL	Carcinoma Non-Small-Cell Lung
+anti-NOS2A	Glioblastoma
+anti-NOS2A	Meningioma
+AOC4P	Colonic Neoplasms
+AOC4P	Carcinoma Hepatocellular
+AOC4P	Ovarian Neoplasms
+AOC4P	Carcinoma Non-Small-Cell Lung
+AOC4P	Stomach Neoplasms
+AOC4P	Gastrointestinal Stromal Tumors
+AP002380.1	Astrocytoma
+AP002380.1	Stomach Neoplasms
+APTR	Glioblastoma
+APTR	Liver Cirrhosis
+APTR	Osteosarcoma
+ARAP1-AS1	Stomach Neoplasms
+ARAP1-AS1	Breast Neoplasms
+ARAP1-AS1	Uterine Cervical Neoplasms
+ARAP1-AS1	Colorectal Neoplasms
+ARAP1-AS1	Urinary Bladder Neoplasms
+ASAP1-IT1	Astrocytoma
+ASAP1-IT1	Carcinoma Non-Small-Cell Lung
+ASAP1-IT1	Ovarian Neoplasms
+ASAP1-IT1	Carcinoma Ovarian Epithelial
+ASAP1-IT1	Cholangiocarcinoma
+ASAP1-IT1	Urinary Bladder Neoplasms
+ASB16-AS1	Uterine Cervical Neoplasms
+ASB16-AS1	Osteosarcoma
+ASB16-AS1	Glioma
+ASB16-AS1	Carcinoma Hepatocellular
+ASBEL	Osteosarcoma
+ASBEL	Breast Neoplasms
+ATB	Breast Neoplasms
+ATB	Esophageal Squamous Cell Carcinoma
+ATB	Keloid
+ATB	Glioma
+ATB	Prostatic Neoplasms
+ATB	Carcinoma Non-Small-Cell Lung
+ATB	Melanoma
+ATB	Uterine Cervical Neoplasms
+ATB	Carcinoma Hepatocellular
+ATB	Cholangiocarcinoma
+ATB	Lung Neoplasms
+ATB	Carcinoma Renal Cell
+ATB	Colorectal Neoplasms
+ATP6V1G2-DDX39B	Cardiomyopathy Dilated
+ATP6V1G2-DDX39B	Cardiomyopathy Hypertrophic
+AWPPH	Glioma
+AWPPH	Carcinoma Non-Small-Cell Lung
+AWPPH	Ovarian Neoplasms
+AWPPH	Osteosarcoma
+AWPPH	Triple Negative Breast Neoplasms
+AWPPH	Colonic Neoplasms
+AWPPH	Stomach Neoplasms
+AWPPH	Urinary Bladder Neoplasms
+AWPPH	Carcinoma Hepatocellular
+B3GALT5-AS1	Colorectal Neoplasms
+B3GALT5-AS1	Colonic Neoplasms
+B3GALT5-AS1	Stomach Neoplasms
+BAALC-AS1	Astrocytoma
+BACE1-AS	Alzheimer Disease
+BACE1-AS	Colonic Neoplasms
+BACE1-AS	Heart Failure
+BACE1-AS	Myositis Inclusion Body
+BACE1-AS	Ovarian Neoplasms
+BAIAP2-AS1	Carcinoma Hepatocellular
+BALR-2	Precursor Cell Lymphoblastic Leukemia-Lymphoma
+BANCR	Colorectal Neoplasms
+BANCR	Eosinophilic Esophagitis
+BANCR	Esophageal Squamous Cell Carcinoma
+BANCR	Gastrointestinal Neoplasms
+BANCR	Carcinoma Hepatocellular
+BANCR	Lung Neoplasms
+BANCR	Melanoma
+BANCR	Carcinoma Non-Small-Cell Lung
+BANCR	Osteosarcoma
+BANCR	Thyroid Cancer Papillary
+BANCR	Retinoblastoma
+BANCR	Stomach Neoplasms
+BANCR	Urinary Bladder Neoplasms
+BANCR	Thyroid Neoplasms
+BANCR	Pancreatic Neoplasms
+BANCR	Carcinoma Renal Cell
+BANCR	Squamous Cell Carcinoma of Head and Neck
+BANCR	Endometrial Neoplasms
+BANCR	Breast Neoplasms
+BC029135	Carcinoma Renal Cell
+BC029135	Colorectal Neoplasms
+BC032469	Stomach Neoplasms
+BC032469	Esophageal Squamous Cell Carcinoma
+BC040587	Stomach Neoplasms
+BC040587	Breast Neoplasms
+BC040587	Osteosarcoma
+BC200	Carcinoma Non-Small-Cell Lung
+BC200	Carcinoma Hepatocellular
+BC200	Esophageal Neoplasms
+BC200	Triple Negative Breast Neoplasms
+BC200	Esophageal Squamous Cell Carcinoma
+BC200	Uterine Cervical Neoplasms
+BC200	Parotid Neoplasms
+BC200	Tongue Neoplasms
+BC200	Glioma
+BC200	Colonic Neoplasms
+BC200	Lung Neoplasms
+BC200	Ovarian Neoplasms
+BC200	Breast Neoplasms
+BCAR4	Breast Neoplasms
+BCAR4	Uterine Cervical Neoplasms
+BCAR4	Chondrosarcoma
+BCAR4	Colonic Neoplasms
+BCAR4	Colorectal Neoplasms
+BCAR4	Carcinoma Non-Small-Cell Lung
+BCAR4	Osteosarcoma
+BCAR4	Stomach Neoplasms
+BCAR4	Liver Neoplasms
+BCAR4	Urinary Bladder Neoplasms
+BCAR4	Glioma
+BCAR4	Prostatic Neoplasms
+BCYRN1	Aging
+BCYRN1	Alzheimer Disease
+BCYRN1	Astrocytoma
+BCYRN1	Breast Neoplasms
+BCYRN1	Neoplasms
+BCYRN1	Uterine Cervical Neoplasms
+BCYRN1	Colonic Neoplasms
+BCYRN1	Esophageal Neoplasms
+BCYRN1	Glioblastoma
+BCYRN1	Lung Neoplasms
+BCYRN1	Glioma
+BCYRN1	Carcinoma Non-Small-Cell Lung
+BCYRN1	Ovarian Neoplasms
+BCYRN1	Parotid Neoplasms
+BCYRN1	Carcinoma Squamous Cell
+BCYRN1	Tongue Neoplasms
+BCYRN1	Colorectal Neoplasms
+BCYRN1	Carcinoma Hepatocellular
+BCYRN1	Stomach Neoplasms
+BDNF-AS	Depression
+BDNF-AS	Huntington Disease
+BDNF-AS	Mental Disorders
+BDNF-AS	Obesity
+BDNF-AS	Retinoblastoma
+BDNF-AS	Schizophrenia
+BDNF-AS	Seizures
+BDNF-AS	Glioblastoma
+BDNF-AS	Colorectal Neoplasms
+BDNF-AS	Osteosarcoma
+BDNF-AS	Prostatic Neoplasms
+BLACAT1	Neoplasms
+BLACAT1	Uterine Cervical Neoplasms
+BLACAT1	Colorectal Neoplasms
+BLACAT1	Adenocarcinoma of Lung
+BLACAT1	Carcinoma Non-Small-Cell Lung
+BLACAT1	Stomach Neoplasms
+BLACAT1	Urinary Bladder Neoplasms
+BLACAT1	Ovarian Neoplasms
+BLACAT1	Breast Neoplasms
+BLACAT1	Prostatic Neoplasms
+BLACAT1	Squamous Cell Carcinoma of Head and Neck
+BLACAT1	Carcinoma Hepatocellular
+BLACAT1	Glioma
+BLACAT1	Small Cell Lung Carcinoma
+BLACAT1	Thyroid Cancer Papillary
+BLACAT2	Stomach Neoplasms
+BLACAT2	Colorectal Neoplasms
+BM742401	Leukemia Lymphocytic Chronic B-Cell
+BM742401	Stomach Neoplasms
+BOKAS	Esophageal Squamous Cell Carcinoma
+BOKAS	Testicular Neoplasms
+BOK-AS1	Neoplasms
+BOK-AS1	Carcinoma Squamous Cell
+BOK-AS1	Testicular Neoplasms
+BORG	Colorectal Neoplasms
+BORG	Triple Negative Breast Neoplasms
+BORG	Breast Neoplasms
+BRE-AS1	Prostatic Neoplasms
+BRE-AS1	Carcinoma Non-Small-Cell Lung
+BX357664	Colorectal Neoplasms
+BX357664	Lung Neoplasms
+BX357664	Carcinoma Non-Small-Cell Lung
+BX357664	Carcinoma Renal Cell
+C14orf132	Carcinoma Hepatocellular
+C14orf132	Carcinoma Non-Small-Cell Lung
+C21orf62-AS1	Astrocytoma
+C21orf62-AS1	Carcinoma Renal Cell
+C5orf66-AS1	Esophageal Squamous Cell Carcinoma
+C5orf66-AS1	Squamous Cell Carcinoma of Head and Neck
+C5orf66-AS1	Carcinoma Squamous Cell
+C5orf66-AS1	Urinary Bladder Neoplasms
+C5orf66-AS1	Stomach Neoplasms
+C5orf66-AS1	Uterine Cervical Neoplasms
+CACNA1G-AS1	Carcinoma Hepatocellular
+CACNA1G-AS1	Colorectal Neoplasms
+CACNA1G-AS1	Carcinoma Non-Small-Cell Lung
+CACS15	Ovarian Neoplasms
+CACS15	Squamous Cell Carcinoma of Head and Neck
+CACS15	Colorectal Neoplasms
+CADM1-AS1	Carcinoma Hepatocellular
+CADM1-AS1	Stomach Neoplasms
+CADM1-AS1	Carcinoma Renal Cell
+CADM3-AS1	Astrocytoma
+CADM3-AS1	Urinary Bladder Neoplasms
+CAHM	Astrocytoma
+CAHM	Colorectal Neoplasms
+CALML3-AS1	Urinary Bladder Neoplasms
+CALML3-AS1	Uterine Cervical Neoplasms
+CAR10	Uterine Cervical Neoplasms
+CAR10	Adenocarcinoma of Lung
+CAR10	Carcinoma Non-Small-Cell Lung
+CARLo-5	Stomach Neoplasms
+CARLo-5	Endometrial Neoplasms
+CARLo-5	Carcinoma Hepatocellular
+CASC11	Astrocytoma
+CASC11	Colorectal Neoplasms
+CASC11	Carcinoma Hepatocellular
+CASC11	Small Cell Lung Carcinoma
+CASC11	Urinary Bladder Neoplasms
+CASC11	Osteosarcoma
+CASC11	Esophageal Neoplasms
+CASC11	Glioma
+CASC11	Stomach Neoplasms
+CASC11	Lung Neoplasms
+CASC11	Uterine Cervical Neoplasms
+CASC15	Astrocytoma
+CASC15	Carcinoma Basal Cell
+CASC15	Carcinoma Hepatocellular
+CASC15	Melanoma
+CASC15	Neuroblastoma
+CASC15	Stomach Neoplasms
+CASC15	Uterine Cervical Neoplasms
+CASC15	Urinary Bladder Neoplasms
+CASC15	Glioma
+CASC15	Nasopharyngeal Neoplasms
+CASC15	Ovarian Neoplasms
+CASC15	Carcinoma Non-Small-Cell Lung
+CASC15	Breast Neoplasms
+CASC15	Prostatic Neoplasms
+CASC15	Leukemia Myeloid Acute
+CASC19	Carcinoma Renal Cell
+CASC19	Colorectal Neoplasms
+CASC19	Stomach Neoplasms
+CASC19	Carcinoma Non-Small-Cell Lung
+CASC2	Astrocytoma
+CASC2	Breast Neoplasms
+CASC2	Neoplasms
+CASC2	Colorectal Neoplasms
+CASC2	Endometrial Neoplasms
+CASC2	Glioma
+CASC2	Carcinoma Hepatocellular
+CASC2	Adenocarcinoma of Lung
+CASC2	Lung Neoplasms
+CASC2	Osteosarcoma
+CASC2	Pancreatic Neoplasms
+CASC2	Prostatic Neoplasms
+CASC2	Carcinoma Renal Cell
+CASC2	Stomach Neoplasms
+CASC2	Thyroid Neoplasms
+CASC2	Squamous Cell Carcinoma of Head and Neck
+CASC2	Esophageal Squamous Cell Carcinoma
+CASC2	Carcinoma Non-Small-Cell Lung
+CASC2	Uterine Cervical Neoplasms
+CASC2	Carcinoma Ovarian Epithelial
+CASC2	Thyroid Cancer Papillary
+CASC2	Nasopharyngeal Neoplasms
+CASC2	Melanoma
+CASC2	Esophageal Neoplasms
+CASC2	Urinary Bladder Neoplasms
+CASC21	Colorectal Neoplasms
+CASC21	Colonic Neoplasms
+CASC2c	Astrocytoma
+CASC2c	Glioblastoma
+CASC2c	Carcinoma Non-Small-Cell Lung
+CASC7	Neuroblastoma
+CASC7	Glioma
+CASC7	Colonic Neoplasms
+CASC8	Colorectal Neoplasms
+CASC8	Lung Neoplasms
+CASC8	Urinary Bladder Neoplasms
+CASC8	Esophageal Neoplasms
+CASC9	Esophageal Neoplasms
+CASC9	Esophageal Squamous Cell Carcinoma
+CASC9	Nasopharyngeal Carcinoma
+CASC9	Carcinoma Non-Small-Cell Lung
+CASC9	Carcinoma Squamous Cell
+CASC9	Stomach Neoplasms
+CASC9	Colorectal Neoplasms
+CASC9	Carcinoma Hepatocellular
+CASC9	Breast Neoplasms
+CASC9	Thyroid Cancer Papillary
+CASC9	Nasopharyngeal Neoplasms
+CASC9	Lung Neoplasms
+CASC9	Laryngeal Neoplasms
+CASC9	Uterine Cervical Neoplasms
+CASC9	Squamous Cell Carcinoma of Head and Neck
+CASC9	Hemangioma
+CASC9	Adenocarcinoma of Lung
+CASC9	Carcinoma Hepatocellular
+CASC9	Glioma
+CAT104	Breast Neoplasms
+CAT104	Stomach Neoplasms
+CAT104	Osteosarcoma
+CBR3-AS1	Carcinoma
+CBR3-AS1	Colorectal Neoplasms
+CBR3-AS1	Glioma
+CBR3-AS1	Carcinoma Hepatocellular
+CBR3-AS1	Inflammatory Bowel Diseases
+CBR3-AS1	Prostate
+CBR3-AS1	Prostatic Neoplasms
+CBR3-AS1	Carcinoma Squamous Cell
+CBR3-AS1	Stomach Neoplasms
+CBR3-AS1	Osteosarcoma
+CCAL	Colorectal Neoplasms
+CCAL	Carcinoma Hepatocellular
+CCAL	Osteosarcoma
+CCAL	Stomach Neoplasms
+CCAL	Thyroid Cancer Papillary
+CCAL	Ovarian Neoplasms
+CCAT1	Leukemia Myeloid Acute
+CCAT1	Breast Neoplasms
+CCAT1	Neoplasms
+CCAT1	Uterine Cervical Neoplasms
+CCAT1	Colonic Neoplasms
+CCAT1	Colorectal Neoplasms
+CCAT1	Endometrial Neoplasms
+CCAT1	Esophageal Squamous Cell Carcinoma
+CCAT1	Gallbladder Neoplasms
+CCAT1	Glioma
+CCAT1	Carcinoma Hepatocellular
+CCAT1	Cholangiocarcinoma
+CCAT1	Squamous Cell Carcinoma of Head and Neck
+CCAT1	Adenocarcinoma of Lung
+CCAT1	Lung Neoplasms
+CCAT1	Medulloblastoma
+CCAT1	Multiple Myeloma
+CCAT1	Nasopharyngeal Carcinoma
+CCAT1	Carcinoma Non-Small-Cell Lung
+CCAT1	Osteosarcoma
+CCAT1	Ovarian Neoplasms
+CCAT1	Carcinoma Ovarian Epithelial
+CCAT1	Pancreatic Neoplasms
+CCAT1	Carcinoma Renal Cell
+CCAT1	Retinoblastoma
+CCAT1	Stomach Neoplasms
+CCAT1	Prostatic Neoplasms
+CCAT1	Nasopharyngeal Neoplasms
+CCAT1	Thyroid Neoplasms
+CCAT1	Esophageal Neoplasms
+CCAT1	Urinary Bladder Neoplasms
+CCAT1	Triple Negative Breast Neoplasms
+CCAT1	Melanoma
+CCAT2	Breast Neoplasms
+CCAT2	Neoplasms
+CCAT2	Uterine Cervical Neoplasms
+CCAT2	Cholangiocarcinoma
+CCAT2	Colonic Neoplasms
+CCAT2	Colorectal Neoplasms
+CCAT2	Glioma
+CCAT2	Carcinoma Hepatocellular
+CCAT2	Lung Neoplasms
+CCAT2	Carcinoma Non-Small-Cell Lung
+CCAT2	Squamous Cell Carcinoma of Head and Neck
+CCAT2	Osteosarcoma
+CCAT2	Ovarian Neoplasms
+CCAT2	Carcinoma Ovarian Epithelial
+CCAT2	Pituitary Neoplasms
+CCAT2	Prostatic Neoplasms
+CCAT2	Carcinoma Renal Cell
+CCAT2	Carcinoma Squamous Cell
+CCAT2	Stomach Neoplasms
+CCAT2	Urinary Bladder Neoplasms
+CCAT2	Leukemia Myeloid Acute
+CCAT2	Triple Negative Breast Neoplasms
+CCAT2	Esophageal Neoplasms
+CCAT2	Endometrial Neoplasms
+CCAT2	Small Cell Lung Carcinoma
+CCAT2	Esophageal Squamous Cell Carcinoma
+CCDC144NL-AS1	Astrocytoma
+CCDC144NL-AS1	Cardiomegaly
+CCDC144NL-AS1	Urinary Bladder Neoplasms
+CCDC26	Leukemia Myeloid Acute
+CCDC26	Astrocytoma
+CCDC26	Breast Neoplasms
+CCDC26	Gastrointestinal Stromal Tumors
+CCDC26	Hematologic Neoplasms
+CCDC26	Glioma
+CCDC26	Pancreatic Neoplasms
+CCEPR	Uterine Cervical Neoplasms
+CCEPR	Carcinoma Hepatocellular
+CCEPR	Urinary Bladder Neoplasms
+CCEPR	Osteosarcoma
+CCHE1	Squamous Cell Carcinoma of Head and Neck
+CCHE1	Stomach Neoplasms
+CCHE1	Colorectal Neoplasms
+CCHE1	Uterine Cervical Neoplasms
+CCHE1	Carcinoma Non-Small-Cell Lung
+CCHE1	Carcinoma Hepatocellular
+CCND1	Neoplasms
+CCND1	Uterine Cervical Neoplasms
+CCND2-AS1	Glioma
+CCND2-AS1	Thyroid Cancer Papillary
+CDKN2B	Coronary Artery Disease
+CDKN2B	Ovarian Neoplasms
+CDKN2BAS	Carcinoma Hepatocellular
+CDKN2BAS	Glioblastoma
+CDKN2B-AS1	Aortic Aneurysm Abdominal
+CDKN2B-AS1	Precursor Cell Lymphoblastic Leukemia-Lymphoma
+CDKN2B-AS1	Leukemia Myeloid Acute
+CDKN2B-AS1	Alzheimer Disease
+CDKN2B-AS1	Aortic Aneurysm
+CDKN2B-AS1	Atherosclerosis
+CDKN2B-AS1	Astrocytoma
+CDKN2B-AS1	Carcinoma Basal Cell
+CDKN2B-AS1	Breast Neoplasms
+CDKN2B-AS1	Neoplasms
+CDKN2B-AS1	Cardiovascular Diseases
+CDKN2B-AS1	Carotid Stenosis
+CDKN2B-AS1	Uterine Cervical Neoplasms
+CDKN2B-AS1	Colorectal Neoplasms
+CDKN2B-AS1	Heart Failure
+CDKN2B-AS1	Coronary Artery Disease
+CDKN2B-AS1	Diabetes Mellitus
+CDKN2B-AS1	Endometriosis
+CDKN2B-AS1	Esophageal Neoplasms
+CDKN2B-AS1	Frailty
+CDKN2B-AS1	Gallbladder Neoplasms
+CDKN2B-AS1	Glaucoma
+CDKN2B-AS1	Glioma
+CDKN2B-AS1	Carcinoma Hepatocellular
+CDKN2B-AS1	Hypertension
+CDKN2B-AS1	Intracranial Aneurysm
+CDKN2B-AS1	Squamous Cell Carcinoma of Head and Neck
+CDKN2B-AS1	Leukemia
+CDKN2B-AS1	Lung Neoplasms
+CDKN2B-AS1	Medulloblastoma
+CDKN2B-AS1	Melanoma
+CDKN2B-AS1	Mouth Neoplasms
+CDKN2B-AS1	Primary Myelofibrosis
+CDKN2B-AS1	Myocardial Infarction
+CDKN2B-AS1	Nasopharyngeal Carcinoma
+CDKN2B-AS1	Neoplasms Nerve Tissue
+CDKN2B-AS1	Neurofibromatoses
+CDKN2B-AS1	Neurofibromatosis 1
+CDKN2B-AS1	Carcinoma Non-Small-Cell Lung
+CDKN2B-AS1	Osteosarcoma
+CDKN2B-AS1	Ovarian Neoplasms
+CDKN2B-AS1	Pancreatic Neoplasms
+CDKN2B-AS1	Periodontitis
+CDKN2B-AS1	Peripheral Arterial Disease
+CDKN2B-AS1	Neurofibroma Plexiform
+CDKN2B-AS1	Glaucoma Open-Angle
+CDKN2B-AS1	Prostate
+CDKN2B-AS1	Prostatic Neoplasms
+CDKN2B-AS1	Prostatic Hyperplasia
+CDKN2B-AS1	Carcinoma Squamous Cell
+CDKN2B-AS1	Stomach Neoplasms
+CDKN2B-AS1	Stroke
+CDKN2B-AS1	Thyroid Neoplasms
+CDKN2B-AS1	Triple Negative Breast Neoplasms
+CDKN2B-AS1	Diabetes Mellitus Type 2
+CDKN2B-AS1	Urinary Bladder Neoplasms
+CDKN2B-AS1	Liver Neoplasms
+CDKN2B-AS1	Esophageal Squamous Cell Carcinoma
+CEBPA-AS1	Squamous Cell Carcinoma of Head and Neck
+CEBPA-AS1	Stomach Neoplasms
+CEBPA-AS1	Osteosarcoma
+CEBPA-AS1	Adenocarcinoma of Lung
+CEBPA-AS1	Liver Neoplasms
+CERNA2	Breast Neoplasms
+CERNA2	Ovarian Neoplasms
+CERNA2	Carcinoma Ovarian Epithelial
+CFLAR-AS1	Astrocytoma
+CFLAR-AS1	Esophageal Squamous Cell Carcinoma
+CHIAP2	Adenocarcinoma of Lung
+CHRF	Cardiomegaly
+CHRF	Silicosis
+CHRF	Stomach Neoplasms
+CHRF	Adenocarcinoma of Lung
+CHRF	Colorectal Neoplasms
+CLMAT3	Astrocytoma
+CLMAT3	Colorectal Neoplasms
+CPS1-IT1	Carcinoma Hepatocellular
+CPS1-IT1	Cholangiocarcinoma
+CPS1-IT1	Lung Neoplasms
+CPS1-IT1	Carcinoma Ovarian Epithelial
+CPS1-IT1	Glioma
+CPS1-IT1	Klatskin Tumor
+CPS1-IT1	Ovarian Neoplasms
+CPS1-IT1	Colorectal Neoplasms
+CRNDE	Breast Neoplasms
+CRNDE	Uterine Cervical Neoplasms
+CRNDE	Medulloblastoma
+CRNDE	Leukemia Lymphocytic Chronic B-Cell
+CRNDE	Colorectal Neoplasms
+CRNDE	Gallbladder Neoplasms
+CRNDE	Glioma
+CRNDE	Hepatoblastoma
+CRNDE	Carcinoma Hepatocellular
+CRNDE	Ovarian Neoplasms
+CRNDE	Pancreatic Neoplasms
+CRNDE	Carcinoma Renal Cell
+CRNDE	Stomach Neoplasms
+CRNDE	Thyroid Cancer Papillary
+CRNDE	Wilms Tumor
+CRNDE	Prostatic Neoplasms
+CRNDE	Carcinoma Non-Small-Cell Lung
+CRNDE	Osteosarcoma
+CRNDE	Melanoma
+CRNDE	Liver Neoplasms
+CRNDE	Cholangiocarcinoma
+CRNDE	Urinary Bladder Neoplasms
+CRNDE	Multiple Myeloma
+CRNDE	Leukemia Myeloid Acute
+CRNDE	Adenocarcinoma of Lung
+CRYBG3	Lung Neoplasms
+CTBP1-AS	Prostate
+CTBP1-AS	Prostatic Neoplasms
+CTC-276P9.1	Urinary Bladder Neoplasms
+CTC-276P9.1	Esophageal Squamous Cell Carcinoma
+CTD-2574D22.4	Carcinoma Hepatocellular
+CTD-2574D22.4	Osteoarthritis
+CUDR	Carcinoma Hepatocellular
+CUDR	Lung Neoplasms
+CYTOR	Astrocytoma
+CYTOR	Breast Neoplasms
+CYTOR	Neoplasms
+CYTOR	Colonic Neoplasms
+CYTOR	Colorectal Neoplasms
+CYTOR	Esophageal Squamous Cell Carcinoma
+CYTOR	Gallbladder Neoplasms
+CYTOR	Glioblastoma
+CYTOR	Glioma
+CYTOR	Squamous Cell Carcinoma of Head and Neck
+CYTOR	Carcinoma Hepatocellular
+CYTOR	Adenocarcinoma of Lung
+CYTOR	Pancreatic Neoplasms
+CYTOR	Carcinoma Renal Cell
+CYTOR	Stomach Neoplasms
+CYTOR	Triple Negative Breast Neoplasms
+CYTOR	Carcinoma Non-Small-Cell Lung
+DANCR	Astrocytoma
+DANCR	Bone Diseases
+DANCR	Brain Neoplasms
+DANCR	Breast Neoplasms
+DANCR	Colorectal Neoplasms
+DANCR	Carcinoma Hepatocellular
+DANCR	Carcinoma Non-Small-Cell Lung
+DANCR	Osteosarcoma
+DANCR	Prostatic Neoplasms
+DANCR	Carcinoma Renal Cell
+DANCR	Stomach Neoplasms
+DANCR	Triple Negative Breast Neoplasms
+DANCR	Uterine Cervical Neoplasms
+DANCR	Glioma
+DANCR	Esophageal Neoplasms
+DANCR	Esophageal Squamous Cell Carcinoma
+DANCR	Cholangiocarcinoma
+DANCR	Thyroid Cancer Papillary
+DANCR	Nasopharyngeal Neoplasms
+DANCR	Ovarian Neoplasms
+DANCR	Pancreatic Neoplasms
+DANCR	Endometrial Neoplasms
+DANCR	Colonic Neoplasms
+DANCR	Urinary Bladder Neoplasms
+DANCR	Adenocarcinoma of Lung
+DANCR	Lung Neoplasms
+DANCR	Retinoblastoma
+DANCR	Glioblastoma
+DAOA-AS1	Bipolar Disorder
+DAOA-AS1	Panic Disorder
+DAOA-AS1	Schizophrenia
+DARS-AS1	Ovarian Neoplasms
+DARS-AS1	Thyroid Neoplasms
+DBET	Muscular Dystrophy Duchenne
+DBET	Muscular Dystrophy Facioscapulohumeral
+DBH-AS1	Carcinoma Hepatocellular
+DBH-AS1	Neuroblastoma
+DBH-AS1	Osteosarcoma
+DCST1-AS1	Endometrial Neoplasms
+DCST1-AS1	Stomach Neoplasms
+DCST1-AS1	Triple Negative Breast Neoplasms
+DCST1-AS1	Carcinoma Hepatocellular
+DCTN1-AS1	Astrocytoma
+DCTN1-AS1	Thyroid Cancer Papillary
+DDX11-AS1	Osteosarcoma
+DDX11-AS1	Esophageal Neoplasms
+DDX11-AS1	Stomach Neoplasms
+DDX11-AS1	Carcinoma Non-Small-Cell Lung
+DDX11-AS1	Carcinoma Hepatocellular
+DDX11-AS1	Colorectal Neoplasms
+DGCR5	Astrocytoma
+DGCR5	DiGeorge Syndrome
+DGCR5	Glioblastoma
+DGCR5	Carcinoma Hepatocellular
+DGCR5	Huntington Disease
+DGCR5	Adenocarcinoma of Lung
+DGCR5	Lung Neoplasms
+DGCR5	Carcinoma Renal Cell
+DGCR5	Carcinoma Non-Small-Cell Lung
+DGCR5	Laryngeal Neoplasms
+DGCR5	Prostatic Neoplasms
+DGCR5	Urinary Bladder Neoplasms
+DGCR5	Colorectal Neoplasms
+DGCR5	Thyroid Neoplasms
+DGCR5	Uterine Cervical Neoplasms
+DGCR5	Stomach Neoplasms
+DILC	Colorectal Neoplasms
+DILC	Gallbladder Neoplasms
+DISC1	Schizophrenia
+DISC2	Astrocytoma
+DISC2	Autism Spectrum Disorder
+DISC2	Bipolar Disorder
+DISC2	Depression
+DISC2	Depressive Disorder Major
+DISC2	Mood Disorders
+DISC2	Psychotic Disorders
+DISC2	Schizophrenia
+DLEU1	Breast Neoplasms
+DLEU1	Leukemia Lymphocytic Chronic B-Cell
+DLEU1	Carcinoma Ovarian Epithelial
+DLEU1	Stomach Neoplasms
+DLEU1	Glioblastoma
+DLEU1	Endometrial Neoplasms
+DLEU1	Nasopharyngeal Neoplasms
+DLEU1	Carcinoma Renal Cell
+DLEU1	Urinary Bladder Neoplasms
+DLEU1	Colorectal Neoplasms
+DLEU1	Squamous Cell Carcinoma of Head and Neck
+DLEU1	Uterine Cervical Neoplasms
+DLEU1	Carcinoma Non-Small-Cell Lung
+DLEU1	Osteosarcoma
+DLEU1	Glioma
+DLEU1	Carcinoma Hepatocellular
+DLEU1	Ovarian Neoplasms
+DLEU2	Astrocytoma
+DLEU2	Leukemia Lymphocytic Chronic B-Cell
+DLEU2	Laryngeal Neoplasms
+DLEU2	Leukemia Lymphoid
+DLEU2	Lymphoma
+DLEU2	Pancreatic Neoplasms
+DLEU2	Carcinoma Hepatocellular
+DLEU2	Carcinoma Non-Small-Cell Lung
+DLEU2	Stomach Neoplasms
+DLEU2	Osteosarcoma
+DLEU2	Esophageal Neoplasms
+DLG1-AS1	Astrocytoma
+DLG1-AS1	Thyroid Cancer Papillary
+DLG1-AS1	Uterine Cervical Neoplasms
+DLX6-AS1	Astrocytoma
+DLX6-AS1	Adenocarcinoma of Lung
+DLX6-AS1	Nervous System Diseases
+DLX6-AS1	Esophageal Squamous Cell Carcinoma
+DLX6-AS1	Uterine Cervical Neoplasms
+DLX6-AS1	Sarcoma Ewing
+DLX6-AS1	Breast Neoplasms
+DLX6-AS1	Laryngeal Neoplasms
+DLX6-AS1	Neuroblastoma
+DLX6-AS1	Stomach Neoplasms
+DLX6-AS1	Nasopharyngeal Neoplasms
+DLX6-AS1	Osteosarcoma
+DLX6-AS1	Liver Neoplasms
+DLX6-AS1	Thyroid Neoplasms
+DLX6-AS1	Pancreatic Neoplasms
+DLX6-AS1	Colorectal Neoplasms
+DLX6-AS1	Ovarian Neoplasms
+DLX6-AS1	Carcinoma Non-Small-Cell Lung
+DLX6-AS1	Glioma
+DLX6-AS1	Carcinoma Renal Cell
+DLX6-AS1	Adrenocortical Carcinoma
+DLX6-AS1	Carcinoma Hepatocellular
+DNM3OS	Ovarian Neoplasms
+DNM3OS	Carcinoma Ovarian Epithelial
+DNM3OS	Stomach Neoplasms
+DNM3OS	Esophageal Squamous Cell Carcinoma
+DPP10-AS1	Breast Neoplasms
+DPP10-AS1	Colorectal Neoplasms
+DQ786243	Ovarian Neoplasms
+DQ786243	Stomach Neoplasms
+DQ786243	Colorectal Neoplasms
+DQ786243	Carcinoma Hepatocellular
+DRAIC	Breast Neoplasms
+DRAIC	Carcinoma Hepatocellular
+DRAIC	Adenocarcinoma of Lung
+DRAIC	Prostatic Neoplasms
+DRAIC	Carcinoma Renal Cell
+DRAIC	Urinary Bladder Neoplasms
+DRAIC	Stomach Neoplasms
+DRAIC	Nasopharyngeal Neoplasms
+DSCAM-AS1	Breast Neoplasms
+DSCAM-AS1	Uterine Cervical Neoplasms
+DSCAM-AS1	Colorectal Neoplasms
+DSCAM-AS1	Carcinoma Non-Small-Cell Lung
+DSCAM-AS1	Lung Neoplasms
+DSCAM-AS1	Ovarian Neoplasms
+DSCAM-AS1	Melanoma
+DSCAM-AS1	Carcinoma Hepatocellular
+DUXAP10	Colorectal Neoplasms
+DUXAP10	Ovarian Neoplasms
+DUXAP10	Prostatic Neoplasms
+DUXAP10	Carcinoma Hepatocellular
+DUXAP10	Esophageal Squamous Cell Carcinoma
+DUXAP10	Urinary Bladder Neoplasms
+DUXAP10	Pancreatic Neoplasms
+DUXAP10	Carcinoma Non-Small-Cell Lung
+DUXAP8	Carcinoma Renal Cell
+DUXAP8	Stomach Neoplasms
+DUXAP8	Carcinoma Hepatocellular
+DUXAP8	Urinary Bladder Neoplasms
+DUXAP8	Esophageal Squamous Cell Carcinoma
+DUXAP8	Mouth Neoplasms
+DUXAP8	Carcinoma Non-Small-Cell Lung
+DUXAP8	Colorectal Neoplasms
+DUXAP8	Pancreatic Neoplasms
+DUXAP8	Esophageal Neoplasms
+ecCEBPA	Carcinoma Hepatocellular
+ecCEBPA	Stomach Neoplasms
+EGFR-AS1	Carcinoma Hepatocellular
+EGFR-AS1	Osteosarcoma
+EGFR-AS1	Esophageal Squamous Cell Carcinoma
+EGFR-AS1	Urinary Bladder Neoplasms
+EGFR-AS1	Kidney Neoplasms
+EGFR-AS1	Lung Neoplasms
+EGFR-AS1	Glioma
+EGFR-AS1	Stomach Neoplasms
+EGFR-AS1	Carcinoma Squamous Cell
+EGFR-AS1	Carcinoma Non-Small-Cell Lung
+EgoA	Astrocytoma
+EgoA	Glioblastoma
+EGOB	Astrocytoma
+EGOB	Glioblastoma
+EGOT	Breast Neoplasms
+EGOT	Glioma
+EGOT	Prostatic Neoplasms
+EGOT	Carcinoma Renal Cell
+EGOT	Stomach Neoplasms
+EGOT	Carcinoma Hepatocellular
+EIF3J-AS1	Colorectal Neoplasms
+EIF3J-AS1	Carcinoma Hepatocellular
+ELF3-AS1	Osteosarcoma
+ELF3-AS1	Squamous Cell Carcinoma of Head and Neck
+ELF3-AS1	Urinary Bladder Neoplasms
+EMX2OS	Astrocytoma
+EMX2OS	Hypertension
+ENST00000434223	Stomach Neoplasms
+ENST00000434223	Kidney Neoplasms
+ENST00000434223	Carcinoma Non-Small-Cell Lung
+ENST00000434223	Adenocarcinoma of Lung
+ENST00000457799	Leukemia Myeloid Acute
+ENST00000457799	Nasopharyngeal Neoplasms
+ENST00000537266	Astrocytoma
+ENST00000537266	Thyroid Cancer Papillary
+ENTPD1-AS1	Astrocytoma
+ENTPD1-AS1	Stomach Neoplasms
+EPB41L4A-AS2	Breast Neoplasms
+EPB41L4A-AS2	Squamous Cell Carcinoma of Head and Neck
+EPB41L4A-AS2	Kidney Neoplasms
+EPB41L4A-AS2	Lung Neoplasms
+EPB41L4A-AS2	Carcinoma Hepatocellular
+EPB41L4A-AS2	Carcinoma Non-Small-Cell Lung
+EPB41L4A-AS2	Ovarian Neoplasms
+EPEL	Osteosarcoma
+EPEL	Stomach Neoplasms
+EPIC1	Glioma
+EPIC1	Pancreatic Neoplasms
+EPIC1	Lung Neoplasms
+EPIC1	Cholangiocarcinoma
+EPIC1	Osteosarcoma
+EPIC1	Breast Neoplasms
+Erbb4-IR	Prostatic Neoplasms
+Erbb4-IR	Esophageal Squamous Cell Carcinoma
+ERVH48-1	Breast Neoplasms
+ERVH48-1	Stomach Neoplasms
+ESCCAL-5	Carcinoma Squamous Cell
+EWSAT1	Uterine Cervical Neoplasms
+EWSAT1	Sarcoma Ewing
+EWSAT1	Osteosarcoma
+EWSAT1	Nasopharyngeal Neoplasms
+EWSAT1	Colorectal Neoplasms
+EWSAT1	Ovarian Neoplasms
+EZR-AS1	Colorectal Neoplasms
+EZR-AS1	Breast Neoplasms
+EZR-AS1	Esophageal Squamous Cell Carcinoma
+FAL1	Osteosarcoma
+FAL1	Ovarian Neoplasms
+FAL1	Esophageal Neoplasms
+FAL1	Colonic Neoplasms
+FAL1	Colorectal Neoplasms
+FAL1	Stomach Neoplasms
+FAL1	Esophageal Squamous Cell Carcinoma
+FAL1	Squamous Cell Carcinoma of Head and Neck
+FAL1	Thyroid Cancer Papillary
+FAL1	Precursor Cell Lymphoblastic Leukemia-Lymphoma
+FAL1	Breast Neoplasms
+FAL1	Leukemia Myelogenous Chronic BCR-ABL Positive
+FAL1	Glioblastoma
+FAL1	Lymphoma Large-Cell Immunoblastic
+FAL1	Melanoma
+FAL1	Prostatic Neoplasms
+FAL1	Kidney Neoplasms
+FAL1	Carcinoma Hepatocellular
+FAL1	Carcinoma Non-Small-Cell Lung
+FALEC	Astrocytoma
+FALEC	Carcinoma Hepatocellular
+FALEC	Prostatic Neoplasms
+FALEC	Thyroid Neoplasms
+FALEC	Stomach Neoplasms
+FALEC	Endometrial Neoplasms
+FALEC	Uterine Cervical Neoplasms
+FALEC	Melanoma
+FAM201A	Esophageal Squamous Cell Carcinoma
+FAM201A	Carcinoma Non-Small-Cell Lung
+FAM215A	Astrocytoma
+FAM215A	Ovarian Neoplasms
+FAM215A	Liver Neoplasms
+FAM215A	Carcinoma Ovarian Epithelial
+FAM3D-AS1	Squamous Cell Carcinoma of Head and Neck
+FAM3D-AS1	Laryngeal Neoplasms
+FAM3D-AS1	Pharyngeal Neoplasms
+FAM3D-AS1	Tongue Neoplasms
+FAM83A-AS1	Carcinoma Hepatocellular
+FAM83A-AS1	Carcinoma Non-Small-Cell Lung
+FAM83H-AS1	Colorectal Neoplasms
+FAM83H-AS1	Lung Neoplasms
+FAM83H-AS1	Triple Negative Breast Neoplasms
+FAM83H-AS1	Glioma
+FAM83H-AS1	Breast Neoplasms
+FAM83H-AS1	Uterine Cervical Neoplasms
+FAM83H-AS1	Ovarian Neoplasms
+FAM83H-AS1	Colonic Neoplasms
+FAM83H-AS1	Carcinoma Hepatocellular
+FAM83H-AS1	Urinary Bladder Neoplasms
+FAM83H-AS1	Stomach Neoplasms
+FAM83H-AS1	Adenocarcinoma of Lung
+FAS-AS1	Ataxia Telangiectasia
+FAS-AS1	Lymphoma Non-Hodgkin
+FAS-AS1	Carcinoma Non-Small-Cell Lung
+FAS-AS1	Breast Neoplasms
+FAS-AS1	Lymphoma B-Cell
+FBXL19-AS1	Astrocytoma
+FBXL19-AS1	Colorectal Neoplasms
+FBXL19-AS1	Arthritis Rheumatoid
+FBXL19-AS1	Breast Neoplasms
+FBXL19-AS1	Adenocarcinoma of Lung
+FBXL19-AS1	Lung Neoplasms
+FBXL19-AS1	Osteosarcoma
+FBXL19-AS1	Carcinoma Non-Small-Cell Lung
+FENDRR	Pulmonary Disease Chronic Obstructive
+FENDRR	Gallbladder Neoplasms
+FENDRR	Adenocarcinoma of Lung
+FENDRR	Lung Neoplasms
+FENDRR	Carcinoma Non-Small-Cell Lung
+FENDRR	Osteosarcoma
+FENDRR	Prostatic Neoplasms
+FENDRR	Stomach Neoplasms
+FENDRR	Melanoma
+FENDRR	Colorectal Neoplasms
+FENDRR	Carcinoma Hepatocellular
+FENDRR	Colonic Neoplasms
+FENDRR	Breast Neoplasms
+FER1L4	Colonic Neoplasms
+FER1L4	Endometrial Neoplasms
+FER1L4	Carcinoma Hepatocellular
+FER1L4	Stomach Neoplasms
+FER1L4	Prostatic Neoplasms
+FER1L4	Esophageal Squamous Cell Carcinoma
+FER1L4	Carcinoma Renal Cell
+FER1L4	Lung Neoplasms
+FER1L4	Osteosarcoma
+FER1L4	Ovarian Neoplasms
+FER1L4	Adenocarcinoma of Lung
+FER1L4	Glioblastoma
+FER1L4	Esophageal Neoplasms
+FEZF1-AS1	Colorectal Neoplasms
+FEZF1-AS1	Carcinoma Non-Small-Cell Lung
+FEZF1-AS1	Stomach Neoplasms
+FEZF1-AS1	Carcinoma Ovarian Epithelial
+FEZF1-AS1	Carcinoma Hepatocellular
+FEZF1-AS1	Uterine Cervical Neoplasms
+FEZF1-AS1	Multiple Myeloma
+FEZF1-AS1	Breast Neoplasms
+FEZF1-AS1	Osteosarcoma
+FEZF1-AS1	Glioblastoma
+FEZF1-AS1	Prostatic Neoplasms
+FEZF1-AS1	Esophageal Squamous Cell Carcinoma
+FEZF1-AS1	Retinoblastoma
+FEZF1-AS1	Ovarian Neoplasms
+FEZF1-AS1	Nasopharyngeal Neoplasms
+FEZF1-AS1	Squamous Cell Carcinoma of Head and Neck
+FEZF1-AS1	Adenocarcinoma of Lung
+FGD5-AS1	Carcinoma Non-Small-Cell Lung
+FGD5-AS1	Squamous Cell Carcinoma of Head and Neck
+FGD5-AS1	Colorectal Neoplasms
+FGF10-AS1	Astrocytoma
+FGF10-AS1	Heart Septal Defects Ventricular
+FGFR3-AS1	Osteosarcoma
+FGFR3-AS1	Carcinoma Hepatocellular
+FGFR3-AS1	Urinary Bladder Neoplasms
+FLJ33360	Carcinoma Hepatocellular
+FLJ33360	Ovarian Neoplasms
+FLVCR1-AS1	Stomach Neoplasms
+FLVCR1-AS1	Glioma
+FLVCR1-AS1	Lung Neoplasms
+FLVCR1-AS1	Ovarian Neoplasms
+FLVCR1-AS1	Cholangiocarcinoma
+FLVCR1-AS1	Carcinoma Hepatocellular
+FMR1-AS1	Fragile X Syndrome
+FMR1-AS1	Neurodevelopmental Disorders
+FMR5	Fragile X Syndrome
+FMR6	Fragile X Syndrome
+FOXC2-AS1	Breast Neoplasms
+FOXC2-AS1	Osteosarcoma
+FOXC2-AS1	Prostatic Neoplasms
+FOXC2-AS1	Carcinoma Non-Small-Cell Lung
+FOXCUT	Breast Neoplasms
+FOXCUT	Nasopharyngeal Carcinoma
+FOXCUT	Squamous Cell Carcinoma of Head and Neck
+FOXCUT	Carcinoma Squamous Cell
+FOXCUT	Esophageal Squamous Cell Carcinoma
+FOXD2-AS1	Astrocytoma
+FOXD2-AS1	Esophageal Squamous Cell Carcinoma
+FOXD2-AS1	Nasopharyngeal Carcinoma
+FOXD2-AS1	Carcinoma Non-Small-Cell Lung
+FOXD2-AS1	Pterygium
+FOXD2-AS1	Colitis Ulcerative
+FOXD2-AS1	Uterine Cervical Neoplasms
+FOXD2-AS1	Stomach Neoplasms
+FOXD2-AS1	Glioma
+FOXD2-AS1	Carcinoma Hepatocellular
+FOXD2-AS1	Colorectal Neoplasms
+FOXD2-AS1	Osteosarcoma
+FOXD2-AS1	Thyroid Neoplasms
+FOXD2-AS1	Thyroid Cancer Papillary
+FOXD2-AS1	Urinary Bladder Neoplasms
+FOXD2-AS1	Nasopharyngeal Neoplasms
+FOXD3-AS1	Glioma
+FOXD3-AS1	Nasopharyngeal Neoplasms
+FOXD3-AS1	Melanoma
+FOXD3-AS1	Carcinoma Non-Small-Cell Lung
+FOXD3-AS1	Carcinoma Hepatocellular
+FOXD3-AS1	Thyroid Neoplasms
+FOXD3-AS1	Colorectal Neoplasms
+FOXD3-AS1	Breast Neoplasms
+FOXD3-AS1	Neuroblastoma
+FOXF1-AS1	Carcinoma Non-Small-Cell Lung
+FOXF1-AS1	Osteosarcoma
+FOXP4-AS1	Esophageal Squamous Cell Carcinoma
+FOXP4-AS1	Osteosarcoma
+FOXP4-AS1	Uterine Cervical Neoplasms
+FOXP4-AS1	Stomach Neoplasms
+FOXP4-AS1	Carcinoma Hepatocellular
+FOXP4-AS1	Prostatic Neoplasms
+FOXP4-AS1	Colorectal Neoplasms
+FR0348383	Prostatic Neoplasms
+FTH1P3	Squamous Cell Carcinoma of Head and Neck
+FTH1P3	Breast Neoplasms
+FTH1P3	Uterine Cervical Neoplasms
+FTH1P3	Carcinoma Non-Small-Cell Lung
+FTH1P3	Esophageal Squamous Cell Carcinoma
+FTX	Colorectal Neoplasms
+FTX	Glioma
+FTX	Carcinoma Hepatocellular
+FTX	Carcinoma Renal Cell
+FTX	Carcinoma Non-Small-Cell Lung
+FTX	Stomach Neoplasms
+FTX	Adenocarcinoma of Lung
+FTX	Osteosarcoma
+FTX	Leukemia Myeloid Acute
+GABPB1-AS1	Astrocytoma
+GABPB1-AS1	Colorectal Neoplasms
+GACAT1	Breast Neoplasms
+GACAT1	Stomach Neoplasms
+GACAT2	Carcinoma Non-Small-Cell Lung
+GACAT2	Pancreatic Neoplasms
+GACAT2	Stomach Neoplasms
+GACAT3	Ovarian Neoplasms
+GACAT3	Stomach Neoplasms
+GACAT3	Breast Neoplasms
+GACAT3	Liver Neoplasms
+GACAT3	Glioma
+GACAT3	Colorectal Neoplasms
+GACAT3	Carcinoma Non-Small-Cell Lung
+GAPLINC	Colorectal Neoplasms
+GAPLINC	Stomach Neoplasms
+GAPLINC	Osteosarcoma
+GAPLINC	Klatskin Tumor
+GAPLINC	Carcinoma Non-Small-Cell Lung
+GAPLINC	Carcinoma Hepatocellular
+GAPLINC	Glioblastoma
+GAPLINC	Urinary Bladder Neoplasms
+GAS5	Astrocytoma
+GAS5	Lymphoma B-Cell
+GAS5	Breast Neoplasms
+GAS5	Neoplasms
+GAS5	Uterine Cervical Neoplasms
+GAS5	Colorectal Neoplasms
+GAS5	Coronary Artery Disease
+GAS5	Endometrial Neoplasms
+GAS5	Esophageal Neoplasms
+GAS5	Esophageal Squamous Cell Carcinoma
+GAS5	Glioblastoma
+GAS5	Glioma
+GAS5	Carcinoma Hepatocellular
+GAS5	Hypertension
+GAS5	Inflammatory Bowel Diseases
+GAS5	Kidney Neoplasms
+GAS5	Leukemia
+GAS5	Liver Cirrhosis
+GAS5	Adenocarcinoma of Lung
+GAS5	Lung Neoplasms
+GAS5	Lymphoma
+GAS5	Lymphoma Mantle-Cell
+GAS5	Melanoma
+GAS5	Multiple Myeloma
+GAS5	Nasopharyngeal Carcinoma
+GAS5	Neuroblastoma
+GAS5	Carcinoma Non-Small-Cell Lung
+GAS5	Osteoarthritis
+GAS5	Osteosarcoma
+GAS5	Ovarian Neoplasms
+GAS5	Pancreatic Neoplasms
+GAS5	Polycystic Ovary Syndrome
+GAS5	Prostate
+GAS5	Prostatic Neoplasms
+GAS5	Carcinoma Renal Cell
+GAS5	Stomach Neoplasms
+GAS5	Leukemia T-Cell
+GAS5	Thyroid Neoplasms
+GAS5	Thyroid Cancer Papillary
+GAS5	Diabetes Mellitus Type 2
+GAS5	Urinary Bladder Neoplasms
+GAS5	Liver Neoplasms
+GAS5	Triple Negative Breast Neoplasms
+GAS5	Squamous Cell Carcinoma of Head and Neck
+GAS5	Carcinoma Ovarian Epithelial
+GAS5	Colonic Neoplasms
+GAS5	Leukemia Myeloid
+GAS5	Nasopharyngeal Neoplasms
+GAS5	Carcinoma Squamous Cell
+GAS5-AS1	Carcinoma Hepatocellular
+GAS5-AS1	Carcinoma Non-Small-Cell Lung
+GAS5-AS1	Glioma
+GAS5-AS1	Uterine Cervical Neoplasms
+GAS5-family	Astrocytoma
+GAS5-family	Glioblastoma
+GAS6-AS1	Carcinoma Hepatocellular
+GAS6-AS1	Stomach Neoplasms
+GAS6-AS1	Carcinoma Renal Cell
+GAS6-AS1	Carcinoma Non-Small-Cell Lung
+GAS6-AS2	Osteosarcoma
+GAS6-AS2	Carcinoma Hepatocellular
+GAS6-AS2	Breast Neoplasms
+GAS6-AS2	Melanoma
+GAS6-AS2	Urinary Bladder Neoplasms
+GAS6-AS2	Leukemia Myeloid Acute
+GAS8-AS1	Thyroid Cancer Papillary
+GAS8-AS1	Osteosarcoma
+GAS8-AS1	Carcinoma Hepatocellular
+GASL1	Glioma
+GASL1	Prostatic Neoplasms
+GASL1	Stomach Neoplasms
+GASL1	Carcinoma Non-Small-Cell Lung
+GASL1	Osteosarcoma
+GATA6-AS	Glioma
+GATA6-AS	Stomach Neoplasms
+GATA6-AS	Lymphoma Mantle-Cell
+GATA6-AS1	Leukemia Lymphocytic Chronic B-Cell
+GATA6-AS1	Stomach Neoplasms
+GClnc1	Stomach Neoplasms
+GClnc1	Osteosarcoma
+GClnc1	Urinary Bladder Neoplasms
+GClnc1	Colorectal Neoplasms
+GCRL1	Stomach Neoplasms
+GFRA1	Hirschsprung Disease
+GFRA1	Nasal Polyps
+GHET1	Colorectal Neoplasms
+GHET1	Carcinoma Hepatocellular
+GHET1	Carcinoma Non-Small-Cell Lung
+GHET1	Pancreatic Neoplasms
+GHET1	Stomach Neoplasms
+GHET1	Urinary Bladder Neoplasms
+GHET1	Osteosarcoma
+GHET1	Uterine Cervical Neoplasms
+GHET1	Glioma
+GHET1	Prostatic Neoplasms
+GHET1	Breast Neoplasms
+GIHCG	Colorectal Neoplasms
+GIHCG	Uterine Cervical Neoplasms
+GIHCG	Breast Neoplasms
+GIHCG	Ovarian Neoplasms
+GIHCG	Carcinoma Hepatocellular
+GIHCG	Carcinoma Renal Cell
+GLIS3-AS1	Urinary Bladder Neoplasms
+GLIS3-AS1	Pancreatic Intraductal Neoplasms
+GMAN	Carcinoma Hepatocellular
+GMAN	Stomach Neoplasms
+GNAS-AS1	Astrocytoma
+GNAS-AS1	Carcinoma Non-Small-Cell Lung
+GNAS-AS1	Nasopharyngeal Neoplasms
+GPC3-AS1	Uterine Cervical Neoplasms
+GPC3-AS1	Carcinoma Hepatocellular
+GPR65	Nasal Polyps
+GPR65	Stomach Neoplasms
+gtl2-as	Neoplasms
+gtl2-as	Wilms Tumor
+gtl2-as	Neuroblastoma
+gtl2-as	Pheochromocytoma
+H19	Aortic Aneurysm Abdominal
+H19	Adenocarcinoma
+H19	Adrenocortical Carcinoma
+H19	Astrocytoma
+H19	Atherosclerosis
+H19	Beckwith-Wiedemann Syndrome
+H19	Breast Neoplasms
+H19	Neoplasms
+H19	Central Nervous System Diseases
+H19	Uterine Cervical Neoplasms
+H19	Cholangiocarcinoma
+H19	Choriocarcinoma
+H19	Leukemia Myelogenous Chronic BCR-ABL Positive
+H19	Colonic Neoplasms
+H19	Colorectal Neoplasms
+H19	Congenital Hyperinsulinism
+H19	Coronary Artery Disease
+H19	Diabetic Cardiomyopathies
+H19	Carcinoma Embryonal
+H19	Endometrial Neoplasms
+H19	Endometriosis
+H19	Esophageal Neoplasms
+H19	Gallbladder Neoplasms
+H19	Gastrointestinal Neoplasms
+H19	Neoplasms Germ Cell and Embryonal
+H19	Gestational Trophoblastic Disease
+H19	Glioblastoma
+H19	Glioma
+H19	Squamous Cell Carcinoma of Head and Neck
+H19	Heart Defects Congenital
+H19	Heart Diseases
+H19	Hematopoiesis
+H19	Carcinoma Hepatocellular
+H19	Hydatidiform Mole
+H19	Hyperhomocysteinemia
+H19	Hyperprolactinemia
+H19	Infertility
+H19	Keloid
+H19	Kidney Neoplasms
+H19	Liver Neoplasms
+H19	Adenocarcinoma of Lung
+H19	Lung Neoplasms
+H19	Marek Disease
+H19	Medulloblastoma
+H19	Melanoma
+H19	Meningioma
+H19	Multiple Myeloma
+H19	Nasopharyngeal Carcinoma
+H19	Wilms Tumor
+H19	Neural Tube Defects
+H19	Neuroblastoma
+H19	Carcinoma Non-Small-Cell Lung
+H19	Obesity
+H19	Osteoarthritis
+H19	Osteosarcoma
+H19	Ovarian Neoplasms
+H19	Carcinoma Ovarian Epithelial
+H19	Pancreatic Neoplasms
+H19	Thyroid Cancer Papillary
+H19	Parkinson Disease
+H19	Pheochromocytoma
+H19	Pituitary Neoplasms
+H19	Pneumoconiosis
+H19	Polycythemia Vera
+H19	Prader-Willi Syndrome
+H19	Pre-Eclampsia
+H19	Prostate
+H19	Prostatic Neoplasms
+H19	Carcinoma Renal Cell
+H19	Arthritis Rheumatoid
+H19	Silver-Russell Syndrome
+H19	Carcinoma Squamous Cell
+H19	Stomach Neoplasms
+H19	Thyroid Neoplasms
+H19	Trophoblastic Neoplasms
+H19	Colitis Ulcerative
+H19	Urinary Bladder Neoplasms
+H19	Leukemia-Lymphoma Adult T-Cell
+H19	Retinoblastoma
+H19	Adenocarcinoma Follicular
+H19	Nasopharyngeal Neoplasms
+H19	Esophageal Squamous Cell Carcinoma
+H19	Hodgkin Disease
+H19	Triple Negative Breast Neoplasms
+H19	Leukemia Myeloid Acute
+H19	Thyroid Carcinoma Anaplastic
+H19	Rectal Neoplasms
+H19	Leukemia Myelomonocytic Chronic
+H19	Growth Hormone-Secreting Pituitary Adenoma
+H19	Leukemia Promyelocytic Acute
+H19	Hepatoblastoma
+H19	Rhabdomyosarcoma
+H19	Testicular Neoplasms
+H19	Small Cell Lung Carcinoma
+HAGLR	Uterine Cervical Neoplasms
+HAGLR	Glioma
+HAGLR	Carcinoma Hepatocellular
+HAGLR	Neuroblastoma
+HAGLR	Carcinoma Non-Small-Cell Lung
+HAGLR	Ovarian Neoplasms
+HAGLR	Carcinoma Ovarian Epithelial
+HAGLR	Stomach Neoplasms
+HAGLR	Thyroid Cancer Papillary
+HAGLR	Urinary Bladder Neoplasms
+HAGLR	Adenocarcinoma of Lung
+HAGLR	Colorectal Neoplasms
+HAGLROS	Thyroid Cancer Papillary
+HAGLROS	Stomach Neoplasms
+HAGLROS	Carcinoma Hepatocellular
+HAGLROS	Lymphoma Mantle-Cell
+HAGLROS	Lung Neoplasms
+HAGLROS	Nasopharyngeal Neoplasms
+HAGLROS	Ovarian Neoplasms
+HAND2-AS1	Endometrial Neoplasms
+HAND2-AS1	Squamous Cell Carcinoma of Head and Neck
+HAND2-AS1	Liver Neoplasms
+HAND2-AS1	Stomach Neoplasms
+HAND2-AS1	Uterine Cervical Neoplasms
+HAND2-AS1	Carcinoma Hepatocellular
+HAND2-AS1	Triple Negative Breast Neoplasms
+HAND2-AS1	Colorectal Neoplasms
+HAND2-AS1	Leukemia Myelogenous Chronic BCR-ABL Positive
+HAND2-AS1	Breast Neoplasms
+HAND2-AS1	Osteosarcoma
+HAND2-AS1	Melanoma
+HAND2-AS1	Esophageal Squamous Cell Carcinoma
+HAND2-AS1	Carcinoma Non-Small-Cell Lung
+HAND2-AS1	Cardiomyopathies
+HAND2-AS1	Ovarian Neoplasms
+HANR	Colorectal Neoplasms
+HANR	Carcinoma Non-Small-Cell Lung
+HANR	Glioma
+HANR	Carcinoma Hepatocellular
+HAR1	Huntington Disease
+HAR1A	Alzheimer Disease
+HAR1A	Astrocytoma
+HAR1A	Central Nervous System Diseases
+HAR1A	Huntington Disease
+HAR1A	Schizophrenia
+HAR1A	Carcinoma Hepatocellular
+HAR1B	Alzheimer Disease
+HAR1B	Astrocytoma
+HAR1B	Telangiectasia Hereditary Hemorrhagic
+HAR1B	Huntington Disease
+HAR1B	Schizophrenia
+HAS2-AS1	Squamous Cell Carcinoma of Head and Neck
+HAS2-AS1	Carcinoma Non-Small-Cell Lung
+HAS2-AS1	Neuroblastoma
+HAS2-AS1	Glioma
+HAS2-AS1	Ovarian Neoplasms
+HAS2-AS1	Glioblastoma
+HCG11	Astrocytoma
+HCG11	Prostatic Neoplasms
+HCG11	Laryngeal Neoplasms
+HCG11	Stomach Neoplasms
+HCG11	Carcinoma Hepatocellular
+HCG11	Glioma
+HCG18	Stomach Neoplasms
+HCG18	Colorectal Neoplasms
+HCG18	Nasopharyngeal Neoplasms
+HCG22	Urinary Bladder Neoplasms
+HCG22	Squamous Cell Carcinoma of Head and Neck
+HCP5	Acquired Immunodeficiency Syndrome
+HCP5	Adenocarcinoma Follicular
+HCP5	Carcinoma Non-Small-Cell Lung
+HCP5	Prostatic Neoplasms
+HCP5	Stomach Neoplasms
+HCP5	Carcinoma Renal Cell
+HCP5	Colorectal Neoplasms
+HCP5	Squamous Cell Carcinoma of Head and Neck
+HCP5	Leukemia Myeloid Acute
+HCP5	Adenocarcinoma of Lung
+HCP5	Thyroid Carcinoma Anaplastic
+HCP5	Triple Negative Breast Neoplasms
+HCP5	Uterine Cervical Neoplasms
+HCP5	Osteosarcoma
+HEIH	Colorectal Neoplasms
+HEIH	Squamous Cell Carcinoma of Head and Neck
+HEIH	Carcinoma Hepatocellular
+HEIH	Cholangiocarcinoma
+HEIH	Liver Neoplasms
+HEIH	Carcinoma Non-Small-Cell Lung
+HEIH	Triple Negative Breast Neoplasms
+HEIH	Endometrial Neoplasms
+HIF1A-AS1	Aortic Aneurysm
+HIF1A-AS1	Cardiovascular Diseases
+HIF1A-AS1	Colorectal Neoplasms
+HIF1A-AS1	Kidney Neoplasms
+HIF1A-AS1	Carcinoma Non-Small-Cell Lung
+HIF1A-AS1	Aortic Aneurysm Thoracic
+HIF1A-AS1	Stomach Neoplasms
+HIF1A-AS2	Breast Neoplasms
+HIF1A-AS2	Glioblastoma
+HIF1A-AS2	Kidney Neoplasms
+HIF1A-AS2	Osteosarcoma
+HIF1A-AS2	Stomach Neoplasms
+HIF1A-AS2	Urinary Bladder Neoplasms
+HIF1A-AS2	Triple Negative Breast Neoplasms
+HIF1A-AS2	Colorectal Neoplasms
+HIF2PUT	Osteosarcoma
+HIT000218960	Stomach Neoplasms
+HIT000218960	Thyroid Cancer Papillary
+HLA-AS1	Acquired Immunodeficiency Syndrome
+HLA-AS1	Liver Diseases
+HLA-AS1	Multiple Sclerosis
+HLA-AS1	Psoriasis
+HLA-F-AS1	Colorectal Neoplasms
+HLA-F-AS1	Adenocarcinoma of Lung
+HMLINCRNA717	Pancreatic Neoplasms
+HMLINCRNA717	Carcinoma Non-Small-Cell Lung
+HMLINCRNA717	Stomach Neoplasms
+HMMR-AS1	Adenocarcinoma of Lung
+HMMR-AS1	Carcinoma Ovarian Epithelial
+HMMR-AS1	Glioblastoma
+HMMR-AS1	Breast Neoplasms
+HNF1A-AS	Carcinoma Non-Small-Cell Lung
+HNF1A-AS	Nasopharyngeal Neoplasms
+HNF1A-AS1	Adenocarcinoma
+HNF1A-AS1	Astrocytoma
+HNF1A-AS1	Colonic Neoplasms
+HNF1A-AS1	Colorectal Neoplasms
+HNF1A-AS1	Carcinoma Hepatocellular
+HNF1A-AS1	Adenocarcinoma of Lung
+HNF1A-AS1	Nasopharyngeal Carcinoma
+HNF1A-AS1	Carcinoma Non-Small-Cell Lung
+HNF1A-AS1	Osteosarcoma
+HNF1A-AS1	Pancreatic Neoplasms
+HNF1A-AS1	Carcinoma Squamous Cell
+HNF1A-AS1	Stomach Neoplasms
+HNF1A-AS1	Uterine Cervical Neoplasms
+HNF1A-AS1	Squamous Cell Carcinoma of Head and Neck
+HNF1A-AS1	Esophageal Squamous Cell Carcinoma
+HNF1A-AS1	Urinary Bladder Neoplasms
+HOST2	Triple Negative Breast Neoplasms
+HOST2	Carcinoma Non-Small-Cell Lung
+HOST2	Uterine Cervical Neoplasms
+HOST2	Ovarian Neoplasms
+HOST2	Carcinoma Hepatocellular
+HOST2	Pancreatic Neoplasms
+HOST2	Glioma
+HOST2	Stomach Neoplasms
+HOTAIR	Leukemia Myeloid Acute
+HOTAIR	Asthenozoospermia
+HOTAIR	Astrocytoma
+HOTAIR	Lymphoma B-Cell
+HOTAIR	Breast Neoplasms
+HOTAIR	Neoplasms
+HOTAIR	Cerebrovascular Disorders
+HOTAIR	Uterine Cervical Neoplasms
+HOTAIR	Leukemia Myelogenous Chronic BCR-ABL Positive
+HOTAIR	Colonic Neoplasms
+HOTAIR	Colorectal Neoplasms
+HOTAIR	Heart Failure
+HOTAIR	Lymphoma Large B-Cell Diffuse
+HOTAIR	Neoplasms Germ Cell and Embryonal
+HOTAIR	Endometrial Neoplasms
+HOTAIR	Ependymoma
+HOTAIR	Esophageal Neoplasms
+HOTAIR	Esophageal Squamous Cell Carcinoma
+HOTAIR	Gallbladder Neoplasms
+HOTAIR	Gastrointestinal Stromal Tumors
+HOTAIR	Gastrointestinal Neoplasms
+HOTAIR	Glioblastoma
+HOTAIR	Glioma
+HOTAIR	Squamous Cell Carcinoma of Head and Neck
+HOTAIR	Heart Diseases
+HOTAIR	Hepatitis C
+HOTAIR	Carcinoma Hepatocellular
+HOTAIR	Kidney Neoplasms
+HOTAIR	Lemierre Syndrome
+HOTAIR	Leukemia
+HOTAIR	Leukemia Lymphoid
+HOTAIR	Liver Neoplasms
+HOTAIR	Liver Cirrhosis
+HOTAIR	Adenocarcinoma of Lung
+HOTAIR	Lung Neoplasms
+HOTAIR	Carcinoma Non-Small-Cell Lung
+HOTAIR	Medulloblastoma
+HOTAIR	Melanoma
+HOTAIR	Multiple Myeloma
+HOTAIR	Nasopharyngeal Carcinoma
+HOTAIR	Neuroblastoma
+HOTAIR	Osteoarthritis
+HOTAIR	Osteosarcoma
+HOTAIR	Ovarian Neoplasms
+HOTAIR	Carcinoma Ovarian Epithelial
+HOTAIR	Pancreatic Neoplasms
+HOTAIR	Thyroid Cancer Papillary
+HOTAIR	Parkinson Disease
+HOTAIR	Pituitary Neoplasms
+HOTAIR	Pre-Eclampsia
+HOTAIR	Prostatic Neoplasms
+HOTAIR	Carcinoma Renal Cell
+HOTAIR	Retinoblastoma
+HOTAIR	Arthritis Rheumatoid
+HOTAIR	Sarcoma
+HOTAIR	Carcinoma Squamous Cell
+HOTAIR	Stomach Neoplasms
+HOTAIR	Thyroid Neoplasms
+HOTAIR	Urinary Bladder Neoplasms
+HOTAIR	Small Cell Lung Carcinoma
+HOTAIR	Laryngeal Neoplasms
+HOTAIR	Triple Negative Breast Neoplasms
+HOTAIR	Cholangiocarcinoma
+HOTAIR	Adrenocortical Carcinoma
+HOTAIR	Nasopharyngeal Neoplasms
+HOTAIR	Silicosis
+HOTAIR	Leukemia Monocytic Acute
+HOTAIR	Chondrosarcoma
+HOTAIRM1	Leukemia Myeloid Acute
+HOTAIRM1	Leukemia Promyelocytic Acute
+HOTAIRM1	Astrocytoma
+HOTAIRM1	Colorectal Neoplasms
+HOTAIRM1	Glioblastoma
+HOTAIRM1	Leukemia
+HOTAIRM1	Glioma
+HOTAIRM1	Melanoma
+HOTAIRM1	Lung Neoplasms
+HOTAIRM1	Breast Neoplasms
+HOTAIRM1	Thyroid Cancer Papillary
+HOTAIRM1	Ovarian Neoplasms
+HOTAIRM1	Carcinoma Non-Small-Cell Lung
+HOTAIRM1	Carcinoma Renal Cell
+HOTAIRM1	Carcinoma Hepatocellular
+HOTAIRM1	Stomach Neoplasms
+HOTAIRM1	Adenocarcinoma of Lung
+HOTTIP	Breast Neoplasms
+HOTTIP	Neoplasms
+HOTTIP	Colorectal Neoplasms
+HOTTIP	Coronary Artery Disease
+HOTTIP	Esophageal Squamous Cell Carcinoma
+HOTTIP	Glioma
+HOTTIP	Carcinoma Hepatocellular
+HOTTIP	Hirschsprung Disease
+HOTTIP	Lung Neoplasms
+HOTTIP	Carcinoma Non-Small-Cell Lung
+HOTTIP	Osteosarcoma
+HOTTIP	Pancreatic Neoplasms
+HOTTIP	Thyroid Cancer Papillary
+HOTTIP	Prostatic Neoplasms
+HOTTIP	Small Cell Lung Carcinoma
+HOTTIP	Stomach Neoplasms
+HOTTIP	Ovarian Neoplasms
+HOTTIP	Squamous Cell Carcinoma of Head and Neck
+HOTTIP	Leukemia Myeloid Acute
+HOTTIP	Carcinoma Renal Cell
+HOTTIP	Nasopharyngeal Neoplasms
+HOTTIP	Laryngeal Neoplasms
+HOTTIP	Adenocarcinoma of Lung
+HOXA	Pancreatic Neoplasms
+HOXA	Stomach Neoplasms
+HOXA10-AS	Leukemia Myeloid Acute
+HOXA10-AS	Glioma
+HOXA10-AS	Adenocarcinoma of Lung
+HOXA11	Glioma
+HOXA11	Ovarian Neoplasms
+HOXA11-AS	Astrocytoma
+HOXA11-AS	Breast Neoplasms
+HOXA11-AS	Neoplasms
+HOXA11-AS	Uterine Cervical Neoplasms
+HOXA11-AS	Colorectal Neoplasms
+HOXA11-AS	Esophageal Squamous Cell Carcinoma
+HOXA11-AS	Glioma
+HOXA11-AS	Carcinoma Hepatocellular
+HOXA11-AS	Squamous Cell Carcinoma of Head and Neck
+HOXA11-AS	Carcinoma Non-Small-Cell Lung
+HOXA11-AS	Osteosarcoma
+HOXA11-AS	Ovarian Neoplasms
+HOXA11-AS	Stomach Neoplasms
+HOXA11-AS	Neuroblastoma
+HOXA11-AS	Prostatic Neoplasms
+HOXA11-AS	Carcinoma Renal Cell
+HOXA11-AS	Retinoblastoma
+HOXA11-AS	Adenocarcinoma of Lung
+HOXA11-AS	Lung Neoplasms
+HOXA11-AS	Kidney Neoplasms
+HOXA13	Carcinoma Hepatocellular
+HOXA13	Stomach Neoplasms
+HOXA13	Urinary Bladder Neoplasms
+HOXA-AS2	Leukemia Promyelocytic Acute
+HOXA-AS2	Breast Neoplasms
+HOXA-AS2	Colorectal Neoplasms
+HOXA-AS2	Carcinoma Hepatocellular
+HOXA-AS2	Glioma
+HOXA-AS2	Melanoma
+HOXA-AS2	Stomach Neoplasms
+HOXA-AS2	Carcinoma Non-Small-Cell Lung
+HOXA-AS2	Leukemia Myeloid Acute
+HOXA-AS2	Osteosarcoma
+HOXA-AS2	Urinary Bladder Neoplasms
+HOXA-AS2	Thyroid Cancer Papillary
+HOXA-AS2	Precursor Cell Lymphoblastic Leukemia-Lymphoma
+HOXA-AS2	Pancreatic Neoplasms
+HOXA-AS2	Gallbladder Neoplasms
+HOXA-AS3	Astrocytoma
+HOXA-AS3	Glioblastoma
+HOXA-AS3	Glioma
+HOXA-AS3	Adenocarcinoma of Lung
+HOXA-AS3	Carcinoma Hepatocellular
+HOXB13-AS1	Adenocarcinoma of Lung
+HOXB13-AS1	Glioma
+HOXB-AS1	Glioblastoma
+HOXB-AS1	Multiple Myeloma
+HOXB-AS3	Colonic Neoplasms
+HOXB-AS3	Colorectal Neoplasms
+HOXB-AS3	Lung Neoplasms
+HOXB-AS3	Leukemia Myeloid Acute
+HOXB-AS3	Carcinoma Hepatocellular
+HOXC13-AS	Glioma
+HOXC13-AS	Breast Neoplasms
+HOXC-AS3	Breast Neoplasms
+HOXC-AS3	Glioblastoma
+HOXC-AS3	Stomach Neoplasms
+HOXD-AS1	Uterine Cervical Neoplasms
+HOXD-AS1	Colorectal Neoplasms
+HOXD-AS1	Ovarian Neoplasms
+HOXD-AS1	Breast Neoplasms
+HOXD-AS1	Stomach Neoplasms
+HOXD-AS1	Osteosarcoma
+HOXD-AS1	Thyroid Cancer Papillary
+HOXD-AS1	Carcinoma Hepatocellular
+HOXD-AS1	Carcinoma Non-Small-Cell Lung
+HOXD-AS1	Prostatic Neoplasms
+HOXD-AS1	Neuroblastoma
+HOXD-AS1	Glioblastoma
+HOXD-AS1	Liver Neoplasms
+HOXD-AS1	Melanoma
+HOXD-AS1	Carcinoma Ovarian Epithelial
+HOXD-AS1	Urinary Bladder Neoplasms
+HTT-AS	Huntington Disease
+HULC	Atherosclerosis
+HULC	Neoplasms
+HULC	Uterine Cervical Neoplasms
+HULC	Cholangiocarcinoma
+HULC	Leukemia Myelogenous Chronic BCR-ABL Positive
+HULC	Colorectal Neoplasms
+HULC	Lymphoma Large B-Cell Diffuse
+HULC	Esophageal Neoplasms
+HULC	Glioma
+HULC	Carcinoma Hepatocellular
+HULC	Liver Neoplasms
+HULC	Liver Cirrhosis
+HULC	Nasopharyngeal Carcinoma
+HULC	Osteosarcoma
+HULC	Carcinoma Ovarian Epithelial
+HULC	Pancreatic Neoplasms
+HULC	Thyroid Cancer Papillary
+HULC	Prostatic Neoplasms
+HULC	Stomach Neoplasms
+HULC	Triple Negative Breast Neoplasms
+HULC	Ovarian Neoplasms
+HULC	Breast Neoplasms
+HULC	Pituitary Neoplasms
+HULC	Bone Neoplasms
+HULC	Squamous Cell Carcinoma of Head and Neck
+HULC	Carcinoma Non-Small-Cell Lung
+HULC	Colonic Neoplasms
+HULC	Sarcoma Ewing
+HULC	Urinary Bladder Neoplasms
+HULC	Nasopharyngeal Neoplasms
+IFNG-AS1	Astrocytoma
+IFNG-AS1	Thyroiditis Autoimmune
+IFNG-AS1	Melanoma
+IFNG-AS1	Multiple Sclerosis
+IFNG-AS1	Sjogren's Syndrome
+IFNG-AS1	Colitis Ulcerative
+IGF2AS	Neuroblastoma
+IGF2AS	Stomach Neoplasms
+IGF2AS	Prostatic Neoplasms
+IGF2AS	Carcinoma Hepatocellular
+IGF2AS	Liver Neoplasms
+IGF2AS	Carcinoma Non-Small-Cell Lung
+IGF2AS	Wilms Tumor
+IGF2-AS	Astrocytoma
+IGF2-AS	Beckwith-Wiedemann Syndrome
+IGF2-AS	Coronary Artery Disease
+IGF2-AS	Carcinoma Hepatocellular
+IGF2-AS	Liver Neoplasms
+IGF2-AS	Wilms Tumor
+IGF2-AS	Carcinoma Non-Small-Cell Lung
+IGF2-AS	Prostate
+IGF2-AS	Prostatic Neoplasms
+IGF2-AS	Diabetes Mellitus Type 1
+IGF2BP2-AS1	Astrocytoma
+IGF2BP2-AS1	Adenocarcinoma of Lung
+IGFBP7-AS1	Astrocytoma
+IGFBP7-AS1	Nasal Polyps
+IGFL2-AS1	Stomach Neoplasms
+IGFL2-AS1	Breast Neoplasms
+ILF3-AS1	Melanoma
+ILF3-AS1	Stomach Neoplasms
+ILF3-AS1	Prostatic Neoplasms
+ILF3-AS1	Osteosarcoma
+INHBA-AS1	Astrocytoma
+INHBA-AS1	Stomach Neoplasms
+INHBA-AS1	Squamous Cell Carcinoma of Head and Neck
+intergenic lncrna(be008094)	Pancreatic Neoplasms
+intergenic lncrna(be155946)	Pancreatic Neoplasms
+intergenic lncrna(be702744)	Pancreatic Neoplasms
+intergenic lncrna(bf736784)	Pancreatic Neoplasms
+intergenic lncrna(bf754591)	Pancreatic Neoplasms
+intergenic lncrna(bf918966)	Pancreatic Neoplasms
+intergenic lncrna(bf944704)	Pancreatic Neoplasms
+intergenic lncrna(bf956245)	Pancreatic Neoplasms
+intronic lncrna in arhgap12 locus(be007885)	Pancreatic Neoplasms
+intronic lncrna in arrb1 locus(bf944729)	Pancreatic Neoplasms
+intronic lncrna in ascc3 locus(aw937483)	Pancreatic Neoplasms
+intronic lncrna in atf3 locus(bf875569)	Pancreatic Neoplasms
+intronic lncrna in c11orf49 locus(aw846670)	Pancreatic Neoplasms
+intronic lncrna in c16orf46 locus(bf364131)	Pancreatic Neoplasms
+intronic lncrna in c20orf7 locus(be089575)	Pancreatic Neoplasms
+intronic lncrna in ctnnd1 locus(bf919473)	Pancreatic Neoplasms
+intronic lncrna in dazap1 locus(bg010309)	Pancreatic Neoplasms
+intronic lncrna in dip2b locus(aw852151)	Pancreatic Neoplasms
+intronic lncrna in dst locus(aw860958)	Pancreatic Neoplasms
+intronic lncrna in enosf1 locus(bf334142)	Pancreatic Neoplasms
+intronic lncrna in gldn locus(aw901803)	Pancreatic Neoplasms
+intronic lncrna in gphn locus(be160464)	Pancreatic Neoplasms
+intronic lncrna in itpr1 locus(bf857841)	Pancreatic Neoplasms
+intronic lncrna in lepr locus(ck327186)	Pancreatic Neoplasms
+intronic lncrna in maea locus(be168993)	Pancreatic Neoplasms
+intronic lncrna in map2k5 locus(bf893298)	Pancreatic Neoplasms
+intronic lncrna in mkl1 locus(bf898694)	Pancreatic Neoplasms
+intronic lncrna in n4bp2l2 locus(bq316935)	Pancreatic Neoplasms
+intronic lncrna in nbpf10 locus(bg004239)	Pancreatic Neoplasms
+intronic lncrna in nkain2 locus(be160056)	Pancreatic Neoplasms
+intronic lncrna in nop58 locus(aw865910)	Pancreatic Neoplasms
+intronic lncrna in nr2c2 locus(be166370)	Pancreatic Neoplasms
+intronic lncrna in pask locus(be168353)	Pancreatic Neoplasms
+intronic lncrna in ppp4r1 locus(be003587)	Pancreatic Neoplasms
+intronic lncrna in sorbs1 locus(bf368581)	Pancreatic Neoplasms
+intronic lncrna in stx12 locus(aw820168)	Pancreatic Neoplasms
+intronic lncrna in tmem189-ube2v1 locus(be062809)	Pancreatic Neoplasms
+intronic lncrna in tnk2 locus(ck327106)	Pancreatic Neoplasms
+intronic lncrna in ube2v1 locus(be062809)	Pancreatic Neoplasms
+intronic lncrna in usp15 locus(bf894929)	Pancreatic Neoplasms
+INXS	Breast Neoplasms
+INXS	Carcinoma Renal Cell
+INXS	Prostatic Neoplasms
+INXS	Liver Neoplasms
+IPW	Prader-Willi Syndrome
+IRAIN	Leukemia Myeloid Acute
+IRAIN	Breast Neoplasms
+IRAIN	Carcinoma Non-Small-Cell Lung
+IRAIN	Pancreatic Neoplasms
+IRAIN	Multiple Myeloma
+ITGB1	Breast Neoplasms
+ITGB1	Gallbladder Neoplasms
+ITGB1	Carcinoma Renal Cell
+ITGB1	Urinary Bladder Neoplasms
+ITGB2-AS1	Breast Neoplasms
+ITGB2-AS1	Osteosarcoma
+IUR	Esophageal Squamous Cell Carcinoma
+IUR	Prostatic Neoplasms
+JPX	Lung Neoplasms
+JPX	Carcinoma Hepatocellular
+JPX	Carcinoma Non-Small-Cell Lung
+JPX	Glioma
+KCNK15-AS1	Breast Neoplasms
+KCNK15-AS1	Osteoarthritis
+KCNQ1DN	Aging
+KCNQ1DN	Wilms Tumor
+KCNQ1DN	Carcinoma Renal Cell
+KCNQ1OT1	Astrocytoma
+KCNQ1OT1	Beckwith-Wiedemann Syndrome
+KCNQ1OT1	Breast Neoplasms
+KCNQ1OT1	Colorectal Neoplasms
+KCNQ1OT1	Esophageal Neoplasms
+KCNQ1OT1	Carcinoma Hepatocellular
+KCNQ1OT1	Kidney Neoplasms
+KCNQ1OT1	Adenocarcinoma of Lung
+KCNQ1OT1	Lung Neoplasms
+KCNQ1OT1	Carcinoma Non-Small-Cell Lung
+KCNQ1OT1	Prostatic Neoplasms
+KCNQ1OT1	Carcinoma Renal Cell
+KCNQ1OT1	Seizures
+KCNQ1OT1	Stomach Neoplasms
+KCNQ1OT1	Squamous Cell Carcinoma of Head and Neck
+KCNQ1OT1	Osteosarcoma
+KCNQ1OT1	Ovarian Neoplasms
+KCNQ1OT1	Leukemia Myeloid Acute
+KCNQ1OT1	Urinary Bladder Neoplasms
+KCNQ1OT1	Colonic Neoplasms
+KCNQ1OT1	Cholangiocarcinoma
+KCNQ1OT1	Melanoma
+KCNQ1OT1	Glioma
+KIAA0087	Endometrial Neoplasms
+KIAA0087	Pancreatic Neoplasms
+KIAA0125	Colonic Neoplasms
+KIAA0125	Colorectal Neoplasms
+KIAA0125	Gallbladder Neoplasms
+KMT2E-AS1	Astrocytoma
+KMT2E-AS1	Osteosarcoma
+KRT19P3	Stomach Neoplasms
+KRT19P3	Urinary Bladder Neoplasms
+KRT7-AS	Colorectal Neoplasms
+KRT7-AS	Stomach Neoplasms
+KRTAP5-AS1	Astrocytoma
+KRTAP5-AS1	Carcinoma Hepatocellular
+KTN1-AS1	Squamous Cell Carcinoma of Head and Neck
+KTN1-AS1	Carcinoma Hepatocellular
+l1pa16	Breast Neoplasms
+l1pa16	Carcinoma Hepatocellular
+l1pa16	Melanoma
+l1pa16	Carcinoma Non-Small-Cell Lung
+LBCS	Urinary Bladder Neoplasms
+LBCS	Prostatic Neoplasms
+LBX2-AS1	Astrocytoma
+LBX2-AS1	Carcinoma Renal Cell
+LBX2-AS1	Stomach Neoplasms
+LBX2-AS1	Esophageal Squamous Cell Carcinoma
+LBX2-AS1	Carcinoma Non-Small-Cell Lung
+LCAL6	Carcinoma Non-Small-Cell Lung
+LCAL6	Adenocarcinoma of Lung
+LEF1-AS1	Astrocytoma
+LEF1-AS1	Colorectal Neoplasms
+LEF1-AS1	Telangiectasia Hereditary Hemorrhagic
+LEF1-AS1	Carcinoma Hepatocellular
+LEF1-AS1	Retinoblastoma
+LEF1-AS1	Colonic Neoplasms
+LEF1-AS1	Lung Neoplasms
+LEF1-AS1	Squamous Cell Carcinoma of Head and Neck
+LEF1-AS1	Esophageal Squamous Cell Carcinoma
+LEF1-AS1	Carcinoma Non-Small-Cell Lung
+LEF1-AS1	Glioblastoma
+LEIGC	Stomach Neoplasms
+LET	Nasopharyngeal Carcinoma
+LET	Carcinoma Non-Small-Cell Lung
+LET	Stomach Neoplasms
+LIFR-AS1	Colorectal Neoplasms
+LIFR-AS1	Breast Neoplasms
+LINC00037	Uterine Cervical Neoplasms
+LINC00037	Carcinoma Renal Cell
+LINC00052	Breast Neoplasms
+LINC00052	Stomach Neoplasms
+LINC00052	Carcinoma Hepatocellular
+LINC00052	Glioma
+LINC00052	Uterine Cervical Neoplasms
+LINC00052	Squamous Cell Carcinoma of Head and Neck
+LINC00052	Triple Negative Breast Neoplasms
+LINC00114	Nasopharyngeal Neoplasms
+LINC00114	Colorectal Neoplasms
+LINC00115	Astrocytoma
+LINC00115	Adenocarcinoma of Lung
+LINC00115	Triple Negative Breast Neoplasms
+LINC00115	Glioma
+LINC00152	Uterine Cervical Neoplasms
+LINC00152	Colorectal Neoplasms
+LINC00152	Glioblastoma
+LINC00152	Breast Neoplasms
+LINC00152	Stomach Neoplasms
+LINC00152	Esophageal Neoplasms
+LINC00152	Ovarian Neoplasms
+LINC00152	Esophageal Squamous Cell Carcinoma
+LINC00152	Carcinoma Hepatocellular
+LINC00152	Hemangioma
+LINC00152	Osteosarcoma
+LINC00152	Thyroid Cancer Papillary
+LINC00152	Squamous Cell Carcinoma of Head and Neck
+LINC00152	Leukemia Myeloid Acute
+LINC00152	Pancreatic Neoplasms
+LINC00152	Carcinoma Renal Cell
+LINC00152	Colonic Neoplasms
+LINC00152	Triple Negative Breast Neoplasms
+LINC00152	Glioma
+LINC00152	Gallbladder Neoplasms
+LINC00152	Adenocarcinoma of Lung
+LINC00152	Lung Neoplasms
+LINC00152	Urinary Bladder Neoplasms
+LINC00160	Carcinoma Hepatocellular
+LINC00160	Carcinoma Renal Cell
+LINC00161	Carcinoma Hepatocellular
+LINC00161	Ovarian Neoplasms
+LINC00161	Osteosarcoma
+LINC00173	Astrocytoma
+LINC00173	Glioblastoma
+LINC00173	Carcinoma Hepatocellular
+LINC00173	Triple Negative Breast Neoplasms
+LINC00173	Esophageal Squamous Cell Carcinoma
+LINC00173	Small Cell Lung Carcinoma
+LINC00173	Leukemia
+LINC00174	Carcinoma Hepatocellular
+LINC00174	Glioma
+LINC00174	Colorectal Neoplasms
+LINC00176	Neoplasms
+LINC00176	Esophageal Neoplasms
+LINC00176	Carcinoma Hepatocellular
+LINC00176	Ovarian Neoplasms
+LINC00210	Liver Neoplasms
+LINC00210	Carcinoma Non-Small-Cell Lung
+LINC00210	Nasopharyngeal Neoplasms
+LINC00210	Thyroid Neoplasms
+LINC00221	Precursor Cell Lymphoblastic Leukemia-Lymphoma
+LINC00221	Carcinoma Hepatocellular
+LINC00221	Carcinoma Non-Small-Cell Lung
+LINC00261	Colonic Neoplasms
+LINC00261	Carcinoma Hepatocellular
+LINC00261	Carcinoma Non-Small-Cell Lung
+LINC00261	Pancreatic Neoplasms
+LINC00261	Stomach Neoplasms
+LINC00261	Cholangiocarcinoma
+LINC00261	Lung Neoplasms
+LINC00261	Laryngeal Neoplasms
+LINC00265	Colorectal Neoplasms
+LINC00265	Leukemia Myeloid Acute
+LINC00271	Schizophrenia
+LINC00271	Thyroid Cancer Papillary
+LINC00271	Diabetes Mellitus Type 2
+LINC00277	Carcinoma Non-Small-Cell Lung
+LINC00277	Uterine Cervical Neoplasms
+LINC00312	Nasopharyngeal Carcinoma
+LINC00312	Carcinoma Non-Small-Cell Lung
+LINC00312	Thyroid Neoplasms
+LINC00312	Urinary Bladder Neoplasms
+LINC00312	Ovarian Neoplasms
+LINC00312	Colorectal Neoplasms
+LINC00312	Adenocarcinoma of Lung
+LINC003121	Thyroid Neoplasms
+LINC00313	Thyroid Cancer Papillary
+LINC00313	Thyroid Neoplasms
+LINC00313	Glioma
+LINC00319	Urinary Bladder Neoplasms
+LINC00319	Uterine Cervical Neoplasms
+LINC00319	Ovarian Neoplasms
+LINC00319	Nasopharyngeal Neoplasms
+LINC00319	Leukemia Myeloid Acute
+LINC00319	Glioma
+LINC00319	Lung Neoplasms
+LINC00319	Adenocarcinoma of Lung
+LINC00324	Liver Neoplasms
+LINC00324	Stomach Neoplasms
+LINC00324	Breast Neoplasms
+LINC00324	Colorectal Neoplasms
+LINC00324	Adenocarcinoma of Lung
+LINC00324	Osteosarcoma
+LINC00336	Carcinoma Renal Cell
+LINC00336	Telangiectasia Hereditary Hemorrhagic
+LINC00337	Esophageal Squamous Cell Carcinoma
+LINC00337	Stomach Neoplasms
+LINC00337	Carcinoma Non-Small-Cell Lung
+LINC00339	Astrocytoma
+LINC00339	Breast Neoplasms
+LINC00339	Carcinoma Non-Small-Cell Lung
+LINC00339	Ovarian Neoplasms
+LINC00339	Triple Negative Breast Neoplasms
+LINC00339	Carcinoma Hepatocellular
+LINC00339	Glioma
+LINC00341	Colorectal Neoplasms
+LINC00341	Stomach Neoplasms
+LINC00346	Carcinoma Hepatocellular
+LINC00346	Urinary Bladder Neoplasms
+LINC00346	Stomach Neoplasms
+LINC00346	Pancreatic Neoplasms
+LINC00355	Prostatic Neoplasms
+LINC00355	Squamous Cell Carcinoma of Head and Neck
+LINC00355	Adenocarcinoma of Lung
+LINC00355	Urinary Bladder Neoplasms
+LINC00365	Stomach Neoplasms
+LINC00365	Breast Neoplasms
+LINC00441	Stomach Neoplasms
+LINC00441	Carcinoma Hepatocellular
+LINC00460	Colorectal Neoplasms
+LINC00460	Esophageal Squamous Cell Carcinoma
+LINC00460	Nasopharyngeal Carcinoma
+LINC00460	Carcinoma Non-Small-Cell Lung
+LINC00460	Colonic Neoplasms
+LINC00460	Stomach Neoplasms
+LINC00460	Thyroid Cancer Papillary
+LINC00460	Squamous Cell Carcinoma of Head and Neck
+LINC00460	Carcinoma Hepatocellular
+LINC00460	Adenocarcinoma of Lung
+LINC00460	Urinary Bladder Neoplasms
+LINC00460	Glioma
+LINC00460	Carcinoma Ovarian Epithelial
+LINC00460	Osteosarcoma
+LINC00460	Nasopharyngeal Neoplasms
+LINC00460	Breast Neoplasms
+LINC00460	Esophageal Neoplasms
+LINC00461	Astrocytoma
+LINC00461	Glioma
+LINC00461	Rectal Neoplasms
+LINC00461	Breast Neoplasms
+LINC00461	Carcinoma Hepatocellular
+LINC00461	Carcinoma Renal Cell
+LINC00461	Adenocarcinoma of Lung
+LINC00461	Carcinoma Non-Small-Cell Lung
+LINC00461	Colorectal Neoplasms
+LINC00461	Multiple Myeloma
+LINC00462	Pancreatic Neoplasms
+LINC00462	Carcinoma Hepatocellular
+LINC00467	Astrocytoma
+LINC00467	Neuroblastoma
+LINC00467	Squamous Cell Carcinoma of Head and Neck
+LINC00467	Carcinoma Hepatocellular
+LINC00467	Glioma
+LINC00467	Colorectal Neoplasms
+LINC00467	Adenocarcinoma of Lung
+LINC00470	Stomach Neoplasms
+LINC00470	Glioblastoma
+LINC00470	Carcinoma Hepatocellular
+LINC00472	Astrocytoma
+LINC00472	Breast Neoplasms
+LINC00472	Colorectal Neoplasms
+LINC00472	Adenocarcinoma of Lung
+LINC00472	Ovarian Neoplasms
+LINC00472	Osteosarcoma
+LINC00472	Stomach Neoplasms
+LINC00472	Carcinoma Hepatocellular
+LINC00472	Carcinoma Non-Small-Cell Lung
+LINC00472	Pancreatic Intraductal Neoplasms
+LINC00472	Carcinoma Ovarian Epithelial
+LINC00473	Astrocytoma
+LINC00473	Lung Neoplasms
+LINC00473	Carcinoma Mucoepidermoid
+LINC00473	Wilms Tumor
+LINC00473	Carcinoma Non-Small-Cell Lung
+LINC00473	Carcinoma Renal Cell
+LINC00473	Carcinoma Hepatocellular
+LINC00473	Breast Neoplasms
+LINC00473	Glioma
+LINC00473	Aortic Aneurysm Abdominal
+LINC00473	Colorectal Neoplasms
+LINC00473	Stomach Neoplasms
+LINC00473	Squamous Cell Carcinoma of Head and Neck
+LINC00473	Pancreatic Neoplasms
+LINC00473	Uterine Cervical Neoplasms
+LINC00483	Stomach Neoplasms
+LINC00483	Uterine Cervical Neoplasms
+LINC00483	Adenocarcinoma of Lung
+LINC00483	Colorectal Neoplasms
+LINC00504	Ovarian Neoplasms
+LINC00504	Colonic Neoplasms
+LINC00511	Breast Neoplasms
+LINC00511	Adenocarcinoma of Lung
+LINC00511	Carcinoma Non-Small-Cell Lung
+LINC00511	Colorectal Neoplasms
+LINC00511	Uterine Cervical Neoplasms
+LINC00511	Stomach Neoplasms
+LINC00511	Carcinoma Hepatocellular
+LINC00511	Leukemia-Lymphoma Adult T-Cell
+LINC00511	Glioma
+LINC00511	Ovarian Neoplasms
+LINC00511	Thyroid Cancer Papillary
+LINC00511	Thyroid Neoplasms
+LINC00511	Urinary Bladder Neoplasms
+LINC00511	Lung Neoplasms
+LINC00511	Osteosarcoma
+LINC00515	Glioma
+LINC00515	Ovarian Neoplasms
+LINC00518	Breast Neoplasms
+LINC00518	Uterine Cervical Neoplasms
+LINC00518	Prostatic Neoplasms
+LINC00518	Urinary Bladder Neoplasms
+LINC00520	Colorectal Neoplasms
+LINC00520	Thyroid Cancer Papillary
+LINC00520	Breast Neoplasms
+LINC00520	Nasopharyngeal Neoplasms
+LINC00525	Carcinoma Non-Small-Cell Lung
+LINC00525	Urinary Bladder Neoplasms
+LINC00525	Colorectal Neoplasms
+LINC00538	Neoplasms
+LINC00538	Colorectal Neoplasms
+LINC00565	Ovarian Neoplasms
+LINC00565	Stomach Neoplasms
+LINC00572	Glioblastoma
+LINC00572	Stomach Neoplasms
+LINC00598	Breast Neoplasms
+LINC00612	Osteosarcoma
+LINC00612	Urinary Bladder Neoplasms
+LINC00628	Breast Neoplasms
+LINC00628	Stomach Neoplasms
+LINC00628	Carcinoma Hepatocellular
+LINC00628	Adenocarcinoma of Lung
+LINC00629	Stomach Neoplasms
+LINC00629	Choriocarcinoma
+LINC00641	Leukemia Myeloid Acute
+LINC00641	Urinary Bladder Neoplasms
+LINC00641	Breast Neoplasms
+LINC00641	Carcinoma Non-Small-Cell Lung
+LINC00657	Glioblastoma
+LINC00657	Carcinoma Hepatocellular
+LINC00657	Breast Neoplasms
+LINC00662	Chordoma
+LINC00662	Carcinoma Hepatocellular
+LINC00662	Colonic Neoplasms
+LINC00662	Prostatic Neoplasms
+LINC00662	Stomach Neoplasms
+LINC00662	Lung Neoplasms
+LINC00662	Squamous Cell Carcinoma of Head and Neck
+LINC00662	Leukemia Myeloid Acute
+LINC00663	Glioblastoma
+LINC00663	Lung Neoplasms
+LINC00663	Thyroid Neoplasms
+LINC00663	Pancreatic Neoplasms
+LINC00663	Stomach Neoplasms
+LINC00663	Breast Neoplasms
+LINC00663	Prostatic Neoplasms
+LINC00665	Stomach Neoplasms
+LINC00665	Prostatic Neoplasms
+LINC00665	Breast Neoplasms
+LINC00665	Carcinoma Non-Small-Cell Lung
+LINC00665	Adenocarcinoma of Lung
+LINC00665	Carcinoma Hepatocellular
+LINC00667	Carcinoma Non-Small-Cell Lung
+LINC00667	Glioma
+LINC00667	Breast Neoplasms
+LINC00668	Squamous Cell Carcinoma of Head and Neck
+LINC00668	Stomach Neoplasms
+LINC00668	Breast Neoplasms
+LINC00668	Glioma
+LINC00668	Carcinoma Hepatocellular
+LINC00668	Carcinoma Non-Small-Cell Lung
+LINC00673	Melanoma
+LINC00673	Carcinoma Non-Small-Cell Lung
+LINC00673	Pancreatic Neoplasms
+LINC00673	Stomach Neoplasms
+LINC00673	Thyroid Cancer Papillary
+LINC00673	Prostatic Neoplasms
+LINC00673	Thyroid Neoplasms
+LINC00673	Breast Neoplasms
+LINC00673	Lung Neoplasms
+LINC00673	Carcinoma Hepatocellular
+LINC00675	Colorectal Neoplasms
+LINC00675	Stomach Neoplasms
+LINC00675	Carcinoma Renal Cell
+LINC00675	Uterine Cervical Neoplasms
+LINC00675	Esophageal Squamous Cell Carcinoma
+LINC00689	Astrocytoma
+LINC00689	Glioblastoma
+LINC00704	Thyroid Neoplasms
+LINC00704	Breast Neoplasms
+LINC00707	Adenocarcinoma of Lung
+LINC00707	Melanoma
+LINC00707	Colorectal Neoplasms
+LINC00707	Carcinoma Non-Small-Cell Lung
+LINC00707	Carcinoma Hepatocellular
+LINC00707	Stomach Neoplasms
+LINC00850	Muscular Dystrophy Duchenne
+LINC00857	Stomach Neoplasms
+LINC00857	Urinary Bladder Neoplasms
+LINC00857	Adenocarcinoma of Lung
+LINC00857	Carcinoma Hepatocellular
+LINC00857	Lung Neoplasms
+LINC00858	Colorectal Neoplasms
+LINC00858	Carcinoma Non-Small-Cell Lung
+LINC00858	Stomach Neoplasms
+LINC00858	Osteosarcoma
+LINC00858	Colonic Neoplasms
+LINC00858	Lung Neoplasms
+LINC0086	Nasopharyngeal Carcinoma
+LINC00882	Neoplasms
+LINC00882	Carcinoma Renal Cell
+LINC00887	Astrocytoma
+LINC00887	Carcinoma Renal Cell
+LINC00899	Leukemia Myeloid Acute
+LINC00899	Breast Neoplasms
+LINC00901	Breast Neoplasms
+LINC00901	Osteosarcoma
+LINC00901	Stomach Neoplasms
+LINC00908	Prostatic Neoplasms
+LINC00908	Triple Negative Breast Neoplasms
+LINC00926	Astrocytoma
+LINC00926	Carcinoma Hepatocellular
+LINC00941	Adenocarcinoma of Lung
+LINC00941	Stomach Neoplasms
+LINC00958	Adenocarcinoma of Lung
+LINC00958	Carcinoma Non-Small-Cell Lung
+LINC00958	Stomach Neoplasms
+LINC00958	Carcinoma Hepatocellular
+LINC00958	Nasopharyngeal Neoplasms
+LINC00958	Uterine Cervical Neoplasms
+LINC00958	Squamous Cell Carcinoma of Head and Neck
+LINC00958	Pancreatic Neoplasms
+LINC00958	Glioma
+LINC00958	Urinary Bladder Neoplasms
+LINC00959	Parathyroid Neoplasms
+LINC00959	Breast Neoplasms
+LINC00959	Colorectal Neoplasms
+LINC00961	Carcinoma Non-Small-Cell Lung
+LINC00961	Glioma
+LINC00961	Ovarian Neoplasms
+LINC00961	Adenocarcinoma of Lung
+LINC00963	Glioblastoma
+LINC00963	Glioma
+LINC00963	Prostate
+LINC00963	Prostatic Neoplasms
+LINC00963	Carcinoma Renal Cell
+LINC00963	Ovarian Neoplasms
+LINC00963	Breast Neoplasms
+LINC00963	Osteosarcoma
+LINC00963	Melanoma
+LINC00968	Osteosarcoma
+LINC00968	Breast Neoplasms
+LINC00968	Carcinoma Non-Small-Cell Lung
+LINC00968	Adenocarcinoma of Lung
+LINC00969	Prostatic Neoplasms
+LINC00973	Colonic Neoplasms
+LINC00973	Colorectal Neoplasms
+LINC00974	Squamous Cell Carcinoma of Head and Neck
+LINC00974	Stomach Neoplasms
+LINC00974	Carcinoma Hepatocellular
+LINC00978	Carcinoma Hepatocellular
+LINC00978	Stomach Neoplasms
+LINC00978	Breast Neoplasms
+LINC00982	Stomach Neoplasms
+LINC00982	Kidney Neoplasms
+LINC00982	Adenocarcinoma of Lung
+LINC00982	Thyroid Cancer Papillary
+LINC00994	Stomach Neoplasms
+LINC00994	Pancreatic Neoplasms
+LINC01006	Pancreatic Neoplasms
+LINC01006	Stomach Neoplasms
+LINC01013	Astrocytoma
+LINC01013	Thyroid Cancer Papillary
+LINC01018	Astrocytoma
+LINC01018	Carcinoma Hepatocellular
+LINC01061	Cholangiocarcinoma
+LINC01061	Thyroid Cancer Papillary
+LINC01082	Colonic Neoplasms
+LINC01082	Urinary Bladder Neoplasms
+LINC01088	Carcinoma Non-Small-Cell Lung
+LINC01088	Carcinoma Ovarian Epithelial
+LINC01088	Ovarian Neoplasms
+LINC01089	Astrocytoma
+LINC01089	Breast Neoplasms
+LINC01093	Carcinoma Non-Small-Cell Lung
+LINC01093	Carcinoma Hepatocellular
+LINC01104	Astrocytoma
+LINC01104	Glioblastoma
+LINC01116	Breast Neoplasms
+LINC01116	Glioblastoma
+LINC01116	Glioma
+LINC01116	Carcinoma Non-Small-Cell Lung
+LINC01116	Nasopharyngeal Neoplasms
+LINC01116	Osteosarcoma
+LINC01116	Squamous Cell Carcinoma of Head and Neck
+LINC01116	Prostatic Neoplasms
+LINC01125	Breast Neoplasms
+LINC01125	Ovarian Neoplasms
+LINC01133	Colorectal Neoplasms
+LINC01133	Carcinoma Non-Small-Cell Lung
+LINC01133	Esophageal Squamous Cell Carcinoma
+LINC01133	Breast Neoplasms
+LINC01133	Nasopharyngeal Neoplasms
+LINC01133	Stomach Neoplasms
+LINC01133	Squamous Cell Carcinoma of Head and Neck
+LINC01133	Pancreatic Neoplasms
+LINC01133	Carcinoma Hepatocellular
+LINC01133	Uterine Cervical Neoplasms
+LINC01133	Triple Negative Breast Neoplasms
+LINC01133	Osteosarcoma
+LINC01138	Carcinoma Hepatocellular
+LINC01138	Prostatic Neoplasms
+LINC01138	Carcinoma Renal Cell
+LINC01139	Glioma
+LINC01139	Telangiectasia Hereditary Hemorrhagic
+LINC01139	Carcinoma Hepatocellular
+LINC01139	Uterine Cervical Neoplasms
+LINC01140	Glioma
+LINC01140	Breast Neoplasms
+LINC01158	Astrocytoma
+LINC01158	Glioma
+LINC01158	Carcinoma Squamous Cell
+LINC01158	Stomach Neoplasms
+LINC01186	Lung Neoplasms
+LINC01194	Carcinoma Non-Small-Cell Lung
+LINC01194	Colorectal Neoplasms
+LINC01207	Pancreatic Neoplasms
+LINC01207	Adenocarcinoma of Lung
+LINC01225	Carcinoma Hepatocellular
+LINC01225	Stomach Neoplasms
+LINC01234	Astrocytoma
+LINC01234	Breast Neoplasms
+LINC01234	Carcinoma Squamous Cell
+LINC01234	Stomach Neoplasms
+LINC01234	Esophageal Neoplasms
+LINC01234	Squamous Cell Carcinoma of Head and Neck
+LINC01234	Multiple Myeloma
+LINC01234	Carcinoma Non-Small-Cell Lung
+LINC01234	Colonic Neoplasms
+LINC01234	Colorectal Neoplasms
+LINC01234	Carcinoma Hepatocellular
+LINC01262	Parkinson Disease
+LINC01287	Carcinoma Hepatocellular
+LINC01287	Breast Neoplasms
+LINC01296	Colorectal Neoplasms
+LINC01296	Prostatic Neoplasms
+LINC01296	Stomach Neoplasms
+LINC01296	Urinary Bladder Neoplasms
+LINC01296	Breast Neoplasms
+LINC01296	Carcinoma Non-Small-Cell Lung
+LINC01296	Thyroid Neoplasms
+LINC01296	Carcinoma Hepatocellular
+LINC01296	Esophageal Squamous Cell Carcinoma
+LINC01296	Colonic Neoplasms
+LINC01314	Stomach Neoplasms
+LINC01314	Hepatoblastoma
+LINC01315	Nasopharyngeal Carcinoma
+LINC01354	Osteosarcoma
+LINC01354	Adenocarcinoma of Lung
+LINC01354	Lung Neoplasms
+LINC01354	Colorectal Neoplasms
+LINC01410	Endometrial Neoplasms
+LINC01410	Cholangiocarcinoma
+LINC01410	Colonic Neoplasms
+LINC01419	Carcinoma Hepatocellular
+LINC01419	Esophageal Squamous Cell Carcinoma
+LINC01419	Adenocarcinoma of Lung
+LINC01419	Stomach Neoplasms
+LINC01420	Pancreatic Neoplasms
+LINC01420	Thyroid Neoplasms
+LINC01420	Nasopharyngeal Neoplasms
+LINC01426	Astrocytoma
+LINC01426	Carcinoma Squamous Cell
+LINC01433	Carcinoma Hepatocellular
+LINC01433	Carcinoma Non-Small-Cell Lung
+LINC01436	Stomach Neoplasms
+LINC01436	Carcinoma Non-Small-Cell Lung
+LINC01503	Carcinoma Squamous Cell
+LINC01503	Stomach Neoplasms
+LINC01503	Glioma
+LINC01503	Colorectal Neoplasms
+LINC01503	Uterine Cervical Neoplasms
+LINC01510	Thyroid Cancer Papillary
+LINC01510	Carcinoma Non-Small-Cell Lung
+LINC01510	Carcinoma Renal Cell
+LINC01510	Colorectal Neoplasms
+LINC01561	Carcinoma Non-Small-Cell Lung
+LINC01561	Breast Neoplasms
+LINC01614	Carcinoma Non-Small-Cell Lung
+LINC01614	Breast Neoplasms
+LINC01616	Alzheimer Disease
+LINC01638	Triple Negative Breast Neoplasms
+LINC01638	Breast Neoplasms
+LINC01772	Alzheimer Disease
+LINC01772	Astrocytoma
+LINC01772	Ovarian Neoplasms
+LINC01772	Pancreatic Neoplasms
+LINC01772	Stomach Neoplasms
+LINC01852	Adenocarcinoma of Lung
+LINC01852	Carcinoma Non-Small-Cell Lung
+LINC01857	Glioma
+LINC01857	Breast Neoplasms
+LINC02041	Astrocytoma
+LINC02041	Pancreatic Neoplasms
+LINC02042	Carcinoma Non-Small-Cell Lung
+LINC02418	Carcinoma Non-Small-Cell Lung
+LINC02418	Colorectal Neoplasms
+LINC02424	Astrocytoma
+LINC02424	Intervertebral Disc Degeneration
+LINC-ITGB1	Carcinoma Hepatocellular
+LINC-ITGB1	Carcinoma Non-Small-Cell Lung
+LINC-ITGB1	Colorectal Neoplasms
+LINC-ITGB1	Gallbladder Neoplasms
+LINC-ITGB1	Breast Neoplasms
+LINC-NeD125	Neuroblastoma
+LINC-NeD125	Medulloblastoma
+LINC-OIP5	Breast Neoplasms
+LINC-OIP5	Glioma
+LINC-PINT	Lung Neoplasms
+LINC-PINT	Melanoma
+LINC-PINT	Osteosarcoma
+LINC-PINT	Laryngeal Neoplasms
+LINC-PINT	Carcinoma Renal Cell
+LINC-PINT	Stomach Neoplasms
+LINC-PINT	Adenocarcinoma of Lung
+LINC-PINT	Pancreatic Neoplasms
+LINC-PINT	Precursor Cell Lymphoblastic Leukemia-Lymphoma
+LINC-PINT	Colorectal Neoplasms
+LINC-PINT	Prostatic Neoplasms
+LINC-POU3F3	Stomach Neoplasms
+LINC-POU3F3	Esophageal Squamous Cell Carcinoma
+LINC-POU3F3	Colonic Neoplasms
+LINC-POU3F3	Colorectal Neoplasms
+LINC-POU3F3	Breast Neoplasms
+LINC-POU3F3	Glioma
+LINC-POU3F3	Carcinoma Hepatocellular
+LincRNAFEZF1-AS1	Stomach Neoplasms
+LINCRNA-p21	Glioma
+LINCRNA-p21	Carcinoma Hepatocellular
+LINCRNA-p21	Carcinoma Non-Small-Cell Lung
+LINCRNA-p21	Prostatic Neoplasms
+LINCRNA-p21	Stomach Neoplasms
+LINCRNA-p21	Breast Neoplasms
+LINCRNA-p21	Urinary Bladder Neoplasms
+LINCRNA-p21	Liver Neoplasms
+LINCRNA-p21	Colonic Neoplasms
+LINCRNA-p21	Esophageal Squamous Cell Carcinoma
+LINCRNA-p21	Burkitt Lymphoma
+LINCRNA-p21	Leukemia Lymphocytic Chronic B-Cell
+LINCRNA-p21	Lung Neoplasms
+LINCRNA-p21	Osteosarcoma
+LINCRNA-p21	Lymphoma B-Cell
+LINCRNA-p21	Uterine Cervical Neoplasms
+LINCRNA-p21	Colorectal Neoplasms
+lincRNA-ROR	Neoplasms
+lincRNA-ROR	Colonic Neoplasms
+LINC-ROR	Breast Neoplasms
+LINC-ROR	Colonic Neoplasms
+LINC-ROR	Colorectal Neoplasms
+LINC-ROR	Endometrial Neoplasms
+LINC-ROR	Esophageal Squamous Cell Carcinoma
+LINC-ROR	Gallbladder Neoplasms
+LINC-ROR	Carcinoma Hepatocellular
+LINC-ROR	Adenocarcinoma of Lung
+LINC-ROR	Glioma
+LINC-ROR	Melanoma
+LINC-ROR	Nasopharyngeal Carcinoma
+LINC-ROR	Carcinoma Non-Small-Cell Lung
+LINC-ROR	Ovarian Neoplasms
+LINC-ROR	Pancreatic Neoplasms
+LINC-ROR	Thyroid Cancer Papillary
+LINC-ROR	Carcinoma Renal Cell
+LINC-ROR	Stomach Neoplasms
+LINC-ROR	Thyroid Carcinoma Anaplastic
+LINC-ROR	Liver Neoplasms
+LINC-ROR	Prostatic Neoplasms
+LINC-ROR	Mouth Neoplasms
+LINC-ROR	Uterine Cervical Neoplasms
+LINC-ROR	Esophageal Neoplasms
+LINC-ROR	Sarcoma
+LINC-ROR	Glioblastoma
+LINC-ROR	Triple Negative Breast Neoplasms
+LINC-ROR	Nasopharyngeal Neoplasms
+LINC-ROR	Urinary Bladder Neoplasms
+LINC-ROR	Lung Neoplasms
+LINC-ROR	Thyroid Neoplasms
+LINC-UBC1	Colorectal Neoplasms
+LINC-UBC1	Stomach Neoplasms
+LINC-UBC1	Urinary Bladder Neoplasms
+LINC-UFC1	Carcinoma Hepatocellular
+LINC-UFC1	Colorectal Neoplasms
+LINC-UFC1	Uterine Cervical Neoplasms
+LINC-UFC1	Stomach Neoplasms
+LINK-A	Carcinoma Ovarian Epithelial
+LINK-A	Osteosarcoma
+LINK-A	Ovarian Neoplasms
+LINK-A	Glioma
+LINK-A	Carcinoma Non-Small-Cell Lung
+LINK-A	Lymphoma Mantle-Cell
+LINK-A	Breast Neoplasms
+LINP1	Breast Neoplasms
+LINP1	Uterine Cervical Neoplasms
+LINP1	Stomach Neoplasms
+LINP1	Ovarian Neoplasms
+LINP1	Prostatic Neoplasms
+LINP1	Endometrial Neoplasms
+LINP1	Leukemia Myeloid Acute
+LINP1	Wilms Tumor
+LL22NC03-N64E9.1	Lung Neoplasms
+LL22NC03-N64E9.1	Colorectal Neoplasms
+LMCD1-AS1	Osteosarcoma
+LMCD1-AS1	Cholangiocarcinoma
+LMCD1-AS1	Carcinoma Hepatocellular
+lnc01614	Esophageal Squamous Cell Carcinoma
+lnc01614	Stomach Neoplasms
+lncAGER	Colorectal Neoplasms
+lncAGER	Lung Neoplasms
+lnc-AL355149.1-1	Nasopharyngeal Carcinoma
+lnc-AL355149.1-1	Nasopharyngeal Neoplasms
+lncARSR	Non-alcoholic Fatty Liver Disease
+lncARSR	Carcinoma Renal Cell
+lncARSR	Carcinoma Hepatocellular
+lncARSR	Carcinoma Non-Small-Cell Lung
+lncARSR	Urinary Bladder Neoplasms
+lncARSR	Carcinoma Ovarian Epithelial
+lnc-ATB	Colorectal Neoplasms
+lnc-ATB	Breast Neoplasms
+lnc-ATB	Endometrial Neoplasms
+lncBRM	Colorectal Neoplasms
+lncBRM	Ovarian Neoplasms
+lncBRM	Carcinoma Hepatocellular
+lncCAMTA1	Breast Neoplasms
+lncCAMTA1	Carcinoma Hepatocellular
+lnc-DC	Coronary Artery Disease
+lnc-DC	Pre-Eclampsia
+lnc-DC	Diabetes Mellitus Type 2
+lnc-DILC	Urinary Bladder Neoplasms
+lnc-DILC	Carcinoma Renal Cell
+lnc-DILC	Colorectal Neoplasms
+lnc-DILC	Liver Neoplasms
+lnc-EGFR	Carcinoma Hepatocellular
+lncGPR107	Carcinoma Hepatocellular
+lncGPR107	Liver Neoplasms
+lnc-HOST2	Breast Neoplasms
+lnc-HOST2	Ovarian Neoplasms
+lnc-HOST2	Osteosarcoma
+lnc-HOST2	Carcinoma Hepatocellular
+lnc-KCTD6-3	Pharyngeal Neoplasms
+lnc-KCTD6-3	Tongue Neoplasms
+lnc-KCTD6-3	Laryngeal Neoplasms
+lnc-LCE5A-1	Squamous Cell Carcinoma of Head and Neck
+lnc-LCE5A-1	Laryngeal Neoplasms
+lnc-LCE5A-1	Pharyngeal Neoplasms
+lnc-LCE5A-1	Tongue Neoplasms
+lnc-OC1	Ovarian Neoplasms
+lnc-OC1	Colorectal Neoplasms
+LncRNA ROR	Urinary Bladder Neoplasms
+lncRNA00673	Colorectal Neoplasms
+lncRNA00673	Carcinoma Hepatocellular
+lncRNA-422	Colorectal Neoplasms
+lncRNA625	Esophageal Squamous Cell Carcinoma
+lncRNA625	Esophageal Neoplasms
+lncRNA-AK058803	Breast Neoplasms
+lncRNA-AK058803	Carcinoma Hepatocellular
+lncRNA-AK058803	Stomach Neoplasms
+lncRNA-ATB	Breast Neoplasms
+lncRNA-ATB	Colonic Neoplasms
+lncRNA-ATB	Colorectal Neoplasms
+lncRNA-ATB	Carcinoma Hepatocellular
+lncRNA-ATB	Carcinoma Non-Small-Cell Lung
+lncRNA-ATB	Osteosarcoma
+lncRNA-ATB	Pancreatic Neoplasms
+lncRNA-ATB	Stomach Neoplasms
+lncRNA-ATB	Thyroid Cancer Papillary
+lncRNA-ATB	Ovarian Neoplasms
+lncRNA-ATB	Adenocarcinoma of Lung
+lncRNA-ATB	Lung Neoplasms
+lncRNA-ATB	Urinary Bladder Neoplasms
+lncRNA-ATB	Esophageal Squamous Cell Carcinoma
+lncRNA-ATB	Thyroid Neoplasms
+lncRNA-ATB	Glioma
+lncRNA-ATB	Carcinoma Renal Cell
+lncRNA-ATB	Uterine Cervical Neoplasms
+lncRNA-ATB	Prostatic Neoplasms
+lncRNA-ATB	Melanoma
+LncRNA-BCAT1	Colorectal Neoplasms
+lncRNA-CIR	Osteosarcoma
+lncRNA-CIR	Urinary Bladder Neoplasms
+lncRNA-EBIC	Carcinoma Hepatocellular
+lncRNA-EBIC	Uterine Cervical Neoplasms
+lncRNA-HEIH	Colorectal Neoplasms
+lncRNA-HEIH	Carcinoma Hepatocellular
+lncRNA-HIT	Carcinoma Non-Small-Cell Lung
+lncRNA-HIT	Breast Neoplasms
+LncRNA-LALR1	Liver Neoplasms
+lncRNA-LET	Carcinoma Renal Cell
+lncRNA-LET	Esophageal Squamous Cell Carcinoma
+lncRNA-LET	Uterine Cervical Neoplasms
+lncRNA-LET	Urinary Bladder Neoplasms
+lncRNA-LET	Carcinoma Non-Small-Cell Lung
+lncRNA-LET	Adenocarcinoma of Lung
+lncRNA-LET	Gallbladder Neoplasms
+lncRNA-LET	Colorectal Neoplasms
+lncRNA-LET	Carcinoma Hepatocellular
+lncRNA-LET	Stomach Neoplasms
+lncRNA-LET	Nasopharyngeal Neoplasms
+lncRNA-MIF	Uterine Cervical Neoplasms
+lncRNA-MIF	Colonic Neoplasms
+lncRNA-MIF	Breast Neoplasms
+lncRNA-MIF	Lung Neoplasms
+lncRNA-MVIH	Carcinoma Hepatocellular
+lncRNA-MVIH	Carcinoma Non-Small-Cell Lung
+lncRNA-NEF	Cholangiocarcinoma
+lncRNA-NEF	Osteosarcoma
+lncRNA-NEF	Small Cell Lung Carcinoma
+lncRNA-NEF	Carcinoma Hepatocellular
+lncRNA-p21	Prostatic Neoplasms
+lncRNA-p21	Carcinoma Hepatocellular
+lncRNA-PRAL	Carcinoma Hepatocellular
+lncRNA-PRAL	Lung Neoplasms
+lncRNA-PRAL	Multiple Myeloma
+lncRNA-ROR	Colorectal Neoplasms
+lncRNA-UCA1	Glioma
+lncRNA-UCA1	Bile Duct Neoplasms
+lncRNA-UCA1	Carcinoma Hepatocellular
+lncRNA-URHC	Colorectal Neoplasms
+lncRNA-URHC	Carcinoma Hepatocellular
+lncSox4	Carcinoma Hepatocellular
+lncSox4	Carcinoma Ovarian Epithelial
+lncSox4	Osteosarcoma
+lnc-Sox5	Tongue Neoplasms
+lnc-Sox5	Colorectal Neoplasms
+lncTCF7	Colorectal Neoplasms
+lncTCF7	Carcinoma Hepatocellular
+lncTCF7	Carcinoma Non-Small-Cell Lung
+lncTCF7	Glioma
+lnc-THOR	Glioma
+lnc-THOR	Osteosarcoma
+lnc-THOR	Carcinoma Renal Cell
+lnc-THOR	Nasopharyngeal Neoplasms
+lncUSMycN	Breast Neoplasms
+lncUSMycN	Neuroblastoma
+lnc-ZNF674-1	Nasopharyngeal Carcinoma
+lnc-ZNF674-1	Nasopharyngeal Neoplasms
+LOC100130476	Carcinoma Squamous Cell
+LOC100130476	Esophageal Squamous Cell Carcinoma
+LOC100507661	Colorectal Neoplasms
+LOC100507661	Thyroid Neoplasms
+LOC109207222	Pneumoconiosis
+LOC109207222	Carcinoma Renal Cell
+LOC146880	Lung Neoplasms
+LOC146880	Carcinoma Non-Small-Cell Lung
+LOC283070	Prostatic Neoplasms
+LOC283070	Colorectal Neoplasms
+LOC284454	Nasopharyngeal Neoplasms
+LOC284454	Breast Neoplasms
+LOC285194	Stomach Neoplasms
+LOC285194	Carcinoma Non-Small-Cell Lung
+LOC285194	Carcinoma Hepatocellular
+LOC285194	Colorectal Neoplasms
+LOC285194	Breast Neoplasms
+LOC285194	Colonic Neoplasms
+LOC285758	Leukemia Myeloid Acute
+LOC285758	Glioma
+LOC344887	Carcinoma Non-Small-Cell Lung
+LOC344887	Gallbladder Neoplasms
+LOC389332	Stomach Neoplasms
+LOC389332	Carcinoma Renal Cell
+LOC440905	Adenocarcinoma of Lung
+LOC440905	Carcinoma Non-Small-Cell Lung
+LOC441178	Squamous Cell Carcinoma of Head and Neck
+LOC553103	Nasopharyngeal Carcinoma
+LOC553103	Stomach Neoplasms
+LOC553103	Nasopharyngeal Neoplasms
+LOC554202	Breast Neoplasms
+LOC554202	Uterine Cervical Neoplasms
+LOC554202	Chordoma
+LOC554202	Colorectal Neoplasms
+LOC554202	Stomach Neoplasms
+LOC554202	Carcinoma Non-Small-Cell Lung
+LOC730101	Carcinoma Non-Small-Cell Lung
+LOC730101	Osteosarcoma
+LOC730101	Lung Neoplasms
+LOXL1-AS1	Ovarian Neoplasms
+LOXL1-AS1	Endometrial Neoplasms
+LOXL1-AS1	Adenocarcinoma of Lung
+LOXL1-AS1	Carcinoma Non-Small-Cell Lung
+LOXL1-AS1	Pancreatic Neoplasms
+LOXL1-AS1	Osteosarcoma
+LOXL1-AS1	Breast Neoplasms
+LOXL1-AS1	Stomach Neoplasms
+LOXL1-AS1	Prostatic Neoplasms
+LOXL1-AS1	Cholangiocarcinoma
+LOXL1-AS1	Medulloblastoma
+LOXL1-AS1	Glioblastoma
+LRRC2-AS1	Astrocytoma
+LRRC2-AS1	Schizophrenia
+LRRC75A-AS1	Astrocytoma
+LRRC75A-AS1	Arthritis Rheumatoid
+LSINCT1	Breast Neoplasms
+LSINCT1	Lung Neoplasms
+LSINCT10	Breast Neoplasms
+LSINCT10	Lung Neoplasms
+LSINCT11	Breast Neoplasms
+LSINCT11	Lung Neoplasms
+LSINCT12	Breast Neoplasms
+LSINCT12	Lung Neoplasms
+LSINCT2	Breast Neoplasms
+LSINCT2	Lung Neoplasms
+LSINCT3	Breast Neoplasms
+LSINCT3	Lung Neoplasms
+LSINCT4	Breast Neoplasms
+LSINCT4	Lung Neoplasms
+LSINCT5	Carcinoma Non-Small-Cell Lung
+LSINCT5	Breast Neoplasms
+LSINCT5	Urinary Bladder Neoplasms
+LSINCT5	Stomach Neoplasms
+LSINCT5	Osteosarcoma
+LSINCT5	Carcinoma Hepatocellular
+LSINCT5	Glioma
+LSINCT5	Ovarian Neoplasms
+LSINCT5	Lung Neoplasms
+LSINCT5	Carcinoma Ovarian Epithelial
+LSINCT5	Colorectal Neoplasms
+LSINCT6	Breast Neoplasms
+LSINCT6	Lung Neoplasms
+LSINCT7	Breast Neoplasms
+LSINCT7	Lung Neoplasms
+LSINCT8	Breast Neoplasms
+LSINCT8	Lung Neoplasms
+LSINCT9	Breast Neoplasms
+LSINCT9	Lung Neoplasms
+LUADT1	Adenocarcinoma of Lung
+LUADT1	Melanoma
+LUADT1	Small Cell Lung Carcinoma
+LUADT1	Colorectal Neoplasms
+LUCAT1	Carcinoma Renal Cell
+LUCAT1	Esophageal Squamous Cell Carcinoma
+LUCAT1	Glioma
+LUCAT1	Squamous Cell Carcinoma of Head and Neck
+LUCAT1	Lung Neoplasms
+LUCAT1	Carcinoma Non-Small-Cell Lung
+LUCAT1	Osteosarcoma
+LUCAT1	Ovarian Neoplasms
+LUCAT1	Uterine Cervical Neoplasms
+LUCAT1	Pancreatic Neoplasms
+LUCAT1	Stomach Neoplasms
+LUCAT1	Colorectal Neoplasms
+LUCAT1	Liver Neoplasms
+LUCAT1	Prostatic Neoplasms
+LUCAT1	Thyroid Cancer Papillary
+LUCAT1	Hepatoblastoma
+LUCAT1	Carcinoma Hepatocellular
+LUCAT1	Triple Negative Breast Neoplasms
+LUCAT1	Breast Neoplasms
+LUNAR1	Leukemia-Lymphoma Adult T-Cell
+LUNAR1	Lymphoma Large B-Cell Diffuse
+LUNAR1	Colorectal Neoplasms
+LUNAR1	Breast Neoplasms
+MACC1-AS1	Adenocarcinoma of Lung
+MACC1-AS1	Nasopharyngeal Neoplasms
+MACC1-AS1	Carcinoma Hepatocellular
+MACC1-AS1	Stomach Neoplasms
+MACC1-AS1	Pancreatic Neoplasms
+MAFG-AS1	Stomach Neoplasms
+MAFG-AS1	Breast Neoplasms
+MAFG-AS1	Carcinoma Hepatocellular
+MAFG-AS1	Colorectal Neoplasms
+MAFG-AS1	Carcinoma Non-Small-Cell Lung
+MAFG-AS1	Adenocarcinoma of Lung
+MAGI2-AS3	Carcinoma Non-Small-Cell Lung
+MAGI2-AS3	Colorectal Neoplasms
+MAGI2-AS3	Stomach Neoplasms
+MAGI2-AS3	Glioma
+MAGI2-AS3	Urinary Bladder Neoplasms
+MAGI2-AS3	Breast Neoplasms
+MALAT1	Leukemia Monocytic Acute
+MALAT1	Leukemia Myeloid Acute
+MALAT1	Amyotrophic Lateral Sclerosis
+MALAT1	Astrocytoma
+MALAT1	Lymphoma B-Cell
+MALAT1	Breast Neoplasms
+MALAT1	Neoplasms
+MALAT1	Uterine Cervical Neoplasms
+MALAT1	Cholangiocarcinoma
+MALAT1	Choriocarcinoma
+MALAT1	Colonic Neoplasms
+MALAT1	Colorectal Neoplasms
+MALAT1	Congenital Microtia
+MALAT1	Diabetes Mellitus
+MALAT1	Diabetic Cardiomyopathies
+MALAT1	Diabetic Nephropathies
+MALAT1	Sarcoma Endometrial Stromal
+MALAT1	Esophageal Neoplasms
+MALAT1	Esophageal Squamous Cell Carcinoma
+MALAT1	Fatty Liver
+MALAT1	Fibroma
+MALAT1	Fibrosarcoma
+MALAT1	Flavivirus Infections
+MALAT1	Gallbladder Neoplasms
+MALAT1	Gastrointestinal Neoplasms
+MALAT1	Glioblastoma
+MALAT1	Glioma
+MALAT1	Carcinoma Hepatocellular
+MALAT1	Hemangioma
+MALAT1	HIV
+MALAT1	Hyperglycemia
+MALAT1	Kidney Neoplasms
+MALAT1	Klatskin Tumor
+MALAT1	Squamous Cell Carcinoma of Head and Neck
+MALAT1	Liver Neoplasms
+MALAT1	Liver Cirrhosis
+MALAT1	Adenocarcinoma of Lung
+MALAT1	Lung Neoplasms
+MALAT1	Carcinoma Non-Small-Cell Lung
+MALAT1	Lymphatic Metastasis
+MALAT1	Lymphoma Mantle-Cell
+MALAT1	Melanoma
+MALAT1	Multiple Myeloma
+MALAT1	Nasopharyngeal Carcinoma
+MALAT1	Neuroblastoma
+MALAT1	Osteosarcoma
+MALAT1	Ovarian Neoplasms
+MALAT1	Carcinoma Ovarian Epithelial
+MALAT1	Pancreatic Neoplasms
+MALAT1	Thyroid Cancer Papillary
+MALAT1	Parkinson Disease
+MALAT1	Pituitary Neoplasms
+MALAT1	Pre-Eclampsia
+MALAT1	Familial Primary Pulmonary Hypertension
+MALAT1	Vitreoretinopathy Proliferative
+MALAT1	Prostate
+MALAT1	Prostatic Neoplasms
+MALAT1	Carcinoma Renal Cell
+MALAT1	Retinal Degeneration
+MALAT1	Retinoblastoma
+MALAT1	Arthritis Rheumatoid
+MALAT1	Seizures
+MALAT1	Carcinoma Squamous Cell
+MALAT1	Stomach Neoplasms
+MALAT1	Lupus Erythematosus Systemic
+MALAT1	Thyroid Neoplasms
+MALAT1	Tongue Neoplasms
+MALAT1	Triple Negative Breast Neoplasms
+MALAT1	Urinary Bladder Neoplasms
+MALAT1	Uterine Neoplasms
+MALAT1	Thyroid Carcinoma Anaplastic
+MALAT1	Adrenocortical Carcinoma
+MALAT1	Leukemia Myelogenous Chronic BCR-ABL Positive
+MALAT1	Leukemia Lymphocytic Chronic B-Cell
+MALAT1	Lymphoma Large B-Cell Diffuse
+MALAT1	Sarcoma Ewing
+MALAT1	Hepatoblastoma
+MALAT1	Nasopharyngeal Neoplasms
+MALAT2	Stomach Neoplasms
+MALINC1	Lung Neoplasms
+MALINC1	Osteosarcoma
+MA-LINC1	Lung Neoplasms
+MA-LINC1	Osteosarcoma
+MANCR	Prostatic Neoplasms
+MANCR	Carcinoma Hepatocellular
+MANCR	Stomach Neoplasms
+MAPT-AS1	Parkinson Disease
+MAPT-AS1	Triple Negative Breast Neoplasms
+MAPT-AS1	Breast Neoplasms
+MATN1-AS1	Glioblastoma
+MATN1-AS1	Glioma
+MBNL1-AS1	Carcinoma Non-Small-Cell Lung
+MBNL1-AS1	Urinary Bladder Neoplasms
+MBNL1-AS1	Colonic Neoplasms
+MCM3AP-AS1	Stomach Neoplasms
+MCM3AP-AS1	Prostatic Neoplasms
+MCM3AP-AS1	Carcinoma Hepatocellular
+MCM3AP-AS1	Pancreatic Neoplasms
+MCM3AP-AS1	Lung Neoplasms
+MCM3AP-AS1	Thyroid Cancer Papillary
+MCM3AP-AS1	Glioblastoma
+MDC1-AS	Urinary Bladder Neoplasms
+MDC1-AS	Stomach Neoplasms
+MDC1-AS	Glioma
+MDC1-AS1	Glioma
+MDC1-AS1	Melanoma
+MDC1-AS1	Stomach Neoplasms
+MDC1-AS1	Urinary Bladder Neoplasms
+MEG3	Leukemia Myeloid Acute
+MEG3	Breast Neoplasms
+MEG3	Neoplasms
+MEG3	Cerebrovascular Disorders
+MEG3	Uterine Cervical Neoplasms
+MEG3	Leukemia Myelogenous Chronic BCR-ABL Positive
+MEG3	Pulmonary Disease Chronic Obstructive
+MEG3	Colonic Neoplasms
+MEG3	Colorectal Neoplasms
+MEG3	Diabetes Mellitus
+MEG3	Endometrial Neoplasms
+MEG3	Esophageal Neoplasms
+MEG3	Esophageal Squamous Cell Carcinoma
+MEG3	Gallbladder Neoplasms
+MEG3	Glioblastoma
+MEG3	Glioma
+MEG3	Carcinoma Hepatocellular
+MEG3	Heroin Dependence
+MEG3	Hirschsprung Disease
+MEG3	Huntington Disease
+MEG3	Kidney Neoplasms
+MEG3	Liver Neoplasms
+MEG3	Liver Cirrhosis
+MEG3	Liver Diseases
+MEG3	Adenocarcinoma of Lung
+MEG3	Lung Neoplasms
+MEG3	Melanoma
+MEG3	Meningioma
+MEG3	Metabolic Syndrome
+MEG3	Multiple Myeloma
+MEG3	Myelodysplastic Syndromes
+MEG3	Primary Myelofibrosis
+MEG3	Nasopharyngeal Carcinoma
+MEG3	Wilms Tumor
+MEG3	Neuroblastoma
+MEG3	Carcinoma Non-Small-Cell Lung
+MEG3	Squamous Cell Carcinoma of Head and Neck
+MEG3	Osteoarthritis
+MEG3	Osteosarcoma
+MEG3	Ovarian Neoplasms
+MEG3	Carcinoma Ovarian Epithelial
+MEG3	Pancreatic Neoplasms
+MEG3	Carcinoma Islet Cell
+MEG3	Thyroid Cancer Papillary
+MEG3	Pheochromocytoma
+MEG3	Pituitary Neoplasms
+MEG3	Prostate
+MEG3	Prostatic Neoplasms
+MEG3	Purpura Thrombotic Thrombocytopenic
+MEG3	Carcinoma Renal Cell
+MEG3	Retinoblastoma
+MEG3	Stomach Neoplasms
+MEG3	Diabetes Mellitus Type 1
+MEG3	Urinary Bladder Neoplasms
+MEG3	Choriocarcinoma
+MEG3	Cholangiocarcinoma
+MEG3	Thyroid Neoplasms
+MEG3	Leukemia T-Cell
+MEG3	Pancreatic Intraductal Neoplasms
+MEG3	Nasopharyngeal Neoplasms
+MEG3	Rhabdomyosarcoma Embryonal
+MEG8	Urinary Bladder Neoplasms
+MEG8	Pancreatic Neoplasms
+MEG8	Lung Neoplasms
+mer11c	Breast Neoplasms
+mer11c	Carcinoma Hepatocellular
+mer11c	Melanoma
+mer11c	Carcinoma Non-Small-Cell Lung
+MESTIT1	Astrocytoma
+MESTIT1	Silver-Russell Syndrome
+MFI2	Uterine Cervical Neoplasms
+MFI2	Osteosarcoma
+MFI2-AS1	Carcinoma Hepatocellular
+MFI2-AS1	Colorectal Neoplasms
+MFI2-AS1	Glioma
+MFI2-AS1	Carcinoma Renal Cell
+MIAT	Alzheimer Disease
+MIAT	Breast Neoplasms
+MIAT	Neoplasms
+MIAT	Leukemia Lymphocytic Chronic B-Cell
+MIAT	Diabetic Retinopathy
+MIAT	Cardiomyopathy Dilated
+MIAT	Glioblastoma
+MIAT	Heroin Dependence
+MIAT	Adenocarcinoma of Lung
+MIAT	Lung Neoplasms
+MIAT	Myocardial Infarction
+MIAT	Nervous System Diseases
+MIAT	Carcinoma Non-Small-Cell Lung
+MIAT	Ovarian Neoplasms
+MIAT	Prostatic Neoplasms
+MIAT	Schizophrenia
+MIAT	Seizures
+MIAT	Stomach Neoplasms
+MIAT	Substance-Related Disorders
+MIAT	Cholangiocarcinoma
+MIAT	Pancreatic Neoplasms
+MIAT	Melanoma
+MIAT	Esophageal Neoplasms
+MIAT	Uterine Cervical Neoplasms
+MIAT	Neuroblastoma
+MIAT	Esophageal Squamous Cell Carcinoma
+MIAT	Wilms Tumor
+MIAT	Leukemia Myeloid Acute
+MIAT	Colorectal Neoplasms
+MIAT	Carcinoma Renal Cell
+MIAT	Carcinoma Hepatocellular
+MIAT	Thyroid Cancer Papillary
+MIAT	Osteosarcoma
+MIF-AS1	Ovarian Neoplasms
+MIF-AS1	Breast Neoplasms
+MIF-AS1	Stomach Neoplasms
+MINCR	Burkitt Lymphoma
+MINCR	Gallbladder Neoplasms
+MINCR	Glioma
+MINCR	Nasopharyngeal Neoplasms
+MINCR	Squamous Cell Carcinoma of Head and Neck
+MINCR	Carcinoma Hepatocellular
+MINCR	Carcinoma Non-Small-Cell Lung
+MINCR	Lymphoma B-Cell
+MIR100HG	Uterine Cervical Neoplasms
+MIR100HG	Carcinoma Hepatocellular
+MIR100HG	Leukemia Megakaryoblastic Acute
+MIR100HG	Leukemia Myeloid
+MIR100HG	Myopia
+MIR100HG	Neuroblastoma
+MIR100HG	Stomach Neoplasms
+MIR100HG	Colorectal Neoplasms
+MIR100HG	Triple Negative Breast Neoplasms
+MIR100HG	Osteosarcoma
+MIR137HG	Carcinoma Hepatocellular
+MIR137HG	Urinary Bladder Neoplasms
+miR143HG	Carcinoma Hepatocellular
+miR143HG	Endometrial Neoplasms
+miR143HG	Urinary Bladder Neoplasms
+MIR155HG	Astrocytoma
+MIR155HG	Leukemia Lymphocytic Chronic B-Cell
+MIR155HG	Glioblastoma
+MIR155HG	Glioma
+MIR155HG	Carcinoma Renal Cell
+MIR155HG	Pancreatic Neoplasms
+MIR155HG	Lymphoma Large B-Cell Diffuse
+MIR155HG	Colonic Neoplasms
+MIR17HG	Astrocytoma
+MIR17HG	Neoplasms
+MIR17HG	Lymphoma Large B-Cell Diffuse
+MIR17HG	Glioblastoma
+MIR17HG	Syndrome
+MIR17HG	Osteosarcoma
+MIR17HG	Carcinoma Non-Small-Cell Lung
+MIR17HG	Colorectal Neoplasms
+MIR17HG	Glioma
+MIR17HG	Prostatic Neoplasms
+MIR205HG	Lung Neoplasms
+MIR205HG	Uterine Cervical Neoplasms
+MIR210HG	Osteosarcoma
+MIR210HG	Uterine Cervical Neoplasms
+MIR210HG	Carcinoma Non-Small-Cell Lung
+MIR210HG	Glioma
+MIR22HG	Astrocytoma
+MIR22HG	Carcinoma Hepatocellular
+MIR22HG	Lung Neoplasms
+MIR22HG	Ovarian Neoplasms
+MIR22HG	Colorectal Neoplasms
+MIR22HG	Uterine Cervical Neoplasms
+MIR22HG	Endometrial Neoplasms
+MIR22HG	Cholangiocarcinoma
+MIR22HG	Stomach Neoplasms
+MIR22HG	Glioblastoma
+MIR31HG	Hirschsprung Disease
+MIR31HG	Adenocarcinoma of Lung
+MIR31HG	Carcinoma Non-Small-Cell Lung
+MIR31HG	Stomach Neoplasms
+MIR31HG	Urinary Bladder Neoplasms
+MIR31HG	Osteosarcoma
+MIR31HG	Carcinoma Hepatocellular
+MIR31HG	Esophageal Neoplasms
+MIR31HG	Esophageal Squamous Cell Carcinoma
+MIR34AHG	Osteosarcoma
+MIR4435-2HG	Lung Neoplasms
+MIR4435-2HG	Carcinoma Non-Small-Cell Lung
+MIR4435-2HG	Stomach Neoplasms
+MIR4435-2HG	Colorectal Neoplasms
+MIR4435-2HG	Squamous Cell Carcinoma of Head and Neck
+MIR4435-2HG	Glioblastoma
+MIR4435-2HG	Melanoma
+MIR4435-2HG	Liver Neoplasms
+MIR4435-2HG	Ovarian Neoplasms
+MIR4697HG	Glioma
+MIR4697HG	Ovarian Neoplasms
+MIR503HG	Astrocytoma
+MIR503HG	Choriocarcinoma
+MIR503HG	Carcinoma Non-Small-Cell Lung
+MIR503HG	Ovarian Neoplasms
+MIR503HG	Triple Negative Breast Neoplasms
+MIR503HG	Urinary Bladder Neoplasms
+MIR503HG	Colorectal Neoplasms
+MIR503HG	Lymphoma Large-Cell Anaplastic
+MIR503HG	Carcinoma Hepatocellular
+MIR7-3HG	Astrocytoma
+MIR7-3HG	Carcinoma Hepatocellular
+MIR7-3HG	Liver Neoplasms
+MIR7515HG	Astrocytoma
+MIR99AHG	Leukemia Megakaryoblastic Acute
+MIR99AHG	Leukemia Myeloid
+MLK7-AS1	Ovarian Neoplasms
+MLK7-AS1	Colorectal Neoplasms
+MNX1-AS1	Breast Neoplasms
+MNX1-AS1	Colorectal Neoplasms
+MNX1-AS1	Ovarian Neoplasms
+MNX1-AS1	Carcinoma Hepatocellular
+MNX1-AS1	Prostatic Neoplasms
+MNX1-AS1	Stomach Neoplasms
+MNX1-AS1	Urinary Bladder Neoplasms
+MNX1-AS1	Esophageal Squamous Cell Carcinoma
+MNX1-AS1	Carcinoma Non-Small-Cell Lung
+MNX1-AS1	Uterine Cervical Neoplasms
+MNX1-AS1	Lung Neoplasms
+MNX1-AS1	Adenocarcinoma of Lung
+MNX1-AS1	Glioblastoma
+MORT	Lymphoma Mantle-Cell
+MORT	Squamous Cell Carcinoma of Head and Neck
+MORT	Colonic Neoplasms
+MSC-AS1	Osteosarcoma
+MSC-AS1	Pancreatic Neoplasms
+MSC-AS1	Carcinoma Renal Cell
+MSR1	Breast Neoplasms
+MSR1	Non-alcoholic Fatty Liver Disease
+MSR1	Polycystic Ovary Syndrome
+MSTO2P	Lung Neoplasms
+MSTO2P	Stomach Neoplasms
+MT1JP	Neoplasms
+MT1JP	Stomach Neoplasms
+MT1JP	Breast Neoplasms
+MT1JP	Osteosarcoma
+MT1JP	Urinary Bladder Neoplasms
+MT1JP	Glioma
+MT1JP	Retinoblastoma
+MT1JP	Lung Neoplasms
+MT1JP	Carcinoma Hepatocellular
+MT-LIPCAR	Heart Failure
+MT-LIPCAR	Myocardial Infarction
+MUC20-OT1	Astrocytoma
+MUC20-OT1	Carcinoma Non-Small-Cell Lung
+MVIH	Breast Neoplasms
+MVIH	Glioma
+MVIH	Carcinoma Hepatocellular
+MVIH	Carcinoma Non-Small-Cell Lung
+MVIH	Leukemia Myeloid Acute
+MVIH	Stomach Neoplasms
+MYCLo-4	Colorectal Neoplasms
+MYCLo-4	Lung Neoplasms
+MYCLo-4	Prostatic Neoplasms
+MYCLo-5	Breast Neoplasms
+MYCLo-5	Colorectal Neoplasms
+MYCLo-5	Carcinoma Hepatocellular
+MYCLo-5	Lung Neoplasms
+MYCLo-5	Prostatic Neoplasms
+MYCLo-6	Breast Neoplasms
+MYCLo-6	Colorectal Neoplasms
+MYCLo-6	Carcinoma Hepatocellular
+MYCLo-6	Lung Neoplasms
+MYCLo-6	Prostatic Neoplasms
+MYCNOS	Carcinoma Hepatocellular
+MYCNOS	Colonic Neoplasms
+MYCNOS	Neuroblastoma
+MYCNOS-01	Neuroblastoma
+MYCNOS-01	Rhabdomyosarcoma
+MYEF2	Nasal Polyps
+MYEF2	Carcinoma Non-Small-Cell Lung
+MYLK-AS1	Astrocytoma
+MYLK-AS1	Stomach Neoplasms
+MYOSLID	Osteosarcoma
+MYOSLID	Stomach Neoplasms
+MYOSLID	Squamous Cell Carcinoma of Head and Neck
+MYU	Prostatic Neoplasms
+MYU	Colonic Neoplasms
+n340790	Thyroid Cancer Papillary
+n340790	Thyroid Neoplasms
+NAG7	Carcinoma Non-Small-Cell Lung
+NAG7	Nasopharyngeal Neoplasms
+NAMA	Astrocytoma
+NAMA	Thyroid Cancer Papillary
+NBAT1	Astrocytoma
+NBAT1	Breast Neoplasms
+NBAT1	Neuroblastoma
+NBAT1	Ovarian Neoplasms
+NBAT1	Carcinoma Renal Cell
+NBAT1	Glioblastoma
+NBAT1	Stomach Neoplasms
+NBAT1	Carcinoma Non-Small-Cell Lung
+NBAT1	Kidney Neoplasms
+NBAT1	Esophageal Neoplasms
+NBAT1	Osteosarcoma
+NBAT1	Lung Neoplasms
+NBR2	Astrocytoma
+NBR2	Neoplasms
+NBR2	Colorectal Neoplasms
+NBR2	Carcinoma Non-Small-Cell Lung
+NBR2	Osteosarcoma
+NCK1-AS1	Glioma
+NCK1-AS1	Urinary Bladder Neoplasms
+NCK1-AS1	Ovarian Neoplasms
+NCK1-AS1	Nasopharyngeal Neoplasms
+NCK1-AS1	Prostatic Neoplasms
+NCK1-AS1	Uterine Cervical Neoplasms
+ncRAN	Colorectal Neoplasms
+ncRAN	Urinary Bladder Neoplasms
+ncRAN	Neuroblastoma
+NCRUPAR	Astrocytoma
+NCRUPAR	Colorectal Neoplasms
+NCRUPAR	Glioblastoma
+NCRUPAR	Stomach Neoplasms
+NCRUPAR	Carcinoma Hepatocellular
+NDM29	Astrocytoma
+NDM29	Glioblastoma
+NDM29	Neuroblastoma
+NEAT1	Acquired Immunodeficiency Syndrome
+NEAT1	Leukemia Promyelocytic Acute
+NEAT1	Amyotrophic Lateral Sclerosis
+NEAT1	Astrocytoma
+NEAT1	Breast Neoplasms
+NEAT1	Burkitt Lymphoma
+NEAT1	Neoplasms
+NEAT1	Uterine Cervical Neoplasms
+NEAT1	Cholangiocarcinoma
+NEAT1	Leukemia Lymphocytic Chronic B-Cell
+NEAT1	Colorectal Neoplasms
+NEAT1	Intervertebral Disc Degeneration
+NEAT1	Dengue
+NEAT1	Endometrial Neoplasms
+NEAT1	Frontotemporal Dementia
+NEAT1	Glioma
+NEAT1	Carcinoma Hepatocellular
+NEAT1	HIV
+NEAT1	Huntington Disease
+NEAT1	Kidney Diseases
+NEAT1	Squamous Cell Carcinoma of Head and Neck
+NEAT1	Leukemia
+NEAT1	Nasopharyngeal Carcinoma
+NEAT1	Carcinoma Non-Small-Cell Lung
+NEAT1	Osteosarcoma
+NEAT1	Ovarian Neoplasms
+NEAT1	Pancreatic Neoplasms
+NEAT1	Thyroid Cancer Papillary
+NEAT1	Parkinson Disease
+NEAT1	Prostatic Neoplasms
+NEAT1	Multiple Sclerosis Relapsing-Remitting
+NEAT1	Seizures
+NEAT1	Carcinoma Squamous Cell
+NEAT1	Stomach Neoplasms
+NEAT1	Lupus Erythematosus Systemic
+NEAT1	Thyroid Neoplasms
+NEAT1	Melanoma
+NEAT1	Colonic Neoplasms
+NEAT1	Adenocarcinoma of Lung
+NEAT1	Thyroid Carcinoma Anaplastic
+NEAT1	Lung Neoplasms
+NEAT1	Leukemia Myeloid Acute
+NEAT1	Lymphoma Large B-Cell Diffuse
+NEAT1	Hemangioma
+NEAT1	Nasopharyngeal Neoplasms
+NEAT1	Triple Negative Breast Neoplasms
+NEAT1	Neuroblastoma
+NEAT1	Urinary Bladder Neoplasms
+NEAT1	Leukemia Myelogenous Chronic BCR-ABL Positive
+NEAT1	Multiple Myeloma
+NEAT1	Glioblastoma
+NEAT1	Esophageal Squamous Cell Carcinoma
+NEAT1	Carcinoma Renal Cell
+NEAT1_2	Amyotrophic Lateral Sclerosis
+NEAT1_2	Thyroid Cancer Papillary
+NEAT1_2	Liver Neoplasms
+NEAT1_2	Carcinoma Hepatocellular
+NEF	Carcinoma Non-Small-Cell Lung
+NEF	Breast Neoplasms
+NEF	Esophageal Squamous Cell Carcinoma
+NEF	Stomach Neoplasms
+NEF	Glioma
+NEXN-AS1	Astrocytoma
+NEXN-AS1	Lung Neoplasms
+NKILA	Breast Neoplasms
+NKILA	Esophageal Squamous Cell Carcinoma
+NKILA	Carcinoma Hepatocellular
+NKILA	Melanoma
+NKILA	Nasopharyngeal Carcinoma
+NKILA	Neoplasm Metastasis
+NKILA	Carcinoma Non-Small-Cell Lung
+NKILA	Osteosarcoma
+NKILA	Retinoblastoma
+NKILA	Rectal Neoplasms
+NKILA	Nasopharyngeal Neoplasms
+NKILA	Colorectal Neoplasms
+NKILA	Laryngeal Neoplasms
+NNT-AS1	Breast Neoplasms
+NNT-AS1	Uterine Cervical Neoplasms
+NNT-AS1	Colorectal Neoplasms
+NNT-AS1	Carcinoma Hepatocellular
+NNT-AS1	Osteosarcoma
+NNT-AS1	Ovarian Neoplasms
+NNT-AS1	Cholangiocarcinoma
+NNT-AS1	Stomach Neoplasms
+NNT-AS1	Lung Neoplasms
+NNT-AS1	Urinary Bladder Neoplasms
+NNT-AS1	Carcinoma Non-Small-Cell Lung
+NONRATT021972	Chronic Pain
+NONRATT021972	Diabetes Mellitus
+NONRATT021972	Diabetic Nephropathies
+NONRATT021972	Myocardial Reperfusion Injury
+NONRATT021972	Diabetes Mellitus Type 2
+NORAD	Breast Neoplasms
+NORAD	Colorectal Neoplasms
+NORAD	Esophageal Squamous Cell Carcinoma
+NORAD	Carcinoma Hepatocellular
+NORAD	Pancreatic Neoplasms
+NORAD	Ovarian Neoplasms
+NORAD	Carcinoma Non-Small-Cell Lung
+NORAD	Stomach Neoplasms
+NORAD	Lung Neoplasms
+NORAD	Neuroblastoma
+NORAD	Thyroid Neoplasms
+NORAD	Osteosarcoma
+NORAD	Uterine Cervical Neoplasms
+NORAD	Prostatic Neoplasms
+NORAD	Carcinoma Ovarian Epithelial
+NOS2	Glioblastoma
+NOS2	Meningioma
+NPAP1	Angelman Syndrome
+NPAP1	Prader-Willi Syndrome
+NPTN-IT1	Neoplasms
+NPTN-IT1	Uterine Cervical Neoplasms
+NPTN-IT1	Colorectal Neoplasms
+NPTN-IT1	Esophageal Squamous Cell Carcinoma
+NPTN-IT1	Gallbladder Neoplasms
+NPTN-IT1	Carcinoma Hepatocellular
+NPTN-IT1	Adenocarcinoma of Lung
+NPTN-IT1	Nasopharyngeal Carcinoma
+NPTN-IT1	Carcinoma Renal Cell
+NPTN-IT1	Stomach Neoplasms
+NR027113	Carcinoma Hepatocellular
+NR027113	Stomach Neoplasms
+NR2F1-AS1	Astrocytoma
+NR2F1-AS1	Carcinoma Hepatocellular
+NR2F1-AS1	Rhabdomyosarcoma
+NR2F1-AS1	Esophageal Squamous Cell Carcinoma
+NR2F1-AS1	Thyroid Neoplasms
+NR2F2-AS1	Carcinoma Renal Cell
+NR2F2-AS1	Colorectal Neoplasms
+NR2F2-AS1	Nasopharyngeal Neoplasms
+NR2F2-AS1	Prostatic Neoplasms
+NR2F2-AS1	Carcinoma Non-Small-Cell Lung
+NRIR	Hepatitis C
+NRIR	Melanoma
+NRON	Acquired Immunodeficiency Syndrome
+NRON	Down Syndrome
+NRON	Heart Failure
+NRON	Inflammatory Bowel Diseases
+NRON	Carcinoma Hepatocellular
+NRON	Urinary Bladder Neoplasms
+NRON	Triple Negative Breast Neoplasms
+OECC	Colorectal Neoplasms
+OECC	Lung Neoplasms
+OGFRP1	Carcinoma Hepatocellular
+OGFRP1	Endometrial Neoplasms
+OGFRP1	Carcinoma Non-Small-Cell Lung
+OGFRP1	Uterine Cervical Neoplasms
+OIP5-AS1	Astrocytoma
+OIP5-AS1	Glioma
+OIP5-AS1	Hepatoblastoma
+OIP5-AS1	Pancreatic Neoplasms
+OIP5-AS1	Stomach Neoplasms
+OIP5-AS1	Carcinoma Hepatocellular
+OIP5-AS1	Lung Neoplasms
+OIP5-AS1	Colorectal Neoplasms
+OIP5-AS1	Colonic Neoplasms
+OIP5-AS1	Thyroid Neoplasms
+OIP5-AS1	Breast Neoplasms
+OIP5-AS1	Uterine Cervical Neoplasms
+OIP5-AS1	Hemangioma
+OIP5-AS1	Osteosarcoma
+OIP5-AS1	Urinary Bladder Neoplasms
+OIP5-AS1	Squamous Cell Carcinoma of Head and Neck
+OIP5-AS1	Ovarian Neoplasms
+OIP5-AS1	Adenocarcinoma of Lung
+OIP5-AS1	Mouth Neoplasms
+OR3A4	Osteosarcoma
+OR3A4	Ovarian Neoplasms
+OR3A4	Carcinoma Non-Small-Cell Lung
+OR3A4	Carcinoma Hepatocellular
+OR3A4	Melanoma
+OR3A4	Breast Neoplasms
+OR3A4	Stomach Neoplasms
+OTUD6B-AS1	Thyroid Neoplasms
+OTUD6B-AS1	Carcinoma Renal Cell
+OVCH1-AS1	Astrocytoma
+OVCH1-AS1	Carcinoma Hepatocellular
+PACERR	Osteoarthritis
+PACERR	Osteosarcoma
+PAN	Sarcoma Kaposi
+pancEts-1	Stomach Neoplasms
+pancEts-1	Neuroblastoma
+PANDA	Pancreatic Intraductal Neoplasms
+PANDA	Osteosarcoma
+PANDA	Stomach Neoplasms
+PANDA	Carcinoma Hepatocellular
+PANDA	Lymphoma Large B-Cell Diffuse
+PANDAR	Breast Neoplasms
+PANDAR	Neoplasms
+PANDAR	Uterine Cervical Neoplasms
+PANDAR	Cholangiocarcinoma
+PANDAR	Colorectal Neoplasms
+PANDAR	Lymphoma Large B-Cell Diffuse
+PANDAR	Carcinoma Hepatocellular
+PANDAR	Carcinoma Non-Small-Cell Lung
+PANDAR	Osteosarcoma
+PANDAR	Carcinoma Renal Cell
+PANDAR	Stomach Neoplasms
+PANDAR	Thyroid Neoplasms
+PANDAR	Tumor Suppressor Protein p53
+PANDAR	Urinary Bladder Neoplasms
+PANDAR	Retinoblastoma
+PANDAR	Squamous Cell Carcinoma of Head and Neck
+PANDAR	Melanoma
+PANDAR	Leukemia Myeloid Acute
+PANDAR	Ovarian Neoplasms
+PAPAS	Thyroid Cancer Papillary
+PAPAS	Carcinoma Hepatocellular
+PAPAS	Stomach Neoplasms
+PAPAS	Squamous Cell Carcinoma of Head and Neck
+PAPAS	Triple Negative Breast Neoplasms
+PAR5	Thyroid Carcinoma Anaplastic
+PAR5	Glioma
+PAR5	Carcinoma Hepatocellular
+PARROT	Uterine Cervical Neoplasms
+PARROT	Carcinoma Non-Small-Cell Lung
+PART1	Glioma
+PART1	Carcinoma Hepatocellular
+PART1	Colorectal Neoplasms
+PART1	Esophageal Squamous Cell Carcinoma
+PART1	Urinary Bladder Neoplasms
+PART1	Carcinoma Non-Small-Cell Lung
+PART1	Prostatic Neoplasms
+PARTICLE	Breast Neoplasms
+PARTICLE	Osteosarcoma
+PAUPAR	Melanoma
+PAUPAR	Neuroblastoma
+PCA3	Astrocytoma
+PCA3	Carcinoma Ovarian Epithelial
+PCA3	Parkinson Disease
+PCA3	Prostate
+PCA3	Prostatic Neoplasms
+PCA3	Choriocarcinoma
+PCA3	Leukemia Myelogenous Chronic BCR-ABL Positive
+PCAN-R1	Carcinoma Non-Small-Cell Lung
+PCAN-R1	Prostatic Neoplasms
+PCAT1	Neoplasms
+PCAT1	Uterine Cervical Neoplasms
+PCAT1	Cholangiocarcinoma
+PCAT1	Colorectal Neoplasms
+PCAT1	Esophageal Neoplasms
+PCAT1	Glioblastoma
+PCAT1	Carcinoma Hepatocellular
+PCAT1	Lung Neoplasms
+PCAT1	Multiple Myeloma
+PCAT1	Osteosarcoma
+PCAT1	Prostate
+PCAT1	Prostatic Neoplasms
+PCAT1	Carcinoma Squamous Cell
+PCAT1	Stomach Neoplasms
+PCAT1	Urinary Bladder Neoplasms
+PCAT1	Laryngeal Neoplasms
+PCAT1	Carcinoma Renal Cell
+PCAT1	Carcinoma Non-Small-Cell Lung
+PCAT1	Endometrial Neoplasms
+PCAT1	Klatskin Tumor
+PCAT1	Glioma
+PCAT1	Squamous Cell Carcinoma of Head and Neck
+PCAT-1	Urinary Bladder Neoplasms
+PCAT-1	Multiple Myeloma
+PCAT-1	Ovarian Neoplasms
+PCAT-1	Pancreatic Neoplasms
+PCAT-1	Carcinoma Ovarian Epithelial
+PCAT-1	Esophageal Squamous Cell Carcinoma
+PCAT-1	Leukemia Myeloid Acute
+PCAT-1	Squamous Cell Carcinoma of Head and Neck
+PCAT-1	Carcinoma Non-Small-Cell Lung
+PCAT-1	Stomach Neoplasms
+PCAT-1	Colorectal Neoplasms
+PCAT-1	Breast Neoplasms
+PCAT-1	Prostatic Neoplasms
+PCAT-1	Glioblastoma
+PCAT-1	Uterine Cervical Neoplasms
+PCAT-1	Osteosarcoma
+PCAT-1	Carcinoma Hepatocellular
+PCAT14	Prostatic Neoplasms
+PCAT14	Carcinoma Hepatocellular
+PCAT18	Stomach Neoplasms
+PCAT18	Prostatic Neoplasms
+PCAT19	Carcinoma Non-Small-Cell Lung
+PCAT19	Prostatic Neoplasms
+PCAT29	Carcinoma Hepatocellular
+PCAT29	Adenocarcinoma of Lung
+PCAT29	Prostatic Neoplasms
+PCAT29	Carcinoma Renal Cell
+PCAT29	Urinary Bladder Neoplasms
+PCAT29	Neoplasms
+PCAT6	Lung Neoplasms
+PCAT6	Carcinoma Non-Small-Cell Lung
+PCAT6	Uterine Cervical Neoplasms
+PCAT6	Carcinoma Hepatocellular
+PCAT6	Stomach Neoplasms
+PCAT6	Gastrointestinal Stromal Tumors
+PCAT6	Triple Negative Breast Neoplasms
+PCAT6	Colorectal Neoplasms
+PCAT6	Osteosarcoma
+PCAT6	Ovarian Neoplasms
+PCAT6	Cholangiocarcinoma
+PCAT7	Nasopharyngeal Carcinoma
+PCAT7	Carcinoma Non-Small-Cell Lung
+PCAT7	Prostatic Neoplasms
+PCAT7	Nasopharyngeal Neoplasms
+PCBP2-OT1	Carcinoma Hepatocellular
+PCBP2-OT1	Lung Neoplasms
+PCED1B-AS1	Glioblastoma
+PCED1B-AS1	Glioma
+PCGEM1	Glioma
+PCGEM1	Osteoarthritis
+PCGEM1	Prostate
+PCGEM1	Prostatic Neoplasms
+PCGEM1	Ovarian Neoplasms
+PCGEM1	Kidney Neoplasms
+PCGEM1	Uterine Cervical Neoplasms
+PCGEM1	Stomach Neoplasms
+PCNA-AS1	Neoplasms
+PCNA-AS1	Carcinoma Hepatocellular
+PCNA-AS1	Stomach Neoplasms
+PCNA-AS1	Carcinoma Non-Small-Cell Lung
+PDIA3P	Breast Neoplasms
+PDIA3P	Carcinoma Non-Small-Cell Lung
+PDIA3P	Squamous Cell Carcinoma of Head and Neck
+PDIA3P1	Glioma
+PDIA3P1	Carcinoma Hepatocellular
+PEG10	Lymphoma Large B-Cell Diffuse
+PEG10	Esophageal Neoplasms
+PEG10	Squamous Cell Carcinoma of Head and Neck
+PEG10	Stomach Neoplasms
+PEG10	Urinary Bladder Neoplasms
+PEG10	Melanoma
+PEG10	Glioma
+PGM5-AS1	Colorectal Neoplasms
+PGM5-AS1	Carcinoma Renal Cell
+PGM5-AS1	Esophageal Squamous Cell Carcinoma
+PHBP1	Esophageal Squamous Cell Carcinoma
+PICART1	Lung Neoplasms
+PICART1	Stomach Neoplasms
+PICART1	Breast Neoplasms
+PICART1	Colorectal Neoplasms
+PICSAR	Narcolepsy
+PICSAR	Carcinoma Squamous Cell
+PINCR	Colorectal Neoplasms
+PINK1-AS	Astrocytoma
+PINK1-AS	Breast Neoplasms
+PINK1-AS	Glucose Metabolism Disorders
+PINK1-AS	Parkinson Disease
+PLAC2	Squamous Cell Carcinoma of Head and Neck
+PLAC2	Carcinoma Non-Small-Cell Lung
+PLAC2	Carcinoma Hepatocellular
+PLAC2	Glioma
+PlncRNA-1	Retinoblastoma
+PlncRNA-1	Breast Neoplasms
+PlncRNA-1	Colorectal Neoplasms
+PlncRNA-1	Glioma
+PlncRNA-1	Carcinoma Hepatocellular
+PlncRNA-1	Esophageal Squamous Cell Carcinoma
+PlncRNA-1	Prostatic Neoplasms
+POU3F3	Carcinoma Hepatocellular
+POU3F3	Breast Neoplasms
+POU3F3	Nasopharyngeal Neoplasms
+POU3F3	Esophageal Squamous Cell Carcinoma
+POU3F3	Uterine Cervical Neoplasms
+PRAL	Carcinoma Hepatocellular
+PRAL	Lung Neoplasms
+PRAL	Multiple Myeloma
+PRAL	Carcinoma Non-Small-Cell Lung
+PRINS	Prostatic Neoplasms
+PRINS	Psoriasis
+PRINS	Multiple Myeloma
+PRINS	Colorectal Neoplasms
+PRINS	Adrenocortical Carcinoma
+PRNCR1	Astrocytoma
+PRNCR1	Colorectal Neoplasms
+PRNCR1	Glioma
+PRNCR1	Prostate
+PRNCR1	Prostatic Neoplasms
+PRNCR1	Stomach Neoplasms
+PRNCR1	Breast Neoplasms
+PRNCR1	Carcinoma Non-Small-Cell Lung
+PRNCR1	Glioblastoma
+PROX1-AS1	Prostatic Neoplasms
+PROX1-AS1	Thyroid Cancer Papillary
+PSMB8-AS1	Glioblastoma
+PSMB8-AS1	Glioma
+PSMD6-AS1	Glioma
+PSMD6-AS1	Thyroid Cancer Papillary
+PTAR	Ovarian Neoplasms
+PTAR	Carcinoma Non-Small-Cell Lung
+PTCSC2	Glioblastoma
+PTCSC2	Thyroid Cancer Papillary
+PTCSC2	Thyroid Neoplasms
+PTCSC3	Glioma
+PTCSC3	Thyroid Cancer Papillary
+PTCSC3	Thyroid Neoplasms
+PTCSC3	Stomach Neoplasms
+PTCSC3	Uterine Cervical Neoplasms
+PTCSC3	Breast Neoplasms
+PTCSC3	Thyroid Carcinoma Anaplastic
+PTENP1	Breast Neoplasms
+PTENP1	Neoplasms
+PTENP1	Carcinoma Hepatocellular
+PTENP1	Prostate
+PTENP1	Carcinoma Renal Cell
+PTENP1	Stomach Neoplasms
+PTENP1	Glioma
+PTENP1	Urinary Bladder Neoplasms
+PTENP1	Squamous Cell Carcinoma of Head and Neck
+PTENP1	Multiple Myeloma
+PTENP1	Prostatic Neoplasms
+PTENP1	Osteosarcoma
+PTPRG-AS1	Breast Neoplasms
+PTPRG-AS1	Stomach Neoplasms
+PTPRG-AS1	Nasopharyngeal Neoplasms
+PURPL	Liver Neoplasms
+PURPL	Stomach Neoplasms
+PVT1	Asthma
+PVT1	Astrocytoma
+PVT1	Lymphoma B-Cell
+PVT1	Breast Neoplasms
+PVT1	Burkitt Lymphoma
+PVT1	Neoplasms
+PVT1	Cardiomegaly
+PVT1	Uterine Cervical Neoplasms
+PVT1	Carcinoma Renal Cell
+PVT1	Cleft Lip
+PVT1	Colorectal Neoplasms
+PVT1	Diabetic Nephropathies
+PVT1	Esophageal Squamous Cell Carcinoma
+PVT1	Glioma
+PVT1	Hematologic Neoplasms
+PVT1	Carcinoma Hepatocellular
+PVT1	Lymphoma
+PVT1	Multiple Myeloma
+PVT1	Carcinoma Non-Small-Cell Lung
+PVT1	Osteosarcoma
+PVT1	Pancreatic Neoplasms
+PVT1	Plasmacytoma
+PVT1	Prostatic Neoplasms
+PVT1	Stomach Neoplasms
+PVT1	Thyroid Neoplasms
+PVT1	Urinary Bladder Neoplasms
+PVT1	Squamous Cell Carcinoma of Head and Neck
+PVT1	Ovarian Neoplasms
+PVT1	Thyroid Carcinoma Anaplastic
+PVT1	Endometrial Neoplasms
+PVT1	Melanoma
+PVT1	Precursor Cell Lymphoblastic Leukemia-Lymphoma
+PVT1	Gallbladder Neoplasms
+PVT1	Esophageal Neoplasms
+PVT1	Pituitary Neoplasms
+PVT1	Leukemia Myeloid Acute
+PVT1	Nasopharyngeal Neoplasms
+PVT1	Cholangiocarcinoma
+PVT1	Triple Negative Breast Neoplasms
+PVT1	Colonic Neoplasms
+PVT1	Pancreatic Intraductal Neoplasms
+PVT1	Leukemia
+PVT1	Kidney Neoplasms
+PVT1	Leukemia Promyelocytic Acute
+PVT1	Lung Neoplasms
+PVT1	Thyroid Cancer Papillary
+PVT1	Small Cell Lung Carcinoma
+PXN-AS1	Glioblastoma
+PXN-AS1	Pancreatic Neoplasms
+PXN-AS1-L	Glioma
+PXN-AS1-L	Nasopharyngeal Neoplasms
+PXN-AS1-L	Carcinoma Non-Small-Cell Lung
+RAB11B-AS1	Osteosarcoma
+RAB11B-AS1	Breast Neoplasms
+RAD51-AS1	Carcinoma Hepatocellular
+RAD51-AS1	Carcinoma Ovarian Epithelial
+RAET1K	Carcinoma Hepatocellular
+RAET1K	Adenocarcinoma of Lung
+RAMP2-AS1	Astrocytoma
+RAMP2-AS1	Chondrosarcoma
+RAMP2-AS1	Glioblastoma
+RBM5-AS1	Astrocytoma
+RBM5-AS1	Colonic Neoplasms
+RBM5-AS1	Squamous Cell Carcinoma of Head and Neck
+RERT	Lung Neoplasms
+RERT	Carcinoma Hepatocellular
+RFPL1S	Astrocytoma
+RGMB-AS1	Stomach Neoplasms
+RGMB-AS1	Glioma
+RGMB-AS1	Carcinoma Hepatocellular
+RGMB-AS1	Adenocarcinoma of Lung
+RGMB-AS1	Carcinoma Non-Small-Cell Lung
+RHPN1-AS1	Carcinoma Ovarian Epithelial
+RHPN1-AS1	Carcinoma Hepatocellular
+RHPN1-AS1	Breast Neoplasms
+RHPN1-AS1	Stomach Neoplasms
+RHPN1-AS1	Carcinoma Non-Small-Cell Lung
+RHPN1-AS1	Uterine Cervical Neoplasms
+RHPN1-AS1	Glioma
+RHPN1-AS1	Squamous Cell Carcinoma of Head and Neck
+RMEL3	Melanoma
+RMRP	Stomach Neoplasms
+RMRP	Carcinoma Hepatocellular
+RMRP	Urinary Bladder Neoplasms
+RMRP	Carcinoma Non-Small-Cell Lung
+RMRP	Thyroid Cancer Papillary
+RMRP	Lung Neoplasms
+RMRP	Multiple Myeloma
+RMRP	Adenocarcinoma of Lung
+RMRP	Glioma
+RMST	Rhabdomyosarcoma
+RMST	Triple Negative Breast Neoplasms
+RN7SK	Acquired Immunodeficiency Syndrome
+RN7SK	Cardiomegaly
+RN7SL1	Acquired Immunodeficiency Syndrome
+RN7SL1	Leishmaniasis
+RNCR3	Prostatic Neoplasms
+RNCR3	Colorectal Neoplasms
+RNCR3	Glioma
+RNY1	Uterine Cervical Neoplasms
+RNY1	Prostatic Neoplasms
+RNY3	Kidney Neoplasms
+RNY3	Lung Neoplasms
+ROR	Stomach Neoplasms
+ROR	Breast Neoplasms
+ROR	Colorectal Neoplasms
+ROR	Prostatic Neoplasms
+ROR	Neoplasms
+ROR	Glioblastoma
+ROR	Osteosarcoma
+ROR	Ovarian Neoplasms
+ROR	Nasopharyngeal Neoplasms
+ROR	Carcinoma Renal Cell
+ROR1-AS1	Colonic Neoplasms
+ROR1-AS1	Adenocarcinoma of Lung
+ROR1-AS1	Uterine Cervical Neoplasms
+ROR1-AS1	Nasopharyngeal Neoplasms
+ROR1-AS1	Urinary Bladder Neoplasms
+ROR1-AS1	Colorectal Neoplasms
+ROR1-AS1	Lymphoma Mantle-Cell
+RP11	Colorectal Neoplasms
+RP11	Carcinoma Hepatocellular
+RP11-160H22.5	Carcinoma Hepatocellular
+RP11-181G12.2	Stomach Neoplasms
+RP11-181G12.2	Adenocarcinoma of Lung
+RP11-334E6.12	Breast Neoplasms
+RP11-334E6.12	Carcinoma Hepatocellular
+RP11-334E6.12	Esophageal Squamous Cell Carcinoma
+RP11-363E7.4	Stomach Neoplasms
+RP11-363E7.4	Carcinoma Hepatocellular
+RP11-445H22.4	Stomach Neoplasms
+RP11-445H22.4	Breast Neoplasms
+RP11-552M11.4	Uterine Cervical Neoplasms
+RP11-552M11.4	Ovarian Neoplasms
+RP11-600K15.1	Endometrial Neoplasms
+RP11-600K15.1	Esophageal Squamous Cell Carcinoma
+RP11-81H3.2	Stomach Neoplasms
+RP11-81H3.2	Carcinoma Hepatocellular
+RP11-838N2.4	Glioblastoma
+RP11-838N2.4	Carcinoma Non-Small-Cell Lung
+RP11-909N17.3	Adenocarcinoma of Lung
+RP11-909N17.3	Carcinoma Non-Small-Cell Lung
+RP1-4514.2	Prostatic Neoplasms
+RP5-1024C24.1	Thyroid Cancer Papillary
+RP5-1024C24.1	Thyroid Neoplasms
+RP5-833A20.1	Glioma
+RP5-833A20.1	Carcinoma Hepatocellular
+RPL34-AS1	Thyroid Cancer Papillary
+RPL34-AS1	Esophageal Neoplasms
+RPL34-AS1	Colorectal Neoplasms
+RPL34-AS1	Stomach Neoplasms
+RPPH1	Esophageal Neoplasms
+RPPH1	Colorectal Neoplasms
+RPPH1	Leukemia Myeloid Acute
+RPPH1	Breast Neoplasms
+RPSAP52	Glioblastoma
+RPSAP52	Pituitary Neoplasms
+RUNX1-IT1	Carcinoma Hepatocellular
+RUNX1-IT1	Colorectal Neoplasms
+SAMMSON	Glioblastoma
+SAMMSON	Carcinoma Hepatocellular
+SAMMSON	Thyroid Cancer Papillary
+SAMMSON	Melanoma
+SAMMSON	Liver Neoplasms
+SATB2-AS1	Colorectal Neoplasms
+SATB2-AS1	Osteosarcoma
+SBDSP1	Colorectal Neoplasms
+SBF2-AS1	Carcinoma Non-Small-Cell Lung
+SBF2-AS1	Pancreatic Neoplasms
+SBF2-AS1	Esophageal Squamous Cell Carcinoma
+SBF2-AS1	Colorectal Neoplasms
+SBF2-AS1	Uterine Cervical Neoplasms
+SBF2-AS1	Breast Neoplasms
+SBF2-AS1	Adenocarcinoma of Lung
+SBF2-AS1	Small Cell Lung Carcinoma
+SBF2-AS1	Glioblastoma
+SBF2-AS1	Carcinoma Hepatocellular
+SBF2-AS1	Osteosarcoma
+SChLAP1	Glioblastoma
+SChLAP1	Urinary Bladder Neoplasms
+SChLAP1	Prostatic Neoplasms
+SDPR-AS	Carcinoma Non-Small-Cell Lung
+SDPR-AS	Thyroid Cancer Papillary
+SDPR-AS	Carcinoma Renal Cell
+SEMA3B-AS1	Esophageal Squamous Cell Carcinoma
+SEMA3B-AS1	Carcinoma Hepatocellular
+SFTA1P	Stomach Neoplasms
+SFTA1P	Adenocarcinoma of Lung
+SLC26A4-AS1	Glioma
+SLC26A4-AS1	Thyroid Cancer Papillary
+SLCO4A1-AS1	Urinary Bladder Neoplasms
+SLCO4A1-AS1	Colorectal Neoplasms
+SlncR1	Carcinoma Non-Small-Cell Lung
+SlncR1	Melanoma
+SMAD5-AS1	Lymphoma Large B-Cell Diffuse
+SMAD5-AS1	Nasopharyngeal Neoplasms
+snaR	Liver Neoplasms
+snaR	Ovarian Neoplasms
+snaR	Breast Neoplasms
+snaR	Colonic Neoplasms
+SNHG1	Esophageal Squamous Cell Carcinoma
+SNHG1	Cholangiocarcinoma
+SNHG1	Breast Neoplasms
+SNHG1	Colorectal Neoplasms
+SNHG1	Stomach Neoplasms
+SNHG1	Thyroid Cancer Papillary
+SNHG1	Carcinoma Non-Small-Cell Lung
+SNHG1	Pancreatic Neoplasms
+SNHG1	Neuroblastoma
+SNHG1	Meningioma
+SNHG1	Glioma
+SNHG1	Carcinoma Hepatocellular
+SNHG1	Liver Neoplasms
+SNHG1	Lung Neoplasms
+SNHG1	Osteosarcoma
+SNHG1	Laryngeal Neoplasms
+SNHG1	Leukemia Myeloid Acute
+SNHG1	Nasopharyngeal Neoplasms
+SNHG1	Ovarian Neoplasms
+SNHG1	Colonic Neoplasms
+SNHG1	Uterine Cervical Neoplasms
+SNHG1	Esophageal Neoplasms
+SNHG1	Prostatic Neoplasms
+SNHG11	Carcinoma Hepatocellular
+SNHG11	Lung Neoplasms
+SNHG11	Prostatic Neoplasms
+SNHG11	Colorectal Neoplasms
+SNHG12	Esophageal Squamous Cell Carcinoma
+SNHG12	Glioblastoma
+SNHG12	Osteosarcoma
+SNHG12	Glioma
+SNHG12	Breast Neoplasms
+SNHG12	Ovarian Neoplasms
+SNHG12	Prostatic Neoplasms
+SNHG12	Carcinoma Non-Small-Cell Lung
+SNHG12	Carcinoma Renal Cell
+SNHG12	Stomach Neoplasms
+SNHG12	Uterine Cervical Neoplasms
+SNHG12	Thyroid Cancer Papillary
+SNHG12	Colorectal Neoplasms
+SNHG12	Adenocarcinoma of Lung
+SNHG12	Carcinoma Hepatocellular
+SNHG14	Carcinoma Non-Small-Cell Lung
+SNHG14	Prostatic Neoplasms
+SNHG14	Colorectal Neoplasms
+SNHG14	Breast Neoplasms
+SNHG14	Pancreatic Neoplasms
+SNHG14	Adenocarcinoma of Lung
+SNHG14	Ovarian Neoplasms
+SNHG14	Uterine Cervical Neoplasms
+SNHG14	Lymphoma Large B-Cell Diffuse
+SNHG14	Carcinoma Hepatocellular
+SNHG14	Carcinoma Renal Cell
+SNHG14	Stomach Neoplasms
+SNHG14	Glioma
+SNHG15	Breast Neoplasms
+SNHG15	Carcinoma Non-Small-Cell Lung
+SNHG15	Prostatic Neoplasms
+SNHG15	Colorectal Neoplasms
+SNHG15	Lung Neoplasms
+SNHG15	Thyroid Cancer Papillary
+SNHG15	Thyroid Neoplasms
+SNHG15	Glioblastoma
+SNHG15	Carcinoma Hepatocellular
+SNHG15	Carcinoma Renal Cell
+SNHG15	Glioma
+SNHG15	Colonic Neoplasms
+SNHG15	Stomach Neoplasms
+SNHG15	Osteosarcoma
+SNHG15	Pancreatic Neoplasms
+SNHG16	Pancreatic Neoplasms
+SNHG16	Breast Neoplasms
+SNHG16	Multiple Myeloma
+SNHG16	Neuroblastoma
+SNHG16	Esophageal Squamous Cell Carcinoma
+SNHG16	Carcinoma Renal Cell
+SNHG16	Prostatic Neoplasms
+SNHG16	Uterine Cervical Neoplasms
+SNHG16	Glioma
+SNHG16	Colorectal Neoplasms
+SNHG16	Osteosarcoma
+SNHG16	Carcinoma Hepatocellular
+SNHG16	Stomach Neoplasms
+SNHG16	Carcinoma Non-Small-Cell Lung
+SNHG16	Endometrial Neoplasms
+SNHG16	Retinoblastoma
+SNHG16	Urinary Bladder Neoplasms
+SNHG16	Precursor Cell Lymphoblastic Leukemia-Lymphoma
+SNHG16	Thyroid Cancer Papillary
+SNHG16	Squamous Cell Carcinoma of Head and Neck
+SNHG16	Colonic Neoplasms
+SNHG16	Lymphoma Large B-Cell Diffuse
+SNHG16	Ovarian Neoplasms
+SNHG17	Breast Neoplasms
+SNHG17	Glioma
+SNHG17	Prostatic Neoplasms
+SNHG17	Stomach Neoplasms
+SNHG17	Melanoma
+SNHG17	Carcinoma Non-Small-Cell Lung
+SNHG17	Colorectal Neoplasms
+SNHG18	Glioma
+SNHG20	Carcinoma Ovarian Epithelial
+SNHG20	Carcinoma Non-Small-Cell Lung
+SNHG20	Esophageal Squamous Cell Carcinoma
+SNHG20	Glioma
+SNHG20	Osteosarcoma
+SNHG20	Urinary Bladder Neoplasms
+SNHG20	Squamous Cell Carcinoma of Head and Neck
+SNHG20	Carcinoma Hepatocellular
+SNHG20	Nasopharyngeal Neoplasms
+SNHG20	Stomach Neoplasms
+SNHG20	Prostatic Neoplasms
+SNHG20	Uterine Cervical Neoplasms
+SNHG20	Ovarian Neoplasms
+SNHG20	Colorectal Neoplasms
+SNHG3	Thyroid Cancer Papillary
+SNHG3	Ovarian Neoplasms
+SNHG3	Prostatic Neoplasms
+SNHG3	Colorectal Neoplasms
+SNHG3	Squamous Cell Carcinoma of Head and Neck
+SNHG3	Osteosarcoma
+SNHG3	Stomach Neoplasms
+SNHG3	Breast Neoplasms
+SNHG3	Cholangiocarcinoma
+SNHG3	Carcinoma Hepatocellular
+SNHG3	Carcinoma Non-Small-Cell Lung
+SNHG3	Adenocarcinoma of Lung
+SNHG3	Glioma
+SNHG3	Leukemia Myeloid Acute
+SNHG3	Carcinoma Renal Cell
+SNHG3	Laryngeal Neoplasms
+SNHG4	Liver Neoplasms
+SNHG4	Prostatic Neoplasms
+SNHG4	Uterine Cervical Neoplasms
+SNHG4	Lung Neoplasms
+SNHG5	Nasopharyngeal Neoplasms
+SNHG5	Leukemia Myeloid Acute
+SNHG5	Carcinoma Hepatocellular
+SNHG5	Carcinoma Renal Cell
+SNHG5	Glioma
+SNHG5	Endometrial Neoplasms
+SNHG5	Ovarian Neoplasms
+SNHG5	Glioblastoma
+SNHG5	Stomach Neoplasms
+SNHG5	Osteosarcoma
+SNHG5	Colorectal Neoplasms
+SNHG5	Melanoma
+SNHG5	Leukemia Myelogenous Chronic BCR-ABL Positive
+SNHG5	Breast Neoplasms
+SNHG5	Adenocarcinoma of Lung
+SNHG5	Urinary Bladder Neoplasms
+SNHG5	Prostatic Neoplasms
+SNHG6	Carcinoma Non-Small-Cell Lung
+SNHG6	Carcinoma Hepatocellular
+SNHG6	Glioma
+SNHG6	Pancreatic Neoplasms
+SNHG6	Cholangiocarcinoma
+SNHG6	Prostatic Neoplasms
+SNHG6	Esophageal Squamous Cell Carcinoma
+SNHG6	Breast Neoplasms
+SNHG6	Colorectal Neoplasms
+SNHG6	Osteosarcoma
+SNHG6	Urinary Bladder Neoplasms
+SNHG6	Tongue Neoplasms
+SNHG6	Adenocarcinoma of Lung
+SNHG6	Carcinoma Renal Cell
+SNHG6	Wilms Tumor
+SNHG6	Stomach Neoplasms
+SNHG6	Glioblastoma
+SNHG6	Esophageal Neoplasms
+SNHG7	Uterine Cervical Neoplasms
+SNHG7	Prostatic Neoplasms
+SNHG7	Urinary Bladder Neoplasms
+SNHG7	Osteosarcoma
+SNHG7	Colorectal Neoplasms
+SNHG7	Esophageal Neoplasms
+SNHG7	Melanoma
+SNHG7	Neuroblastoma
+SNHG7	Nasopharyngeal Neoplasms
+SNHG7	Adenocarcinoma of Lung
+SNHG7	Pancreatic Neoplasms
+SNHG7	Carcinoma Hepatocellular
+SNHG7	Breast Neoplasms
+SNHG7	Carcinoma Renal Cell
+SNHG7	Stomach Neoplasms
+SNHG7	Thyroid Neoplasms
+SNHG7	Carcinoma Non-Small-Cell Lung
+SNHG7	Glioblastoma
+SNHG7	Lung Neoplasms
+SNHG8	Uterine Cervical Neoplasms
+SNHG8	Carcinoma Non-Small-Cell Lung
+SNHG8	Carcinoma Hepatocellular
+SNHG8	Endometrial Neoplasms
+SNHG8	Stomach Neoplasms
+SNHG9	Pancreatic Neoplasms
+SNHG9	Glioblastoma
+sONE	Breast Neoplasms
+sONE	Triple Negative Breast Neoplasms
+SOX2	Sarcoma Ewing
+SOX2	Breast Neoplasms
+SOX21-AS1	Glioma
+SOX21-AS1	Carcinoma Hepatocellular
+SOX21-AS1	Triple Negative Breast Neoplasms
+SOX21-AS1	Uterine Cervical Neoplasms
+SOX21-AS1	Neuroblastoma
+SOX21-AS1	Colorectal Neoplasms
+SOX21-AS1	Adenocarcinoma of Lung
+SOX21-AS1	Squamous Cell Carcinoma of Head and Neck
+SOX2OT	Urinary Bladder Neoplasms
+SOX2OT	Carcinoma Hepatocellular
+SOX2OT	Squamous Cell Carcinoma of Head and Neck
+SOX2OT	Stomach Neoplasms
+SOX2OT	Uterine Cervical Neoplasms
+SOX2OT	Multiple Myeloma
+SOX2OT	Carcinoma Non-Small-Cell Lung
+SOX2OT	Esophageal Squamous Cell Carcinoma
+SOX2OT	Glioblastoma
+SOX2OT	Neuroblastoma
+SOX2OT	Teratocarcinoma
+SOX2OT	Ovarian Neoplasms
+SOX2OT	Colorectal Neoplasms
+SOX2OT	Cholangiocarcinoma
+SOX2OT	Breast Neoplasms
+SOX2-OT	Laryngeal Neoplasms
+SOX2-OT	Nasopharyngeal Neoplasms
+SOX2-OT	Cholangiocarcinoma
+SOX2-OT	Osteosarcoma
+SOX2OTV7	Osteosarcoma
+SPINT1-AS1	Colorectal Neoplasms
+SPINT1-AS1	Esophageal Squamous Cell Carcinoma
+SPRY4-IT1	Osteosarcoma
+SPRY4-IT1	Breast Neoplasms
+SPRY4-IT1	Carcinoma Non-Small-Cell Lung
+SPRY4-IT1	Carcinoma Hepatocellular
+SPRY4-IT1	Melanoma
+SPRY4-IT1	Uterine Cervical Neoplasms
+SPRY4-IT1	Stomach Neoplasms
+SPRY4-IT1	Esophageal Squamous Cell Carcinoma
+SPRY4-IT1	Pancreatic Neoplasms
+SPRY4-IT1	Prostatic Neoplasms
+SPRY4-IT1	Cholangiocarcinoma
+SPRY4-IT1	Thyroid Neoplasms
+SPRY4-IT1	Gallbladder Neoplasms
+SPRY4-IT1	Adenocarcinoma of Lung
+SPRY4-IT1	Carcinoma Renal Cell
+SPRY4-IT1	Glioma
+SPRY4-IT1	Urinary Bladder Neoplasms
+SPRY4-IT1	Ovarian Neoplasms
+SPRY4-IT1	Colorectal Neoplasms
+SRA	Melanoma
+SRA	Endometrial Neoplasms
+SRA	Breast Neoplasms
+SRA	Uterine Cervical Neoplasms
+SRA1	Carcinoma Hepatocellular
+SRA1	Breast Neoplasms
+SRHC	Carcinoma Hepatocellular
+SSTR5-AS1	Gallbladder Neoplasms
+SSTR5-AS1	Nasopharyngeal Neoplasms
+ST3GAL6-AS1	Colorectal Neoplasms
+ST3GAL6-AS1	Multiple Myeloma
+ST8SIA6-AS1	Breast Neoplasms
+SUMO1P3	Carcinoma Hepatocellular
+SUMO1P3	Carcinoma Non-Small-Cell Lung
+SUMO1P3	Colorectal Neoplasms
+SUMO1P3	Pancreatic Neoplasms
+SUMO1P3	Stomach Neoplasms
+SUMO1P3	Breast Neoplasms
+SUMO1P3	Colonic Neoplasms
+SUMO1P3	Urinary Bladder Neoplasms
+SUZ12P1	Prostatic Neoplasms
+TALNEC2	Breast Neoplasms
+TALNEC2	Glioma
+TATDN1	Carcinoma Non-Small-Cell Lung
+TATDN1	Carcinoma Hepatocellular
+TATDN1	Breast Neoplasms
+TC0101441	Carcinoma Ovarian Epithelial
+TC0101441	Ovarian Neoplasms
+TCL6	Carcinoma Renal Cell
+TCL6	Carcinoma Hepatocellular
+TCL6	Breast Neoplasms
+TCL6	Retinoblastoma
+TCL6	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma
+TDRG1	Uterine Cervical Neoplasms
+TDRG1	Carcinoma Non-Small-Cell Lung
+TDRG1	Stomach Neoplasms
+TDRG1	Endometrial Neoplasms
+TDRG1	Carcinoma Ovarian Epithelial
+THOR	Nasopharyngeal Neoplasms
+THOR	Osteosarcoma
+THOR	Retinoblastoma
+THOR	Carcinoma Hepatocellular
+THOR	Liver Neoplasms
+THOR	Stomach Neoplasms
+THOR	Colonic Neoplasms
+TINCR	Carcinoma Hepatocellular
+TINCR	Carcinoma Renal Cell
+TINCR	Colorectal Neoplasms
+TINCR	Ovarian Neoplasms
+TINCR	Prostatic Neoplasms
+TINCR	Breast Neoplasms
+TINCR	Adenocarcinoma of Lung
+TINCR	Lung Neoplasms
+TINCR	Carcinoma Non-Small-Cell Lung
+TINCR	Urinary Bladder Neoplasms
+TINCR	Esophageal Squamous Cell Carcinoma
+TINCR	Stomach Neoplasms
+TMPO-AS1	Retinoblastoma
+TMPO-AS1	Stomach Neoplasms
+TMPO-AS1	Urinary Bladder Neoplasms
+TMPO-AS1	Adenocarcinoma of Lung
+TMPO-AS1	Uterine Cervical Neoplasms
+TMPO-AS1	Colorectal Neoplasms
+TMPO-AS1	Osteosarcoma
+TMPO-AS1	Prostatic Neoplasms
+TMPO-AS1	Breast Neoplasms
+TMPO-AS1	Carcinoma Non-Small-Cell Lung
+TNRC6C-AS1	Thyroid Neoplasms
+TNRC6C-AS1	Thyroid Cancer Papillary
+TOB1-AS1	Stomach Neoplasms
+TOB1-AS1	Uterine Cervical Neoplasms
+TP53TG1	Carcinoma Non-Small-Cell Lung
+TP53TG1	Ovarian Neoplasms
+TP53TG1	Colonic Neoplasms
+TP53TG1	Glioma
+TP53TG1	Stomach Neoplasms
+TP73-AS1	Retinoblastoma
+TP73-AS1	Adenocarcinoma of Lung
+TP73-AS1	Carcinoma Non-Small-Cell Lung
+TP73-AS1	Carcinoma Renal Cell
+TP73-AS1	Cholangiocarcinoma
+TP73-AS1	Ovarian Neoplasms
+TP73-AS1	Osteosarcoma
+TP73-AS1	Stomach Neoplasms
+TP73-AS1	Carcinoma Hepatocellular
+TP73-AS1	Colorectal Neoplasms
+TP73-AS1	Uterine Cervical Neoplasms
+TP73-AS1	Medulloblastoma
+TP73-AS1	Carcinoma Ovarian Epithelial
+TP73-AS1	Breast Neoplasms
+TP73-AS1	Pancreatic Neoplasms
+TP73-AS1	Glioblastoma
+TP73-AS1	Multiple Myeloma
+TP73-AS1	Urinary Bladder Neoplasms
+TP73-AS1	Esophageal Squamous Cell Carcinoma
+TP73-AS1	Oligodendroglioma
+TP73-AS1	Glioma
+TPT1-AS1	Stomach Neoplasms
+TPT1-AS1	Colorectal Neoplasms
+TPT1-AS1	Carcinoma Ovarian Epithelial
+TPT1-AS1	Uterine Cervical Neoplasms
+TPT1-AS1	Glioma
+TPTE2P1	Carcinoma Hepatocellular
+TPTE2P1	Colorectal Neoplasms
+TPTEP1	Carcinoma Non-Small-Cell Lung
+TPTEP1	Carcinoma Hepatocellular
+TRERNA	Colorectal Neoplasms
+TRERNA	Carcinoma Hepatocellular
+TRERNA1	Carcinoma Non-Small-Cell Lung
+TRERNA1	Stomach Neoplasms
+TRERNA1	Carcinoma Hepatocellular
+TRPM2-AS	Stomach Neoplasms
+TRPM2-AS	Breast Neoplasms
+TRPM2-AS	Colorectal Neoplasms
+TRPM2-AS	Glioma
+TRPM2-AS	Carcinoma Hepatocellular
+TRPM2-AS	Carcinoma Non-Small-Cell Lung
+TRPM2-AS	Prostatic Neoplasms
+TSlnc8	Carcinoma Non-Small-Cell Lung
+TSlnc8	Glioma
+TSlnc8	Breast Neoplasms
+TTN-AS1	Breast Neoplasms
+TTN-AS1	Ovarian Neoplasms
+TTN-AS1	Stomach Neoplasms
+TTN-AS1	Thyroid Cancer Papillary
+TTN-AS1	Colorectal Neoplasms
+TTN-AS1	Prostatic Neoplasms
+TTN-AS1	Adenocarcinoma of Lung
+TTN-AS1	Osteosarcoma
+TTN-AS1	Uterine Cervical Neoplasms
+TTTY15	Prostatic Neoplasms
+TTTY15	Carcinoma Non-Small-Cell Lung
+TUBA4B	Colorectal Neoplasms
+TUBA4B	Breast Neoplasms
+TUBA4B	Stomach Neoplasms
+TUBA4B	Ovarian Neoplasms
+TUBA4B	Carcinoma Non-Small-Cell Lung
+TUC338	Urinary Bladder Neoplasms
+TUC338	Prostatic Neoplasms
+TUC338	Lung Neoplasms
+TUC338	Carcinoma Hepatocellular
+TUG1	Esophageal Squamous Cell Carcinoma
+TUG1	Leukemia Myeloid Acute
+TUG1	Prostatic Neoplasms
+TUG1	Osteosarcoma
+TUG1	Carcinoma Hepatocellular
+TUG1	Colorectal Neoplasms
+TUG1	Hepatoblastoma
+TUG1	Ovarian Neoplasms
+TUG1	Squamous Cell Carcinoma of Head and Neck
+TUG1	Breast Neoplasms
+TUG1	Urinary Bladder Neoplasms
+TUG1	Laryngeal Neoplasms
+TUG1	Pancreatic Neoplasms
+TUG1	Carcinoma Non-Small-Cell Lung
+TUG1	Glioma
+TUG1	Colonic Neoplasms
+TUG1	Carcinoma Renal Cell
+TUG1	Carcinoma Ovarian Epithelial
+TUG1	Nasopharyngeal Neoplasms
+TUG1	Lymphoma
+TUG1	Multiple Myeloma
+TUG1	Uterine Cervical Neoplasms
+TUG1	Cholangiocarcinoma
+TUG1	Melanoma
+TUG1	Gallbladder Neoplasms
+TUG1	Thyroid Neoplasms
+TUG1	Small Cell Lung Carcinoma
+TUG1	Endometrial Neoplasms
+TUG1	Glioblastoma
+TUG1	Stomach Neoplasms
+TUSC7	Colorectal Neoplasms
+TUSC7	Pancreatic Neoplasms
+TUSC7	Endometrial Neoplasms
+TUSC7	Osteosarcoma
+TUSC7	Leukemia Myeloid Acute
+TUSC7	Stomach Neoplasms
+TUSC7	Glioblastoma
+TUSC7	Carcinoma Hepatocellular
+TUSC7	Glioma
+TUSC7	Carcinoma Non-Small-Cell Lung
+TUSC7	Esophageal Squamous Cell Carcinoma
+TUSC8	Breast Neoplasms
+TUSC8	Uterine Cervical Neoplasms
+uc.338	Carcinoma Hepatocellular
+uc.338	Lung Neoplasms
+uc.338	Carcinoma Non-Small-Cell Lung
+uc001lsz	Prostatic Neoplasms
+uc001lsz	Lung Neoplasms
+uc001lsz	Liver Neoplasms
+uc001lsz	Stomach Neoplasms
+uc002mbe.2	Carcinoma Hepatocellular
+uc002mbe.2	Liver Neoplasms
+UCA1	Colorectal Neoplasms
+UCA1	Squamous Cell Carcinoma of Head and Neck
+UCA1	Thyroid Neoplasms
+UCA1	Ovarian Neoplasms
+UCA1	Kidney Neoplasms
+UCA1	Stomach Neoplasms
+UCA1	Retinoblastoma
+UCA1	Thyroid Cancer Papillary
+UCA1	Uterine Cervical Neoplasms
+UCA1	Thyroid Carcinoma Anaplastic
+UCA1	Lung Neoplasms
+UCA1	Breast Neoplasms
+UCA1	Carcinoma Non-Small-Cell Lung
+UCA1	Carcinoma Hepatocellular
+UCA1	Leukemia Myeloid Acute
+UCA1	Glioma
+UCA1	Prostatic Neoplasms
+UCA1	Adrenocortical Carcinoma
+UCA1	Hemangioma
+UCA1	Urinary Bladder Neoplasms
+UCA1	Nasopharyngeal Neoplasms
+UCA1	Melanoma
+UCA1	Esophageal Neoplasms
+UCA1	Colonic Neoplasms
+UCA1	Tongue Neoplasms
+UCA1	Osteosarcoma
+UCA1	Carcinoma Ovarian Epithelial
+UCA1	Cholangiocarcinoma
+UCA1	Pancreatic Intraductal Neoplasms
+UCA1	Glioblastoma
+UCA1	Leukemia Myelogenous Chronic BCR-ABL Positive
+UCA1	Gallbladder Neoplasms
+UCA1	Adenocarcinoma of Lung
+UCA1	Medulloblastoma
+UCA1	Multiple Myeloma
+UCA1	Endometrial Neoplasms
+UCA1	Esophageal Squamous Cell Carcinoma
+UCA1	Liver Neoplasms
+UCA1	Pancreatic Neoplasms
+UCA1	Carcinoma Renal Cell
+UCC	Stomach Neoplasms
+UCC	Colorectal Neoplasms
+UFC1	Stomach Neoplasms
+UFC1	Uterine Cervical Neoplasms
+UFC1	Carcinoma Non-Small-Cell Lung
+UFC1	Breast Neoplasms
+UFC1	Pancreatic Neoplasms
+UNC5B-AS1	Prostatic Neoplasms
+UNC5B-AS1	Thyroid Cancer Papillary
+UNC5B-AS1	Ovarian Neoplasms
+UPAT	Carcinoma Non-Small-Cell Lung
+UPAT	Colonic Neoplasms
+UPF1	Glioma
+UPF1	Carcinoma Hepatocellular
+VPS9D1-AS1	Prostatic Neoplasms
+VPS9D1-AS1	Carcinoma Non-Small-Cell Lung
+VPS9D1-AS1	Stomach Neoplasms
+VPS9D1-AS1	Colorectal Neoplasms
+WDFY3-AS2	Adenocarcinoma of Lung
+WDFY3-AS2	Esophageal Neoplasms
+WDFY3-AS2	Breast Neoplasms
+WDFY3-AS2	Ovarian Neoplasms
+WDFY3-AS2	Carcinoma Hepatocellular
+WEE2-AS1	Triple Negative Breast Neoplasms
+WEE2-AS1	Carcinoma Hepatocellular
+WT1-AS	Thyroid Cancer Papillary
+WT1-AS	Uterine Cervical Neoplasms
+WT1-AS	Leukemia Myeloid Acute
+WT1-AS	Wilms Tumor
+WT1-AS	Carcinoma Hepatocellular
+WT1-AS	Stomach Neoplasms
+X91348	Carcinoma Hepatocellular
+X91348	Carcinoma Renal Cell
+XIAP-AS1	Colonic Neoplasms
+XIAP-AS1	Stomach Neoplasms
+XIST	Breast Neoplasms
+XIST	Glioma
+XIST	Melanoma
+XIST	Triple Negative Breast Neoplasms
+XIST	Colorectal Neoplasms
+XIST	Uterine Cervical Neoplasms
+XIST	Carcinoma Non-Small-Cell Lung
+XIST	Retinoblastoma
+XIST	Nasopharyngeal Neoplasms
+XIST	Carcinoma Hepatocellular
+XIST	Carcinoma Ovarian Epithelial
+XIST	Adenocarcinoma of Lung
+XIST	Osteosarcoma
+XIST	Ovarian Neoplasms
+XIST	Pancreatic Neoplasms
+XIST	Urinary Bladder Neoplasms
+XIST	Stomach Neoplasms
+XIST	Thyroid Neoplasms
+XIST	Carcinoma Renal Cell
+XIST	Esophageal Neoplasms
+XIST	Neuroblastoma
+XIST	Leukemia
+XIST	Glioblastoma
+XIST	Fibrosarcoma
+XIST	Colonic Neoplasms
+XIST	Prostatic Neoplasms
+XIST	Testicular Neoplasms
+XLOC_000303	Uterine Cervical Neoplasms
+XLOC_000303	Colorectal Neoplasms
+XLOC_006390	Pancreatic Neoplasms
+XLOC_006390	Uterine Cervical Neoplasms
+XLOC_008466	Uterine Cervical Neoplasms
+XLOC_008466	Carcinoma Non-Small-Cell Lung
+XLOC_010235	Carcinoma Hepatocellular
+XLOC_010235	Stomach Neoplasms
+XLOC_010588	Colorectal Neoplasms
+XLOC_010588	Uterine Cervical Neoplasms
+YIYA	Breast Neoplasms
+YIYA	Colorectal Neoplasms
+Z38	Stomach Neoplasms
+Z38	Breast Neoplasms
+Z38	Carcinoma Renal Cell
+ZEB1	Esophageal Squamous Cell Carcinoma
+ZEB1	Pancreatic Neoplasms
+ZEB1-AS1	Carcinoma Non-Small-Cell Lung
+ZEB1-AS1	Colorectal Neoplasms
+ZEB1-AS1	Glioma
+ZEB1-AS1	Stomach Neoplasms
+ZEB1-AS1	Prostatic Neoplasms
+ZEB1-AS1	Breast Neoplasms
+ZEB1-AS1	Urinary Bladder Neoplasms
+ZEB1-AS1	Triple Negative Breast Neoplasms
+ZEB1-AS1	Liver Neoplasms
+ZEB1-AS1	Uterine Cervical Neoplasms
+ZEB1-AS1	Melanoma
+ZEB1-AS1	Squamous Cell Carcinoma of Head and Neck
+ZEB1-AS1	Esophageal Squamous Cell Carcinoma
+ZEB1-AS1	Carcinoma Hepatocellular
+ZEB1-AS1	Osteosarcoma
+ZEB2-AS1	Colorectal Neoplasms
+ZEB2-AS1	Carcinoma Non-Small-Cell Lung
+ZEB2-AS1	Squamous Cell Carcinoma of Head and Neck
+ZEB2-AS1	Breast Neoplasms
+ZEB2-AS1	Colonic Neoplasms
+ZEB2-AS1	Leukemia Myeloid Acute
+ZEB2-AS1	Stomach Neoplasms
+ZEB2-AS1	Lung Neoplasms
+ZEB2-AS1	Pancreatic Neoplasms
+ZEB2-AS1	Urinary Bladder Neoplasms
+ZEB2-AS1	Carcinoma Hepatocellular
+ZFAS1	Prostatic Neoplasms
+ZFAS1	Carcinoma Non-Small-Cell Lung
+ZFAS1	Nasopharyngeal Neoplasms
+ZFAS1	Breast Neoplasms
+ZFAS1	Hepatoblastoma
+ZFAS1	Carcinoma Hepatocellular
+ZFAS1	Esophageal Squamous Cell Carcinoma
+ZFAS1	Melanoma
+ZFAS1	Carcinoma Renal Cell
+ZFAS1	Uterine Cervical Neoplasms
+ZFAS1	Glioma
+ZFAS1	Osteosarcoma
+ZFAS1	Leukemia Promyelocytic Acute
+ZFAS1	Leukemia-Lymphoma Adult T-Cell
+ZFAS1	Thyroid Neoplasms
+ZFAS1	Squamous Cell Carcinoma of Head and Neck
+ZFAS1	Thyroid Cancer Papillary
+ZFAS1	Stomach Neoplasms
+ZFAS1	Colorectal Neoplasms
+ZFAS1	Leukemia Myeloid Acute
+ZFAS1	Ovarian Neoplasms
+ZFAS1	Carcinoma Ovarian Epithelial
+ZFAS1	Colonic Neoplasms
+ZFAS1	Urinary Bladder Neoplasms
+ZFPM2-AS1	Esophageal Squamous Cell Carcinoma
+ZFPM2-AS1	Stomach Neoplasms
+ZFPM2-AS1	Adenocarcinoma of Lung
+ZFPM2-AS1	Carcinoma Renal Cell
+ZNF281	Carcinoma Hepatocellular
+ZNF281	Stomach Neoplasms
+ZNF667-AS1	Esophageal Squamous Cell Carcinoma
+ZNF667-AS1	Uterine Cervical Neoplasms
+ZNFX1-AS1	Colorectal Neoplasms
+ZNFX1-AS1	Stomach Neoplasms
+ZNFX1-AS1	Carcinoma Hepatocellular
+ZNRD1-AS1	Endometrial Neoplasms
+ZNRD1-AS1	Lung Neoplasms
+ZXF1	Adenocarcinoma of Lung
+ZXF2	Stomach Neoplasms
+ZXF2	Adenocarcinoma of Lung
