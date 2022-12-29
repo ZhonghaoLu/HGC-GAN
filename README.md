@@ -32,5 +32,6 @@ The details of the data are shown in the table.
 * train.py: training Model.
 
 ## Question
-+ If you have any problems or find mistakes in this code, please contact with me: Zhonghao Lu: lzhao6688@163.com
+* If you have any problems or find mistakes in this code, please contact with me: 
+Zhonghao Lu: lzhao6688@163.com
 
