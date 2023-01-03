@@ -10,7 +10,7 @@ Copyright (C) 2023 Zhonghao Lu, Inc. All Rights Reserved
 @File    : main.py
 @Software: PyCharm
 @Description:
-Pytorch Implementation of Heterogeneous Graph Convolutional Generative Adversarial Network (HGCGANLDA) model in:
+Pytorch Implementation of Heterogeneous Graph Convolutional Generative Adversarial Network (HGC-GAN) model in:
 Zhonghao Lu et al. Predicting lncRNA-disease associations based on heterogeneous graph convolutional generative adversarial network
 '''
 
