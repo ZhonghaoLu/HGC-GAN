@@ -5,7 +5,7 @@ Author: Zhonghao Lu.
 
 
 ## Overview
-This repository contains codes necessary to run the HGCGANLDA algorithm. 
+This repository contains codes necessary to run the HGC-GAN algorithm. 
 
 ## Running Environment
 * Windows environment, Python 3.7
